@@ -233,7 +233,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :battery: Battery
 
-- [ACCA](https://github.com/MatteCarra/AccA)
+- [ACCA](https://github.com/MatteCarra/AccA) **`DEAD`**
 - [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
 - [Battery Tool](https://github.com/Domi04151309/BatteryTool)
 - [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
