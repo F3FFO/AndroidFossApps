@@ -94,6 +94,7 @@ If you want to help out with the project, here are some ideas:
     - [YouTube Music Client :warning:](#youtube-music-client)
     - [Twitch :warning:](#twitch)
     - [Video Player](#video-player)
+    - [Video Editor](#video-editor)
 - [:memo: Note](#memo-note)
 - [:computer: Office](#computer-office)
 - [:art: Painting](#art-painting)
@@ -888,6 +889,10 @@ If you want to help out with the project, here are some ideas:
 - [VLC](https://github.com/videolan/vlc-android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+#### Video Editor
+
+- [Open Video Editor](https://github.com/devhyper/open-video-editor)
 
 ---
 
