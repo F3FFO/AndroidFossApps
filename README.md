@@ -41,7 +41,7 @@ If you want to help out with the project, here are some ideas:
 - [Birday](https://github.com/m-i-n-a-r/birday)
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
-- [Bura](https://github.com/davidtakac/bura))
+- [](https://github.com/davidtakac/bura)
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
@@ -1494,7 +1494,7 @@ If you want to help out with the project, here are some ideas:
 ### :sunny: Weather
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
-- [Bura](https://github.com/davidtakac/bura))
+- [Bura](https://github.com/davidtakac/bura)
 - [Clima](https://github.com/Lacerte/clima)
 - [Forecastie](https://github.com/martykan/forecastie)
 - [omWeather](https://github.com/woheller69/omweather)
