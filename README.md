@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 - [Clock](https://github.com/BlackyHawky/Clock)
@@ -392,6 +393,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Call Blocker/Spam Filter
 
+- [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam)
 - [Silence](https://github.com/x13a/Silence)
 - [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker)
