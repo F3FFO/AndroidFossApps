@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 - [Clock](https://github.com/BlackyHawky/Clock)
 - [Chrono](https://github.com/vicolo-dev/chrono)
@@ -403,6 +404,7 @@ If you want to help out with the project, here are some ideas:
 
 #### SMS
 
+- [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [QKSMS](https://github.com/moezbhatti/qksms)
     - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
