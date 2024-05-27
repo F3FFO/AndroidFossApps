@@ -35,6 +35,15 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
+- [WordleSolver](https://github.com/billthefarmer/wordlesolver)
+- [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
+- [Quinb](https://gitlab.com/deepdaikon/Quinb)
+- [Dooz](https://github.com/yamin8000/Dooz)
+- [Mintest](https://github.com/minetest/minetest)
+- [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
+- [Open Golf](https://github.com/mgerdes/Open-Golf)
+- [Mindustry](https://github.com/Anuken/Mindustry)
 - [Open Video Editor](https://github.com/devhyper/open-video-editor)
 
 ---
@@ -77,7 +86,7 @@ If you want to help out with the project, here are some ideas:
 - [:bricks: Firewall](#bricks-firewall)
 - [:card_file_box: Flashcard](#card_file_box-flashcard)
 - [:flashlight: Flashlight](#flashlight-flashlight)
-- [:video_game: Game & Emulator](#video_game-game--emulator)
+- [:video_game: Games & Emulator](#video_game-games--emulator)
 - [:flower_playing_cards: Icon Pack](#flower_playing_cards-icon-pack)
 - [:mount_fuji: Image](#mount_fuji-image)
     - [Image Manipulation](#image-manipulation)
@@ -571,7 +580,13 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-### :video_game: Game & Emulator
+### :video_game: Games & Emulator
+
+- [Mindustry](https://github.com/Anuken/Mindustry)
+- [Minetest](https://github.com/minetest/minetest)
+- [Open Golf](https://github.com/mgerdes/Open-Golf)
+- [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
+- [Quinb](https://gitlab.com/deepdaikon/Quinb)
 
 #### Board
 
@@ -613,9 +628,15 @@ If you want to help out with the project, here are some ideas:
 - [RetroArch](https://github.com/libretro/RetroArch)
 - [Yuzu](https://github.com/yuzu-emu/yuzu)
 
+#### Logic
+
+- [WordleSolver](https://github.com/billthefarmer/wordlesolver)
+- [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
+
 #### Puzzle
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
+- [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 #### Snake
 
