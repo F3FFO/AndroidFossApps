@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Chrono](https://github.com/vicolo-dev/chrono)
 - [MedTimer](https://github.com/Futsch1/medTimer)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
@@ -366,6 +367,7 @@ If you want to help out with the project, here are some ideas:
 - [Clock](https://github.com/qw123wh/new-clock-fdroid)
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Cofi](https://github.com/rozPierog/Cofi)
+- [Chrono](https://github.com/vicolo-dev/chrono)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
 - [Overload](https://codeberg.org/pabloscloud/Overload)
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
