@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [Bura](https://github.com/davidtakac/bura))
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
@@ -1074,6 +1075,7 @@ If you want to help out with the project, here are some ideas:
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
 - [MuPDF](http://mupdf.com/)
+- [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
