@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [MedTimer](https://github.com/Futsch1/medTimer)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
@@ -1276,6 +1277,7 @@ If you want to help out with the project, here are some ideas:
 - [Massive](https://gitea.presley.nz/brandon.presley/Massive)
 - [Medic Log](https://github.com/rh-id/a-medic-log)
 - [MediLog](https://codeberg.org/toz/MediLog)
+
 - [Monochromatic](https://github.com/RichyHBM/Monochromatic)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
