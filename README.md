@@ -33,7 +33,7 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ## :new: Newly Added Apps!
-*Last **20 apps** that were recently added to list!*
+*Last **25 apps** that were recently added to list!*
 
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
