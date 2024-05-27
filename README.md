@@ -288,7 +288,7 @@ If you want to help out with the project, here are some ideas:
 - [Mint Calculator](https://github.com/boredcodebyk/mintcalc)
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
-- [unitto](https://github.com/sadellie/unitto)
+- [unitto](https://github.com/sadellie/unitto) **`DEAD`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
 - [zCalc](https://github.com/ziadOUA/zCalc)
 
