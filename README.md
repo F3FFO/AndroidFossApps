@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [My Brain](https://github.com/mhss1/MyBrain)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [Birday](https://github.com/m-i-n-a-r/birday)
@@ -953,6 +954,7 @@ If you want to help out with the project, here are some ideas:
 - [Markor](https://github.com/gsantner/markor)
 - [Mavinote](https://github.com/bwqr/mavinote)
 - [MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid)
+- [My Brain](https://github.com/mhss1/MyBrain)
 - [neutriNote](https://github.com/appml/neutrinote)
 - [Notally](https://github.com/OmGodse/Notally)
 - [NoteCrypt](https://github.com/RyuzakiKK/NoteCrypt)
