@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Birday](https://github.com/m-i-n-a-r/birday)
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [Bura](https://github.com/davidtakac/bura))
@@ -294,6 +295,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :calendar: Calendar
 
+- [Birday](https://github.com/m-i-n-a-r/birday)
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
 - [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
 - [Persian Calendar](https://github.com/persian-calendar/persian-calendar)
