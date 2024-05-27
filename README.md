@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Clock](https://github.com/BlackyHawky/Clock)
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [MedTimer](https://github.com/Futsch1/medTimer)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
@@ -365,6 +366,7 @@ If you want to help out with the project, here are some ideas:
 ### :watch: Clock & Time
 
 - [Clock](https://github.com/qw123wh/new-clock-fdroid)
+- [Clock](https://github.com/BlackyHawky/Clock)
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Chrono](https://github.com/vicolo-dev/chrono)
