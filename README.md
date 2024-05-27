@@ -888,11 +888,11 @@ If you want to help out with the project, here are some ideas:
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [VLC](https://github.com/videolan/vlc-android)
 
-<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
-
 #### Video Editor
 
 - [Open Video Editor](https://github.com/devhyper/open-video-editor)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
 ---
 
