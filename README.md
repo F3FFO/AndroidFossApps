@@ -1409,9 +1409,9 @@ If you want to help out with the project, here are some ideas:
 
 ### :secret: Translator
 
-- [Arna Translate](https://github.com/MahanRahmati/translate)
+- [Arna Translate](https://github.com/MahanRahmati/translate) **`DEAD`**
 - [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
-- [LibreTranslator](https://codeberg.org/BeoCode/LibreTranslator)
+- [LibreTranslator](https://codeberg.org/BeoCode/LibreTranslator) **`DEAD`**
 - [Lentil Translate](https://github.com/yaxarat/lingvaandroid)
 - [Monocles Translator](https://codeberg.org/Arne/monocles_translator)
 - [Screen Translator](https://github.com/vamsi3/screen-translator)
