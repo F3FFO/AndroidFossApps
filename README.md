@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [Bura](https://github.com/davidtakac/bura))
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
@@ -531,6 +532,7 @@ If you want to help out with the project, here are some ideas:
 #### File Sharing
 
 - [Cryptomator](https://github.com/cryptomator/android)
+- [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Device Connect](https://github.com/cyanomiko/dcnnt-android)
 - [Filester](https://github.com/rouzbehzarei/filester)
 - [FTPClient](https://codeberg.org/qwerty287/ftpclient)
