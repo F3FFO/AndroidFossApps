@@ -35,6 +35,8 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Open Video Editor](https://github.com/devhyper/open-video-editor)
+
 ---
 
 ## :scroll: Table of Contents
