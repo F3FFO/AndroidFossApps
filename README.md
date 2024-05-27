@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Bura](https://github.com/davidtakac/bura))
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
@@ -1481,6 +1482,7 @@ If you want to help out with the project, here are some ideas:
 ### :sunny: Weather
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+- [Bura](https://github.com/davidtakac/bura))
 - [Clima](https://github.com/Lacerte/clima)
 - [Forecastie](https://github.com/martykan/forecastie)
 - [omWeather](https://github.com/woheller69/omweather)
