@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **20 apps** that were recently added to list!*
 
+- [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 - [Clock](https://github.com/BlackyHawky/Clock)
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [MedTimer](https://github.com/Futsch1/medTimer)
@@ -398,6 +399,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 - [Koler](https://github.com/Chooloo/koler)
+- [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 
 #### SMS
 
