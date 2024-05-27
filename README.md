@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Podcini](https://github.com/XilinJia/Podcini)
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [Birday](https://github.com/m-i-n-a-r/birday)
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
@@ -847,6 +848,7 @@ If you want to help out with the project, here are some ideas:
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
 - [Audio Anchor](https://github.com/flackbash/AudioAnchor)
 - [Escapepod](https://codeberg.org/y20k/escapepod)
+- [Podcini](https://github.com/XilinJia/Podcini)
 - [Podverse](https://github.com/podverse/podverse-fdroid)
 - [Tsacdop](https://github.com/stonega/tsacdop)
 - [Voice](https://github.com/PaulWoitaschek/Voice)
