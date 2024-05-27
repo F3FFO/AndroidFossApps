@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [Birday](https://github.com/m-i-n-a-r/birday)
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
@@ -704,6 +705,7 @@ If you want to help out with the project, here are some ideas:
 - [FFShare](https://github.com/caydey/ffshare)
 - [ImagePipe](https://codeberg.org/Starfish/Imagepipe)
 - [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
+- [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur)
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
 - [SuperImage](https://github.com/Lucchetto/SuperImage)
