@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Dooz](https://github.com/yamin8000/Dooz)
 - [Mintest](https://github.com/minetest/minetest)
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
-- [Open Golf](https://github.com/mgerdes/Open-Golf)
 
 ---
 
@@ -1355,6 +1355,7 @@ If you want to help out with the project, here are some ideas:
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
 - [Termux](https://github.com/termux/termux-app)
+    - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
 - [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
