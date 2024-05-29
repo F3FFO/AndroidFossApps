@@ -1,7 +1,7 @@
 <div align="center">
 
 # Android Foss Apps - AFA
-![Last update](https://img.shields.io/static/v1?label=updated&message=March%2030,%202024&color=388E3C&style=flat)
+![Last update](https://img.shields.io/static/v1?label=updated&message=May%2029,%202024&color=388E3C&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/F3FFO/afa?style=flat)
 ![License](https://img.shields.io/badge/license-GPLv3-yellow.svg?style=flat)
 
@@ -1250,9 +1250,9 @@ If you want to help out with the project, here are some ideas:
 > Is only a FOSS frontend, is based in closed-source system.
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- [Pineapple](https://github.com/galaxygoldfish/pineapple)
+- [Pineapple](https://github.com/galaxygoldfish/pineapple) **`DEAD`**
 - [RedReader](https://github.com/QuantumBadger/RedReader)
-- [Slide](https://github.com/ccrama/Slide)
+- [Slide](https://github.com/ccrama/Slide) **`DEAD`**
 - [Stealth](https://gitlab.com/cosmosapps/stealth)
 
 #### VK
