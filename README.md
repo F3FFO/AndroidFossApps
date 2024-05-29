@@ -157,6 +157,7 @@ If you want to help out with the project, here are some ideas:
 - [:running: Sport & Health](#running-sport--health)
 - [:arrows_counterclockwise: Synchronisation](#arrows_counterclockwise-synchronisation)
 - [:toolbox: System](#toolbox-system)
+    - [ADB Tools](#adb-tools)
     - [Gesture Control](#gesture-control)
     - [Optimizer & Cleaner](#optimizer--cleaner)
     - [SuperUser](#superuser)
@@ -1342,25 +1343,29 @@ If you want to help out with the project, here are some ideas:
 ### :toolbox: System
 
 - [Auditor](https://github.com/GrapheneOS/Auditor)
-- [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController)
+- [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor)
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
 - [LibChecker](https://github.com/zhaobozhen/LibChecker)
-- [LogFox](https://github.com/F0x1d/LogFox)
 - [Metronome](https://github.com/Kr0oked/Metronome)
 - [Octi](https://github.com/d4rken-org/octi)
 - [Permission Pilot](https://github.com/d4rken-org/permission-pilot)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
-- [Scoop](https://github.com/TacoTheDank/Scoop)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
 - [Termux](https://github.com/termux/termux-app)
 - [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
-- [WADBS](https://github.com/Smooth-E/wireless-adb-switch)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
+
+#### ADB Tools
+
+- [AShell You](https://github.com/DP-Hridayan/ashell)
+- [LogFox](https://github.com/F0x1d/LogFox)
+- [Scoop](https://github.com/TacoTheDank/Scoop)
+- [WADBS](https://github.com/Smooth-E/wireless-adb-switch)
 
 #### Gesture Control
 
