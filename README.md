@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [APatch](https://github.com/bmax121/APatch)
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [My Brain](https://github.com/mhss1/MyBrain)
 - [Podcini](https://github.com/XilinJia/Podcini)
@@ -1370,6 +1371,7 @@ If you want to help out with the project, here are some ideas:
 #### SuperUser
 
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
+- [APatch](https://github.com/bmax121/APatch)
 - [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer)
 - [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
 - [FoxMMM](https://github.com/Androidacy/MagiskModuleManager)
