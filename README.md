@@ -35,6 +35,9 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Pocket Mode](https://github.com/AChep/PocketMode)
+- [SoundTap](https://github.com/Angel-Studio/SoundTap)
+- [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 - [APatch](https://github.com/bmax121/APatch)
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [My Brain](https://github.com/mhss1/MyBrain)
@@ -58,8 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Mintest](https://github.com/minetest/minetest)
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
-- [Mindustry](https://github.com/Anuken/Mindustry)
-- [Open Video Editor](https://github.com/devhyper/open-video-editor)
 
 ---
 
@@ -155,7 +156,8 @@ If you want to help out with the project, here are some ideas:
     - [Xda :warning:](#xda)
 - [:running: Sport & Health](#running-sport--health)
 - [:arrows_counterclockwise: Synchronisation](#arrows_counterclockwise-synchronisation)
-- [:toolbox: System Tools](#toolbox-system-tools)
+- [:toolbox: System](#toolbox-system)
+    - [Gesture Control](#gesture-control)
     - [Optimizer & Cleaner](#optimizer--cleaner)
     - [SuperUser](#superuser)
     - [Theme](#theme)
@@ -1337,7 +1339,7 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-### :toolbox: System Tools
+### :toolbox: System
 
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController)
@@ -1359,6 +1361,12 @@ If you want to help out with the project, here are some ideas:
 - [WADBS](https://github.com/Smooth-E/wireless-adb-switch)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
+
+#### Gesture Control
+
+- [Pocket Mode](https://github.com/AChep/PocketMode)
+- [SoundTap](https://github.com/Angel-Studio/SoundTap)
+- [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 
 #### Optimizer & Cleaner
 
