@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [FitBook](https://github.com/brandonp2412/FitBook)
 - [My Brain](https://github.com/mhss1/MyBrain)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
@@ -1288,6 +1289,7 @@ If you want to help out with the project, here are some ideas:
 - [Drip](https://gitlab.com/bloodyhealth/drip)
 - [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
+- [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 - [Food-E](https://github.com/SuhasDissa/Food-E-App)
 - [HeartBeat](https://github.com/berdosi/HeartBeat)
