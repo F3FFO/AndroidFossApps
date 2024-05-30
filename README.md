@@ -1,7 +1,7 @@
 <div align="center">
 
 # Android Foss Apps - AFA
-![Last update](https://img.shields.io/static/v1?label=updated&message=May%2029,%202024&color=388E3C&style=flat)
+![Last update](https://img.shields.io/static/v1?label=updated&message=May%2030,%202024&color=388E3C&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/F3FFO/afa?style=flat)
 ![License](https://img.shields.io/badge/license-GPLv3-yellow.svg?style=flat)
 
@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
 - [Dooz](https://github.com/yamin8000/Dooz)
 - [Mintest](https://github.com/minetest/minetest)
-- [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
 
 ---
 
@@ -386,6 +386,7 @@ If you want to help out with the project, here are some ideas:
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Chrono](https://github.com/vicolo-dev/chrono)
+- [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
 - [Overload](https://codeberg.org/pabloscloud/Overload)
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
