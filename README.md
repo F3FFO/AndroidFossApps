@@ -73,6 +73,10 @@ If you want to help out with the project, here are some ideas:
 - [:floppy_disk: Backup](#floppy_disk-backup)
 - [:battery: Battery](#battery-battery)
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
+    - [Chrome Based](#chrome-based)
+    - [Firefox Based](#firefox-based)
+    - [Other](#other)
+    - [Tools](#tools)
 - [:1234: Calculator](#1234-calculator)
 - [:calendar: Calendar](#calendar-calendar)
 - [:camera: Camera](#camera-camera)
@@ -259,24 +263,35 @@ If you want to help out with the project, here are some ideas:
 
 ### :globe_with_meridians: Browser
 
+#### Chrome Based
+
 - [Cromite](https://github.com/uazo/cromite)
-- [DuckDuckGo Privacy Browser](https://github.com/duckduckgo/Android)
-- [EinkBro](https://github.com/plateaukao/browser)
-- [FFUpdater](https://github.com/Tobi823/ffupdater)
+
+#### Firefox Based
+
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
     - [Firefox Focus](https://hg.mozilla.org/mozilla-central) **`FORK`**
     - [Firefox Klar](https://hg.mozilla.org/mozilla-central) **`FORK`**
+    - [Fennec](https://gitlab.com/relan/fennecbuild)
+        - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
+    - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
+    - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
+
+#### Other
+
+- [DuckDuckGo Privacy Browser](https://github.com/duckduckgo/Android)
+- [EinkBro](https://github.com/plateaukao/browser)
 - [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser)
-- [Fennec](https://gitlab.com/relan/fennecbuild)
-    - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
 - [Fulguris Web Browser](https://github.com/Slion/Fulguris)
-- [IdiomReplaceX Browser App](https://github.com/idiomReplaceX/IdiomReplaceX-app)
-- [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)
+- [IdiomReplaceX Browser App](https://github.com/idiomReplaceX/IdiomReplaceX-app) **`DEAD`**
 - [Lightning](https://github.com/anthonycr/Lightning-Browser)
 - [Monocles Browser](https://codeberg.org/Arne/monocles_browser)
 - [Privacy Browser](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary)
-- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb)
-- [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser)
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) **`DEAD`**
+
+#### Tools
+
+- [FFUpdater](https://github.com/Tobi823/ffupdater)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
