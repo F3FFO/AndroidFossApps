@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Flexify](https://github.com/brandonp2412/Flexify)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
-- [Dooz](https://github.com/yamin8000/Dooz)
 
 ---
 
@@ -266,6 +266,7 @@ If you want to help out with the project, here are some ideas:
 #### Chrome Based
 
 - [Cromite](https://github.com/uazo/cromite)
+- [Thorium](https://github.com/Alex313031/Thorium-Android)
 
 #### Firefox Based
 
