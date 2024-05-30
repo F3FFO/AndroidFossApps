@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 - [Orbot](https://github.com/guardianproject/orbot)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Flexify](https://github.com/brandonp2412/Flexify)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [MedTimer](https://github.com/Futsch1/medTimer)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
-- [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 
 ---
 
@@ -293,6 +293,7 @@ If you want to help out with the project, here are some ideas:
 #### Tools
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater)
+- [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
