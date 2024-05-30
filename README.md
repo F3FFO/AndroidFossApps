@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 - [Orbot](https://github.com/guardianproject/orbot)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Clock](https://github.com/BlackyHawky/Clock)
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [MedTimer](https://github.com/Futsch1/medTimer)
-- [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 ---
 
@@ -293,6 +293,7 @@ If you want to help out with the project, here are some ideas:
 #### Tools
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater)
+- [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 
