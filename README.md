@@ -60,8 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 - [Clock](https://github.com/BlackyHawky/Clock)
-- [Chrono](https://github.com/vicolo-dev/chrono)
-- [MedTimer](https://github.com/Futsch1/medTimer)
 
 ---
 
