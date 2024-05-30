@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Orbot](https://github.com/guardianproject/orbot)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Flexify](https://github.com/brandonp2412/Flexify)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
-- [Quinb](https://gitlab.com/deepdaikon/Quinb)
 
 ---
 
@@ -1080,6 +1080,7 @@ If you want to help out with the project, here are some ideas:
 #### Network
 
 - [NetGuard](https://github.com/M66B/NetGuard)
+- [Orbot](https://github.com/guardianproject/orbot)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
