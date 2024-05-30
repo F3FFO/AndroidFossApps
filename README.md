@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Flexify](https://github.com/brandonp2412/Flexify)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
@@ -60,7 +61,6 @@ If you want to help out with the project, here are some ideas:
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
 - [Dooz](https://github.com/yamin8000/Dooz)
-- [Mintest](https://github.com/minetest/minetest)
 
 ---
 
@@ -1296,6 +1296,7 @@ If you want to help out with the project, here are some ideas:
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
+- [Flexify](https://github.com/brandonp2412/Flexify)
 - [Food-E](https://github.com/SuhasDissa/Food-E-App)
 - [HeartBeat](https://github.com/berdosi/HeartBeat)
 - [hEARtest](https://github.com/woheller69/audiometry)
@@ -1307,7 +1308,6 @@ If you want to help out with the project, here are some ideas:
 - [Massive](https://gitea.presley.nz/brandon.presley/Massive)
 - [Medic Log](https://github.com/rh-id/a-medic-log)
 - [MediLog](https://codeberg.org/toz/MediLog)
-
 - [Monochromatic](https://github.com/RichyHBM/Monochromatic)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
