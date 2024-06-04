@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Frigoligo](https://github.com/casimir/frigoligo)
 - [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
-- [Clock](https://github.com/BlackyHawky/Clock)
 
 ---
 
@@ -933,6 +933,7 @@ If you want to help out with the project, here are some ideas:
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
 - [Musify](https://github.com/gokadzev/Musify)
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Vibe Music](https://github.com/sheikhhaziq/vibemusic)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
