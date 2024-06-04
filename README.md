@@ -1548,6 +1548,8 @@ If you want to help out with the project, here are some ideas:
 - [Veterondo](https://github.com/Antonis427/veterondo)
 - [Weather](https://codeberg.org/Beowulf/Weather)
 
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
 ---
 
 ## 🪢 Sources
