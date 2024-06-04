@@ -1,9 +1,9 @@
 <div align="center">
 
 # Android Foss Apps - AFA
-![Last update](https://img.shields.io/static/v1?label=updated&message=May%2030,%202024&color=388E3C&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/F3FFO/afa?style=flat)
-![License](https://img.shields.io/badge/license-GPLv3-yellow.svg?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/F3FFO/AndroidFossApps?style=for-the-badge&label=Last%20update)
+![GitHub Repo stars](https://img.shields.io/github/stars/F3FFO/AndroidFossApps?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/F3FFO/AndroidFossApps?style=for-the-badge)
 
 A place where you can find the best **Free** and **Open Source Software (FOSS)** alternative app for
 **Android**
