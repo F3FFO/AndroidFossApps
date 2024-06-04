@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [Cirrus](https://github.com/woheller69/omweather)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Frigoligo](https://github.com/casimir/frigoligo)
 - [Omnivore](https://github.com/omnivore-app/omnivore)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Bura](https://github.com/davidtakac/)
 - [Carrion](https://gitlab.com/divested-mobile/carrion)
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
-- [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 
 ---
 
@@ -1539,6 +1539,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 - [Bura](https://github.com/davidtakac/bura)
+- [Cirrus](https://github.com/woheller69/omweather)
 - [Clima](https://github.com/Lacerte/clima)
 - [Forecastie](https://github.com/martykan/forecastie)
 - [omWeather](https://github.com/woheller69/omweather)
