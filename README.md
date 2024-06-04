@@ -28,7 +28,7 @@ If you want to help out with the project, here are some ideas:
 |:------------:|-------------------------------------------------------------------------------------------------------------------|
 |  **`DEAD`**  | App whose development is discontinued/paused indefinitely.                                                        |
 |  **`FORK`**  | Projects that uses the source code of an other project as a starting point, then adds modifications on top of it. |
-|     :warning:     | Is only a FOSS frontend, is based in closed-source system.                                                        |
+|     :warning:     | Only the application is FOSS. The service is based on a closed-source or non-FOSS system.                               |
 
 ---
 
@@ -164,6 +164,7 @@ If you want to help out with the project, here are some ideas:
     - [Gesture Control](#gesture-control)
     - [Optimizer & Cleaner](#optimizer--cleaner)
     - [SuperUser](#superuser)
+    - [Terminal](#terminal)
     - [Theme](#theme)
 - [:black_nib: Text Editor & Code Editor/IDE](#black_nib-text-editor--code-editoride)
 - [:speaking_head: Text-to-Speech](#speaking_head-text-to-speech)
@@ -377,7 +378,7 @@ If you want to help out with the project, here are some ideas:
 #### Telegram
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
 - [exteraGram](https://github.com/exteraSquad/exteraGram)
@@ -882,7 +883,7 @@ If you want to help out with the project, here are some ideas:
 #### Subsonic Client
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [SubTune](https://github.com/TaylorKunZhang/SubTune)
 - [Tempo](https://github.com/CappielloAntonio/tempo)
@@ -891,7 +892,7 @@ If you want to help out with the project, here are some ideas:
 #### Spotify Client
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Jetispot](https://github.com/iTaysonLab/jetispot)
     - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`**
@@ -909,7 +910,7 @@ If you want to help out with the project, here are some ideas:
 #### YouTube Client
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Clipious](https://github.com/lamarios/clipious)
 - [Hyperion](https://github.com/zt64/Hyperion)
@@ -928,7 +929,7 @@ If you want to help out with the project, here are some ideas:
 #### YouTube Music Client
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
@@ -944,7 +945,7 @@ If you want to help out with the project, here are some ideas:
 #### Twitch
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Frosty](https://github.com/tommyxchow/frosty)
 - [Twire](https://github.com/twireapp/Twire)
@@ -1219,7 +1220,7 @@ If you want to help out with the project, here are some ideas:
 #### Discord
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [OpenCord](https://github.com/topminipie/OpenCord)
@@ -1228,7 +1229,7 @@ If you want to help out with the project, here are some ideas:
 #### Github
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [DioHub](https://github.com/NamanShergill/diohub)
 - [Gloom - GitHub](https://github.com/MateriiApps/Gloom)
@@ -1238,7 +1239,7 @@ If you want to help out with the project, here are some ideas:
 #### Instagram
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Instander](https://thedise.me/instander/repo/)
 - [Honista](https://t.me/Honistagram)
@@ -1267,14 +1268,14 @@ If you want to help out with the project, here are some ideas:
 #### Pixiv
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter)
 
 #### Reddit
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [Pineapple](https://github.com/galaxygoldfish/pineapple) **`DEAD`**
@@ -1285,14 +1286,14 @@ If you want to help out with the project, here are some ideas:
 #### VK
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [VTosters lite](https://github.com/vtosters/lite)
 
 #### X(Twitter)
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Quacker](https://github.com/TheHCJ/Quacker)
 - [Squawker](https://github.com/j-fbriere/squawker)
@@ -1302,7 +1303,7 @@ If you want to help out with the project, here are some ideas:
 #### Xda
 
 > [!WARNING]  
-> Is only a FOSS frontend, is based in closed-source system.
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases)
 
@@ -1376,8 +1377,6 @@ If you want to help out with the project, here are some ideas:
 - [Permission Pilot](https://github.com/d4rken-org/permission-pilot)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
-- [Termux](https://github.com/termux/termux-app)
-    - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
 - [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
@@ -1418,6 +1417,11 @@ If you want to help out with the project, here are some ideas:
     - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
 - [Mrepo](https://github.com/ya0211/MRepo)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
+
+#### Terminal
+
+- [Termux](https://github.com/termux/termux-app)
+    - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
 
 #### Theme
 - [Dark theme](https://github.com/phstudio2/Darktheme)
