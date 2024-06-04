@@ -28,7 +28,7 @@ If you want to help out with the project, here are some ideas:
 |:------------:|-------------------------------------------------------------------------------------------------------------------|
 |  **`DEAD`**  | App whose development is discontinued/paused indefinitely.                                                        |
 |  **`FORK`**  | Projects that uses the source code of an other project as a starting point, then adds modifications on top of it. |
-|     :warning:     | Only the application is FOSS. The service is based on a closed-source or non-FOSS system.                               |
+|     :warning:     | Only the application is FOSS. The service is based on a closed-source or non-FOSS system.                              |
 
 ---
 
