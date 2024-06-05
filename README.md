@@ -35,6 +35,9 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [moeGramX](https://github.com/moeCrafters/moeGramX)
+- [Telegram X](https://github.com/TGX-Android/Telegram-X) [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
+- [Telegram](https://github.com/DrKLO/Telegram)
 - [Cirrus](https://github.com/woheller69/omweather)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Frigoligo](https://github.com/casimir/frigoligo)
@@ -56,10 +59,6 @@ If you want to help out with the project, here are some ideas:
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [Birday](https://github.com/m-i-n-a-r/birday)
 - [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
-- [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
-- [Bura](https://github.com/davidtakac/)
-- [Carrion](https://gitlab.com/divested-mobile/carrion)
-- [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 
 ---
 
@@ -380,20 +379,24 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
-- [exteraGram](https://github.com/exteraSquad/exteraGram)
-    - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A) **`FORK`**
-- [LilGram](https://github.com/lilchill666/LilGram)
-- [Nagram](https://github.com/NextAlone/Nagram)
-- [Nekogram](https://nekogram.app/)
-- [Nullgram](https://github.com/qwq233/Nullgram)
-- [OctoGram](https://github.com/OctoGramApp/OctoGram)
-- [Telegraher](https://github.com/nikitasius/Telegraher/)
-- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
-    - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
-    - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
-    - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`**
-    - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
+- [Telegram](https://github.com/DrKLO/Telegram)
+    - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`FORK`**
+    - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`**
+        - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A)  **`FORK`**
+    - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
+    - [Nagram](https://github.com/NextAlone/Nagram) **`FORK`**
+    - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
+    - [Nullgram](https://github.com/qwq233/Nullgram) **`FORK`**
+    - [OctoGram](https://github.com/OctoGramApp/OctoGram) **`FORK`**
+    - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`**
+    - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
+        - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
+        - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
+        - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`**
+        - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
+        - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android) **`FORK`**
+- [Telegram X](https://github.com/TGX-Android/Telegram-X)
+    - [moeGramX](https://github.com/moeCrafters/moeGramX) **`FORK`** 
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
