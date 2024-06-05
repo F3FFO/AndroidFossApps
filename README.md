@@ -36,7 +36,8 @@ If you want to help out with the project, here are some ideas:
 *Last **25 apps** that were recently added to list!*
 
 - [moeGramX](https://github.com/moeCrafters/moeGramX)
-- [Telegram X](https://github.com/TGX-Android/Telegram-X) [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
+- [Telegram X](https://github.com/TGX-Android/Telegram-X)
+- [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
 - [Telegram](https://github.com/DrKLO/Telegram)
 - [Cirrus](https://github.com/woheller69/omweather)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
