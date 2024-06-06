@@ -35,6 +35,8 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
 
+- [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
+- [Element X](https://github.com/element-hq/element-x-android)
 - [moeGramX](https://github.com/moeCrafters/moeGramX)
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
 - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
@@ -58,8 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [My Brain](https://github.com/mhss1/MyBrain)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
-- [Birday](https://github.com/m-i-n-a-r/birday)
-- [Custom Uploader](https://github.com/SrS2225a/custom_uploader)
 
 ---
 
@@ -367,6 +367,8 @@ If you want to help out with the project, here are some ideas:
 - [Element](https://github.com/vector-im/element-android)
     - [SchildiChat](https://github.com/SchildiChat/SchildiChat-android) **`FORK`**
 - [FluffyChat](https://github.com/krille-chan/fluffychat)
+- [Element X](https://github.com/element-hq/element-x-android)
+    - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next) **`FORK`**
 
 #### Signal
 - [Signal](https://github.com/signalapp/Signal-Android)
