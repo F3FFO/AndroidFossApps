@@ -152,7 +152,7 @@ If you want to help out with the project, here are some ideas:
     - [Instagram :warning:](#instagram)
     - [Lemmy](#lemmy)
     - [Mastodon](#mastodon)
-    - [Pixiv](#pixiv)
+    - [Pixiv :warning:](#pixiv)
     - [Reddit :warning:](#reddit)
     - [VK :warning:](#vk)
     - [X(Twitter) :warning:](#xtwitter)
