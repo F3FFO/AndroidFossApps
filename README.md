@@ -1227,7 +1227,10 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Aliucord](https://github.com/Aliucord/Aliucord)
-- [OpenCord](https://github.com/topminipie/OpenCord)
+- [OpenCord](https://github.com/topminipie/OpenCord) **`DEAD`**
+    - [OpenCord](https://github.com/MateriiApps/OpenCord) **`DEAD`** **`FORK`**
+- [Vendetta](https://github.com/vendetta-mod/Vendetta) **`DEAD`** **`FORK`**
+    - [Revenge](https://github.com/revenge-mod/Revenge) **`DEAD`** **`FORK`**
 - [Vendroid](https://github.com/Vencord/Vendroid)
 
 #### Github
@@ -1299,10 +1302,11 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Quacker](https://github.com/TheHCJ/Quacker)
+- [Harpy](https://github.com/robertodoering/harpy) **`DEAD`**
+- [Quacker](https://github.com/TheHCJ/Quacker) **`DEAD`**
 - [Squawker](https://github.com/j-fbriere/squawker)
-- [Twidere](https://github.com/TwidereProject/Twidere-Android)
-    - [Twidere X](https://github.com/TwidereProject/TwidereX-Android) **`FORK`**
+- [Twidere](https://github.com/TwidereProject/Twidere-Android) **`DEAD`**
+    - [Twidere X](https://github.com/TwidereProject/TwidereX-Android) **`DEAD`** **`FORK`**
 
 #### Xda
 
