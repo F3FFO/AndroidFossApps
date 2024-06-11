@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Logseq](https://github.com/logseq/logseq)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 - [Orbot](https://github.com/guardianproject/orbot)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
-- [Flexify](https://github.com/brandonp2412/Flexify)
 
 ---
 
@@ -986,6 +986,7 @@ If you want to help out with the project, here are some ideas:
 - [JustNotes](https://github.com/jjewuz/JustNotes)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
+- [Logseq](https://github.com/logseq/logseq)
 - [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose)
 - [Markor](https://github.com/gsantner/markor)
 - [Mavinote](https://github.com/bwqr/mavinote)
