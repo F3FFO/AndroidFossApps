@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Flexify](https://github.com/brandonp2412/Flexify)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
-- [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 
 ---
 
@@ -978,6 +978,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Another notes app](https://github.com/maltaisn/another-notes-app)
 - [Ara Note](https://github.com/hashemi-hossein/ara-note)
+- [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [Firenote](https://github.com/T8RIN/Firenote)
 - [Joplin](https://github.com/laurent22/joplin)
 - [jtx Board](https://github.com/TechbeeAT/jtxBoard)
