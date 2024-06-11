@@ -33,8 +33,9 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ## :new: Newly Added Apps!
-*Last **25 apps** that were recently added to list!*
+*Last **25 apps** that were recently added to list !*
 
+- [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 - [AudioNote](https://github.com/certified84/AudioNote)
 - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
 - [Element X](https://github.com/element-hq/element-x-android)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [APatch](https://github.com/bmax121/APatch)
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [My Brain](https://github.com/mhss1/MyBrain)
-- [Podcini](https://github.com/XilinJia/Podcini)
 
 ---
 
@@ -1105,6 +1105,7 @@ If you want to help out with the project, here are some ideas:
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder)
 - [Record You](https://github.com/you-apps/RecordYou)
+- [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
