@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Finamp](https://github.com/jmshrv/finamp)
 - [Logseq](https://github.com/logseq/logseq)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 - [Orbot](https://github.com/guardianproject/orbot)
-- [Thorium](https://github.com/Alex313031/Thorium-Android)
 
 ---
 
@@ -843,6 +843,7 @@ If you want to help out with the project, here are some ideas:
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [Blade Player](https://github.com/vhaudiquet/BladePlayer)
 - [Dialog Music Player](https://github.com/VishnuSanal/DialogMusicPlayer)
+- [Finamp](https://github.com/jmshrv/finamp)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Howl](https://github.com/Iamlooker/Howl)
