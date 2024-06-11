@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Flexify](https://github.com/brandonp2412/Flexify)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
-- [Pocket Mode](https://github.com/AChep/PocketMode)
 
 ---
 
@@ -1006,6 +1006,7 @@ If you want to help out with the project, here are some ideas:
 - [Saber](https://github.com/adil192/saber)
 - [Safe Notes](https://github.com/keshav-space/safenotes/)
 - [Simple Material Notes](https://github.com/RafhaanShah/Simple-Notes)
+- [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Standard Notes](https://github.com/standardnotes/app)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
