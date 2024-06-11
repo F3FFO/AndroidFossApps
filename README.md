@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [phiola](https://github.com/stsaz/phiola)
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 - [AudioNote](https://github.com/certified84/AudioNote)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 - [APatch](https://github.com/bmax121/APatch)
-- [FitBook](https://github.com/brandonp2412/FitBook)
 
 ---
 
@@ -1105,6 +1105,7 @@ If you want to help out with the project, here are some ideas:
 - [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder)
+- [phiola](https://github.com/stsaz/phiola)
 - [Record You](https://github.com/you-apps/RecordYou)
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 
