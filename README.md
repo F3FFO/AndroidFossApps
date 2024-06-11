@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Notepad](https://github.com/farmerbb/Notepad)
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [phiola](https://github.com/stsaz/phiola)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
-- [SoundTap](https://github.com/Angel-Studio/SoundTap)
 
 ---
 
@@ -992,6 +992,7 @@ If you want to help out with the project, here are some ideas:
 - [neutriNote](https://github.com/appml/neutrinote)
 - [Notally](https://github.com/OmGodse/Notally)
 - [NoteCrypt](https://github.com/RyuzakiKK/NoteCrypt)
+- [Notepad](https://github.com/farmerbb/Notepad)
 - [Noterly](https://github.com/tomc128/noterly)
 - [Notesnook](https://github.com/streetwriters/notesnook)
 - [Notification Notes](https://github.com/khuttun/NotificationNotes)
