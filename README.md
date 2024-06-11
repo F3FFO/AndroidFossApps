@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [phiola](https://github.com/stsaz/phiola)
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
-- [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 
 ---
 
@@ -997,7 +997,8 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes)
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
-- [Orgzly](https://github.com/orgzly/orgzly-android)
+- [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
+    - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
 - [Quillpad](https://github.com/quillpad/quillpad)
 - [Ruslin](https://github.com/ruslin-note/ruslin-android)
