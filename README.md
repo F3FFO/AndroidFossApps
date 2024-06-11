@@ -847,7 +847,6 @@ If you want to help out with the project, here are some ideas:
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Howl](https://github.com/Iamlooker/Howl)
 - [little music player](https://github.com/martinmimigames/little-music-player)
-- [Metro](https://github.com/MuntashirAkon/Metro)
 - [mucke](https://github.com/moritz-weber/mucke)
 - [Musicmax](https://github.com/TheMusicmax/Musicmax)
 - [Music Player GO](https://github.com/enricocid/Music-Player-GO)
