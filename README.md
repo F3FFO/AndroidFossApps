@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [phiola](https://github.com/stsaz/phiola)
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Pocket Mode](https://github.com/AChep/PocketMode)
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
-- [APatch](https://github.com/bmax121/APatch)
 
 ---
 
@@ -982,6 +982,7 @@ If you want to help out with the project, here are some ideas:
 - [Joplin](https://github.com/laurent22/joplin)
 - [jtx Board](https://github.com/TechbeeAT/jtxBoard)
 - [JustNotes](https://github.com/jjewuz/JustNotes)
+- [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
 - [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose)
 - [Markor](https://github.com/gsantner/markor)
