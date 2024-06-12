@@ -760,17 +760,17 @@ If you want to help out with the project, here are some ideas:
 
 - [8VIM](https://github.com/flide/8VIM)
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
-- [BeHe Keyboard](https://github.com/VladThodo/behe-keyboard)
+- [BeHe Keyboard](https://github.com/VladThodo/behe-keyboards)
 - [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
 - [FlorisBoard](https://github.com/florisboard/florisboard)
 - [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard)
-- [FutharkBoard](https://github.com/DrMaxNix/futharkboard)
+- [FutharkBoard](https://git.tjdev.de/DrMaxNix/futharkboard)
 - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard)
-- [HeliBoard](https://github.com/Helium314/HeliBoard)
 - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard)
 - [KryptEY](https://github.com/amnesica/KryptEY)
 - [nicoWnnG](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html)
-- [OpenBoard](https://github.com/dslul/openboard)
+- [OpenBoard](https://github.com/dslul/openboard) **`DEAD`**
+    - [HeliBoard](https://github.com/Helium314/HeliBoard) **`FORK`**
 - [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard)
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard)
 - [Stroke Input Method (筆畫輸入法)](https://github.com/stroke-input/stroke-input-android)
