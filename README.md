@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Linkora](https://github.com/sakethpathike/Linkora)
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Logseq](https://github.com/logseq/logseq)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
-- [Orbot](https://github.com/guardianproject/orbot)
 
 ---
 
@@ -1092,6 +1092,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Anchr for Android](https://github.com/muety/anchr-android)
 - [LinkHub](https://github.com/AmrDeveloper/LinkHub)
+- [Linkora](https://github.com/sakethpathike/Linkora)
 - [LinkSheet](https://github.com/1fexd/LinkSheet)
 - [URLCheck](https://github.com/TrianguloY/UrlChecker)
 
