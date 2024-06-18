@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Wattz](https://github.com/dubrowgn/wattz)
 - [Linkora](https://github.com/sakethpathike/Linkora)
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Logseq](https://github.com/logseq/logseq)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Frigoligo](https://github.com/casimir/frigoligo)
 - [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
-- [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 
 ---
 
@@ -256,6 +256,7 @@ If you want to help out with the project, here are some ideas:
 - [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [Wattz](https://github.com/dubrowgn/wattz)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
