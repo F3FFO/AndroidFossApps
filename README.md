@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [Wattz](https://github.com/dubrowgn/wattz)
 - [Linkora](https://github.com/sakethpathike/Linkora)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Cirrus](https://github.com/woheller69/omweather)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Frigoligo](https://github.com/casimir/frigoligo)
-- [Omnivore](https://github.com/omnivore-app/omnivore)
 
 ---
 
@@ -1567,6 +1567,7 @@ If you want to help out with the project, here are some ideas:
 - [Clima](https://github.com/Lacerte/clima)
 - [Forecastie](https://github.com/martykan/forecastie)
 - [omWeather](https://github.com/woheller69/omweather)
+- [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [RadarWeather](https://github.com/woheller69/weather)
 - [Rain](https://github.com/DarkMooNight/Rain)
