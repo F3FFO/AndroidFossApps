@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [InnerTune](https://github.com/Malopieds/InnerTune)
 - [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
 - [Telegram](https://github.com/DrKLO/Telegram)
 - [Cirrus](https://github.com/woheller69/omweather)
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 ---
 
@@ -942,6 +942,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
+    - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
