@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [NFCGate](https://github.com/nfcgate/nfcgate)
 - [InnerTune](https://github.com/Malopieds/InnerTune)
 - [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
 - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
 - [Telegram](https://github.com/DrKLO/Telegram)
-- [Cirrus](https://github.com/woheller69/omweather)
 
 ---
 
@@ -1399,6 +1399,7 @@ If you want to help out with the project, here are some ideas:
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
 - [LibChecker](https://github.com/zhaobozhen/LibChecker)
 - [Metronome](https://github.com/Kr0oked/Metronome)
+- [NFCGate](https://github.com/nfcgate/nfcgate)
 - [Octi](https://github.com/d4rken-org/octi)
 - [Permission Pilot](https://github.com/d4rken-org/permission-pilot)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
