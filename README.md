@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [Wattz](https://github.com/dubrowgn/wattz)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Telegram](https://github.com/DrKLO/Telegram)
 - [Cirrus](https://github.com/woheller69/omweather)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-- [Frigoligo](https://github.com/casimir/frigoligo)
 
 ---
 
@@ -762,6 +762,7 @@ If you want to help out with the project, here are some ideas:
 - [8VIM](https://github.com/flide/8VIM)
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
 - [BeHe Keyboard](https://github.com/VladThodo/behe-keyboards)
+- [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
 - [FlorisBoard](https://github.com/florisboard/florisboard)
 - [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard)
