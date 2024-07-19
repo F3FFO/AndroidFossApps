@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [LibChecker](https://github.com/LibChecker/LibChecker)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [NFCGate](https://github.com/nfcgate/nfcgate)
 - [InnerTune](https://github.com/Malopieds/InnerTune)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Element X](https://github.com/element-hq/element-x-android)
 - [moeGramX](https://github.com/moeCrafters/moeGramX)
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
-- [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android)
 
 ---
 
@@ -102,7 +102,6 @@ If you want to help out with the project, here are some ideas:
     - [File Manager](#file-manager)
     - [File Sharing](#file-sharing)
 - [:moneybag: Finance](#moneybag-finance)
-- [:bricks: Firewall](#bricks-firewall)
 - [:card_file_box: Flashcard](#card_file_box-flashcard)
 - [:flashlight: Flashlight](#flashlight-flashlight)
 - [:video_game: Games & Emulator](#video_game-games--emulator)
@@ -125,16 +124,17 @@ If you want to help out with the project, here are some ideas:
     - [Twitch :warning:](#twitch)
     - [Video Player](#video-player)
     - [Video Editor](#video-editor)
+- [:signal_strength: Network](#signal_strength-network)
+    - [DNS](#dns)
+    - [Firewall](#firewall)
+    - [Link](#link)
 - [:memo: Note](#memo-note)
 - [:computer: Office](#computer-office)
 - [:art: Painting](#art-painting)
 - [:closed_lock_with_key: Password & Authentication](#closed_lock_with_key-password--authentication)
 - [:lock: Privacy](#lock-privacy)
-    - [DNS](#dns)
     - [File & App Encryption](#file--app-encryption)
     - [Permission Manager](#permission-manager)
-    - [Link](#link)
-    - [Network](#network)
 - [:microphone: Recorder](#microphone-recorder)
 - [:book: Reader & Viewer](#book-reader--viewer)
     - [Document & PDF](#document--pdf)
@@ -162,6 +162,8 @@ If you want to help out with the project, here are some ideas:
 - [:toolbox: System](#toolbox-system)
     - [ADB Tools](#adb-tools)
     - [Gesture Control](#gesture-control)
+    - [GSI](#gsi)
+    - [Info](#info)
     - [Optimizer & Cleaner](#optimizer--cleaner)
     - [SuperUser](#superuser)
     - [Terminal](#terminal)
@@ -234,6 +236,7 @@ If you want to help out with the project, here are some ideas:
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 - [Sky Droid](https://github.com/redsolver/skydroid)
+- [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -592,17 +595,6 @@ If you want to help out with the project, here are some ideas:
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet)
 - [Sushi](https://github.com/jerameel/sushi)
-
-<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
-
----
-
-### :bricks: Firewall
-
-- [AFWall+](https://github.com/ukanth/afwall)
-- [Karma Firewall](https://github.com/nightflame2/karma-firewall)
-- [NetGuard](https://github.com/M66B/NetGuard)
-- [Rethink DNS + Firewall](https://github.com/celzero/rethink-app)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -978,6 +970,37 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
+### :signal_strength: Network
+
+- [NetGuard](https://github.com/M66B/NetGuard)
+- [Orbot](https://github.com/guardianproject/orbot)
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+- [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
+
+#### DNS
+
+- [DNS66](https://github.com/julian-klode/dns66)
+- [personalDNSfilterDNS66](https://github.com/IngoZenz/personaldnsfilter)
+- [Rethink](https://github.com/celzero/rethink-app)
+
+#### Firewall
+
+- [AFWall+](https://github.com/ukanth/afwall)
+- [Karma Firewall](https://github.com/nightflame2/karma-firewall)
+- [NetGuard](https://github.com/M66B/NetGuard)
+
+#### Link
+
+- [Anchr for Android](https://github.com/muety/anchr-android)
+- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
+- [Linkora](https://github.com/sakethpathike/Linkora)
+- [LinkSheet](https://github.com/1fexd/LinkSheet)
+- [URLCheck](https://github.com/TrianguloY/UrlChecker)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
 ### :memo: Note
 
 - [Another notes app](https://github.com/maltaisn/another-notes-app)
@@ -1077,11 +1100,7 @@ If you want to help out with the project, here are some ideas:
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
-#### DNS
-
-- [DNS66](https://github.com/julian-klode/dns66)
-- [personalDNSfilterDNS66](https://github.com/IngoZenz/personaldnsfilter)
-- [Rethink](https://github.com/celzero/rethink-app)
+- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 
 #### File & App Encryption
 
@@ -1091,19 +1110,6 @@ If you want to help out with the project, here are some ideas:
 #### Permission Manager
 
 - [Permission Pilot](https://github.com/d4rken-org/permission-pilot)
-
-#### Link
-
-- [Anchr for Android](https://github.com/muety/anchr-android)
-- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
-- [Linkora](https://github.com/sakethpathike/Linkora)
-- [LinkSheet](https://github.com/1fexd/LinkSheet)
-- [URLCheck](https://github.com/TrianguloY/UrlChecker)
-
-#### Network
-
-- [NetGuard](https://github.com/M66B/NetGuard)
-- [Orbot](https://github.com/guardianproject/orbot)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1178,11 +1184,9 @@ If you want to help out with the project, here are some ideas:
 
 ### :mag: Research & Development
 
-- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android/)
 - [Godot Editor](https://github.com/godotengine/godot)
 - [KtxPy](https://github.com/PsiCodes/KtxPy)
-- [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
-- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+- [NFCGate](https://github.com/nfcgate/nfcgate)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1393,21 +1397,11 @@ If you want to help out with the project, here are some ideas:
 
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
-- [CPU Info](https://github.com/kamgurgul/cpu-info)
-- [Data Monitor](https://github.com/itsdrnoob/DataMonitor)
-- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
-- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
-- [LibChecker](https://github.com/zhaobozhen/LibChecker)
 - [Metronome](https://github.com/Kr0oked/Metronome)
-- [NFCGate](https://github.com/nfcgate/nfcgate)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
-- [Octi](https://github.com/d4rken-org/octi)
-- [Permission Pilot](https://github.com/d4rken-org/permission-pilot)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
-- [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
-- [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
-- [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
+
 - [XtMapper](https://github.com/Xtr126/XtMapper)
 
 #### ADB Tools
@@ -1423,6 +1417,17 @@ If you want to help out with the project, here are some ideas:
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 
+#### GSI
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
+- [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
+
+#### Info
+- [CPU Info](https://github.com/kamgurgul/cpu-info)
+- [Data Monitor](https://github.com/itsdrnoob/DataMonitor)
+- [Octi](https://github.com/d4rken-org/octi)
+- [LibChecker](https://github.com/LibChecker/LibChecker)
+    - [LibChecker](https://github.com/zhaobozhen/LibChecker) **`FORK`**
+
 #### Optimizer & Cleaner
 
 - [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
@@ -1435,15 +1440,14 @@ If you want to help out with the project, here are some ideas:
 
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
 - [APatch](https://github.com/bmax121/APatch)
-- [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer)
+- [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer) **`DEAD`**
 - [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
-- [FoxMMM](https://github.com/Androidacy/MagiskModuleManager)
 - [KernelSU](https://github.com/tiann/KernelSU/)
-- [LSPatch](https://github.com/LSPosed/LSPatch)
-- [LSPosed](https://github.com/LSPosed/LSPosed)
+- [LSPatch](https://github.com/LSPosed/LSPatch) **`DEAD`**
+- [LSPosed](https://github.com/LSPosed/LSPosed) **`DEAD`**
 - [Magisk](https://github.com/topjohnwu/Magisk)
     - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
-- [Mrepo](https://github.com/ya0211/MRepo)
+- [Mrepo](https://github.com/ya0211/MRepo) **`DEAD`**
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 
 #### Terminal
