@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [NumberHub](https://github.com/Myzel394/NumberHub)
 - [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 - [AudioNote](https://github.com/certified84/AudioNote)
-- [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
 
 ---
 
@@ -318,6 +318,7 @@ If you want to help out with the project, here are some ideas:
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
 - [unitto](https://github.com/sadellie/unitto) **`DEAD`**
+    - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
 - [zCalc](https://github.com/ziadOUA/zCalc)
 
