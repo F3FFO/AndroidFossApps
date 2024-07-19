@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [AudioNote](https://github.com/certified84/AudioNote)
 - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
 - [Element X](https://github.com/element-hq/element-x-android)
-- [moeGramX](https://github.com/moeCrafters/moeGramX)
 
 ---
 
@@ -1007,6 +1007,7 @@ If you want to help out with the project, here are some ideas:
 - [Ara Note](https://github.com/hashemi-hossein/ara-note)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
+- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
 - [Firenote](https://github.com/T8RIN/Firenote)
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [Joplin](https://github.com/laurent22/joplin)
