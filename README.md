@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [NFCGate](https://github.com/nfcgate/nfcgate)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
 - [Element X](https://github.com/element-hq/element-x-android)
 - [moeGramX](https://github.com/moeCrafters/moeGramX)
-- [Telegram X](https://github.com/TGX-Android/Telegram-X)
 
 ---
 
@@ -1008,6 +1008,7 @@ If you want to help out with the project, here are some ideas:
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [Firenote](https://github.com/T8RIN/Firenote)
+- [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [Joplin](https://github.com/laurent22/joplin)
 - [jtx Board](https://github.com/TechbeeAT/jtxBoard)
 - [JustNotes](https://github.com/jjewuz/JustNotes)
