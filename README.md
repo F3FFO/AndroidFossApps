@@ -1103,8 +1103,6 @@ If you want to help out with the project, here are some ideas:
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
-
-
 #### File & App Encryption
 
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
