@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [GlassDown](https://github.com/RomanK2311/glassdown)
 - [NumberHub](https://github.com/Myzel394/NumberHub)
 - [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [phiola](https://github.com/stsaz/phiola)
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
-- [AudioNote](https://github.com/certified84/AudioNote)
 
 ---
 
@@ -233,6 +233,7 @@ If you want to help out with the project, here are some ideas:
     - [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`FORK`**
     - [F-Droid Classic](https://git.bubu1.eu/Bubu/fdroidclassic) **`FORK`**
     - [G-Droid](https://gitlab.com/gdroid/gdroidclient) **`FORK`**
+- [GlassDown](https://github.com/RomanK2311/glassdown)
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 - [Sky Droid](https://github.com/redsolver/skydroid)
