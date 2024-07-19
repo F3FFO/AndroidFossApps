@@ -1103,12 +1103,13 @@ If you want to help out with the project, here are some ideas:
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
-- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
+
 
 #### File & App Encryption
 
-- [Confidant](https://github.com/YangDai-Github/Encryptor-Android)
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
+- [Confidant](https://github.com/YangDai-Github/Encryptor-Android)
+- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 
 #### Permission Manager
 
