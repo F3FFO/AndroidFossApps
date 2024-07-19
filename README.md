@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
 - [GlassDown](https://github.com/RomanK2311/glassdown)
 - [NumberHub](https://github.com/Myzel394/NumberHub)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [phiola](https://github.com/stsaz/phiola)
-- [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
 
 ---
 
@@ -1155,6 +1155,7 @@ If you want to help out with the project, here are some ideas:
     - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
+    - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Hentoid](https://github.com/avluis/Hentoid)
     - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
 - [IReader](https://github.com/IReaderorg/IReader)
