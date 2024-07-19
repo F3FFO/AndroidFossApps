@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 - [AudioNote](https://github.com/certified84/AudioNote)
 - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next)
-- [Element X](https://github.com/element-hq/element-x-android)
 
 ---
 
@@ -1099,6 +1099,7 @@ If you want to help out with the project, here are some ideas:
 - [InviZible Pro](https://github.com/Gedsh/InviZible)
 - [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian)
 - [Privacy Indicator](https://github.com/NitishGadangi/Privacy-Indicator-App)
+- [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
