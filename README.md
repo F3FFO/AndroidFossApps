@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
 - [GlassDown](https://github.com/RomanK2311/glassdown)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
-- [phiola](https://github.com/stsaz/phiola)
 
 ---
 
@@ -237,6 +237,7 @@ If you want to help out with the project, here are some ideas:
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 - [Sky Droid](https://github.com/redsolver/skydroid)
+- [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
