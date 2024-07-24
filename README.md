@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
-- [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 
 ---
 
@@ -1140,6 +1140,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Document & PDF
 
+- [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Book Reader](https://gitlab.com/axet/android-book-reader)
 - [KOReader](https://github.com/koreader/koreader)
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
