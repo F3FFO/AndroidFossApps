@@ -35,6 +35,7 @@ If you want to help out with the project, here are some ideas:
 ## :new: Newly Added Apps!
 *Last **25 apps** that were recently added to list !*
 
+- [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
@@ -59,7 +60,6 @@ If you want to help out with the project, here are some ideas:
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Notepad](https://github.com/farmerbb/Notepad)
-- [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 
 ---
 
@@ -922,6 +922,7 @@ If you want to help out with the project, here are some ideas:
 - [LightTube](https://github.com/kuylar/lighttube-android)
 - [Namida](https://github.com/namidaco/namida)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+    - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
     - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
     - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
 - [raag](https://github.com/raag-music/raag)
