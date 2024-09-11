@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Chronos](https://github.com/meenbeese/Chronos)
 - [Bitwarden BETA](https://github.com/bitwarden/android)
 - [PSLab](https://github.com/fossasia/pslab-android)
 - [TermuC](https://github.com/RainbowC0/TermuC)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [Wattz](https://github.com/dubrowgn/wattz)
-- [Linkora](https://github.com/sakethpathike/Linkora)
 
 ---
 
@@ -426,6 +426,7 @@ _Last **25 apps** that were recently added to list !_
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Chrono](https://github.com/vicolo-dev/chrono)
+- [Chronos](https://github.com/meenbeese/Chronos)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
 - [Overload](https://codeberg.org/pabloscloud/Overload)
