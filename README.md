@@ -1457,6 +1457,8 @@ _Last **25 apps** that were recently added to list !_
 
 #### SuperUser
 
+> :warning: This section contains apps that require root privileges to function and without which such apps are useless
+
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
 - [APatch](https://github.com/bmax121/APatch)
 - [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer) **`DEAD`**
