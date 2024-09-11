@@ -879,7 +879,7 @@ _Last **25 apps** that were recently added to list !_
   - [Headphone Detector](https://github.com/vanilla-music/vanilla) **`FORK`**
   - [Lyric Search](https://github.com/vanilla-music/vanilla) **`FORK`**
   - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
-- [Vibe You](https://github.com/you-apps/VibeYou)
+- [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 #### Podcast/Audio Book Player
@@ -1140,7 +1140,7 @@ _Last **25 apps** that were recently added to list !_
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder)
 - [phiola](https://github.com/stsaz/phiola)
-- [Record You](https://github.com/you-apps/RecordYou)
+- [Record You](https://github.com/you-apps/RecordYou) **`DEAD`**
 - [SoundRecorderPlus](https://codeberg.org/generic-pers0n/SoundRecorderPlus)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
