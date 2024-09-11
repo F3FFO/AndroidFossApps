@@ -187,6 +187,7 @@ _Last **25 apps** that were recently added to list !_
 
 - [2FAS for Android](https://github.com/twofas/2fas-android)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
+- [andOTP](https://github.com/andOTP/andOTP) **`DEAD`**
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
 - [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus)
 - [ente Auth](https://github.com/ente-io/auth)
