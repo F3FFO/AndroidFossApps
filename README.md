@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Valv](https://github.com/Arctosoft/Valv-Android)
 - [OuterTune](https://github.com/DD3Boh/OuterTune)
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Logseq](https://github.com/logseq/logseq)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
-- [sNotz](https://github.com/sunilpaulmathew/sNotz)
 
 ---
 
@@ -754,6 +754,7 @@ _Last **25 apps** that were recently added to list !_
 - [Gallery](https://github.com/IacobIonut01/Gallery)
 - [miniGallery](https://github.com/kabirnayeem99/miniGallery)
 - [Stingle Photos](https://github.com/stingle/stingle-photos-android)
+- [Valv](https://github.com/Arctosoft/Valv-Android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
