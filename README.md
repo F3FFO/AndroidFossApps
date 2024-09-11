@@ -1419,7 +1419,6 @@ _Last **25 apps** that were recently added to list !_
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
-
 - [XtMapper](https://github.com/Xtr126/XtMapper)
 
 #### ADB Tools
