@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Openreads](https://github.com/mateusz-bak/openreads)
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Table Habit](https://github.com/FriesI23/mhabit)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Bitwarden BETA](https://github.com/bitwarden/android)
-- [PSLab](https://github.com/fossasia/pslab-android)
 
 ---
 
@@ -1177,6 +1177,8 @@ _Last **25 apps** that were recently added to list !_
 ---
 
 ### :book: Reader & Viewer
+
+- [Openreads](https://github.com/mateusz-bak/openreads)
 
 #### Document & PDF
 
