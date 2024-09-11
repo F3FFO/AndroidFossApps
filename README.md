@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Sobriety](https://github.com/KiARC/Sobriety)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Bitwarden BETA](https://github.com/bitwarden/android)
 - [PSLab](https://github.com/fossasia/pslab-android)
 - [TermuC](https://github.com/RainbowC0/TermuC)
-- [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
 
 ---
 
@@ -872,6 +872,7 @@ _Last **25 apps** that were recently added to list !_
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [Blade Player](https://github.com/vhaudiquet/BladePlayer)
+- [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Dialog Music Player](https://github.com/VishnuSanal/DialogMusicPlayer)
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
