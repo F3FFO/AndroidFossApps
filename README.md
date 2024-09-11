@@ -1,6 +1,7 @@
 <div align="center">
 
 # Android Foss Apps - AFA
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/F3FFO/AndroidFossApps?style=for-the-badge&label=Last%20update)
 ![GitHub Repo stars](https://img.shields.io/github/stars/F3FFO/AndroidFossApps?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/F3FFO/AndroidFossApps?style=for-the-badge)
@@ -25,16 +26,18 @@ If you want to help out with the project, here are some ideas:
 ## :arrow_right: Abbreviations
 
 | Abbreviation | Meaning                                                                                                           |
-|:------------:|-------------------------------------------------------------------------------------------------------------------|
+| :----------: | ----------------------------------------------------------------------------------------------------------------- |
 |  **`DEAD`**  | App whose development is discontinued/paused indefinitely.                                                        |
 |  **`FORK`**  | Projects that uses the source code of an other project as a starting point, then adds modifications on top of it. |
-|     :warning:     | Only the application is FOSS. The service is based on a closed-source or non-FOSS system.                              |
+|  :warning:   | Only the application is FOSS. The service is based on a closed-source or non-FOSS system.                         |
 
 ---
 
 ## :new: Newly Added Apps!
-*Last **25 apps** that were recently added to list !*
 
+_Last **25 apps** that were recently added to list !_
+
+- [OuterTune](https://github.com/DD3Boh/OuterTune)
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
@@ -59,7 +62,6 @@ If you want to help out with the project, here are some ideas:
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
-- [Notepad](https://github.com/farmerbb/Notepad)
 
 ---
 
@@ -72,102 +74,102 @@ If you want to help out with the project, here are some ideas:
 - [:floppy_disk: Backup](#floppy_disk-backup)
 - [:battery: Battery](#battery-battery)
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
-    - [Chrome Based](#chrome-based)
-    - [Firefox Based](#firefox-based)
-    - [Other](#other)
-    - [Tools](#tools)
+  - [Chrome Based](#chrome-based)
+  - [Firefox Based](#firefox-based)
+  - [Other](#other)
+  - [Tools](#tools)
 - [:1234: Calculator](#1234-calculator)
 - [:calendar: Calendar](#calendar-calendar)
 - [:camera: Camera](#camera-camera)
 - [:speech_balloon: Chat & Messaging](#speech_balloon-chat--messaging)
-    - [Matrix](#matrix)
-    - [Signal](#signal)
-    - [Telegram :warning:](#telegram)
+  - [Matrix](#matrix)
+  - [Signal](#signal)
+  - [Telegram :warning:](#telegram)
 - [:watch: Clock & Time](#watch-clock--time)
 - [:telephone_receiver: Communication](#telephone_receiver-communication)
-    - [Contact](#contact)
-    - [Call Blocker/Spam Filter](#call-blockerspam-filter)
-    - [Dialer](#dialer)
-    - [SMS](#sms)
+  - [Contact](#contact)
+  - [Call Blocker/Spam Filter](#call-blockerspam-filter)
+  - [Dialer](#dialer)
+  - [SMS](#sms)
 - [:joystick: Device automation](#joystick-device-automation)
 - [:pencil2: Diary & Journal](#pencil2-diary--journal)
 - [:books: Dictionary](#books-dictionary)
 - [:arrow_down: Downloader & Manager](#arrow_down-downloader--manager)
 - [:paintbrush: Drawing](#paintbrush-drawing)
 - [:email: Email](#email-email)
-    - [Email Alias](#email-alias)
-    - [Email Client](#email-client)
-    - [Email Forwarding](#email-forwarding)
+  - [Email Alias](#email-alias)
+  - [Email Client](#email-client)
+  - [Email Forwarding](#email-forwarding)
 - [:file_folder: File](#file_folder-file)
-    - [File Manager](#file-manager)
-    - [File Sharing](#file-sharing)
+  - [File Manager](#file-manager)
+  - [File Sharing](#file-sharing)
 - [:moneybag: Finance](#moneybag-finance)
 - [:card_file_box: Flashcard](#card_file_box-flashcard)
 - [:flashlight: Flashlight](#flashlight-flashlight)
 - [:video_game: Games & Emulator](#video_game-games--emulator)
 - [:flower_playing_cards: Icon Pack](#flower_playing_cards-icon-pack)
 - [:mount_fuji: Image](#mount_fuji-image)
-    - [Image Manipulation](#image-manipulation)
-    - [Image Viewer & Gallery](#image-viewer--gallery)
+  - [Image Manipulation](#image-manipulation)
+  - [Image Viewer & Gallery](#image-viewer--gallery)
 - [:keyboard: Keyboard](#keyboard-keyboard)
 - [:house: Launcher](#house-launcher)
 - [:compass: Maps & Navigation](#compass-maps--navigation)
 - [:clapper: Media](#clapper-media)
-    - [Equalizer](#equalizer)
-    - [Music/Audio Player](#musicaudio-player)
-    - [Podcast/Audio Book Player](#podcastaudio-book-player)
-    - [Subsonic Client :warning:](#subsonic-client)
-    - [Spotify Client :warning:](#spotify-client)
-    - [Streaming](#streaming)
-    - [YouTube Client :warning:](#youtube-client)
-    - [YouTube Music Client :warning:](#youtube-music-client)
-    - [Twitch :warning:](#twitch)
-    - [Video Player](#video-player)
-    - [Video Editor](#video-editor)
+  - [Equalizer](#equalizer)
+  - [Music/Audio Player](#musicaudio-player)
+  - [Podcast/Audio Book Player](#podcastaudio-book-player)
+  - [Subsonic Client :warning:](#subsonic-client)
+  - [Spotify Client :warning:](#spotify-client)
+  - [Streaming](#streaming)
+  - [YouTube Client :warning:](#youtube-client)
+  - [YouTube Music Client :warning:](#youtube-music-client)
+  - [Twitch :warning:](#twitch)
+  - [Video Player](#video-player)
+  - [Video Editor](#video-editor)
 - [:signal_strength: Network](#signal_strength-network)
-    - [DNS](#dns)
-    - [Firewall](#firewall)
-    - [Link](#link)
+  - [DNS](#dns)
+  - [Firewall](#firewall)
+  - [Link](#link)
 - [:memo: Note](#memo-note)
 - [:computer: Office](#computer-office)
 - [:art: Painting](#art-painting)
 - [:closed_lock_with_key: Password & Authentication](#closed_lock_with_key-password--authentication)
 - [:lock: Privacy](#lock-privacy)
-    - [File & App Encryption](#file--app-encryption)
-    - [Permission Manager](#permission-manager)
+  - [File & App Encryption](#file--app-encryption)
+  - [Permission Manager](#permission-manager)
 - [:microphone: Recorder](#microphone-recorder)
 - [:book: Reader & Viewer](#book-reader--viewer)
-    - [Document & PDF](#document--pdf)
-    - [Manga & Anime](#manga--anime)
-    - [RSS Reader](#rss-reader)
+  - [Document & PDF](#document--pdf)
+  - [Manga & Anime](#manga--anime)
+  - [RSS Reader](#rss-reader)
 - [:mag: Research & Development](#mag-research--development)
 - [:shield: Sandboxing](#shield-sandboxing)
 - [:mortar_board: Science & Education](#mortar_board-science--education)
 - [:microscope: Scanner](#microscope-scanner)
-    - [QR & Barcode Scanner](#qr--barcode-scanner)
-    - [Document Scanner](#document-scanner)
+  - [QR & Barcode Scanner](#qr--barcode-scanner)
+  - [Document Scanner](#document-scanner)
 - [:busts_in_silhouette: Social Media](#busts_in_silhouette-social-media)
-    - [Discord :warning:](#discord)
-    - [Github :warning:](#github)
-    - [Instagram :warning:](#instagram)
-    - [Lemmy](#lemmy)
-    - [Mastodon](#mastodon)
-    - [Pixiv :warning:](#pixiv)
-    - [Reddit :warning:](#reddit)
-    - [VK :warning:](#vk)
-    - [X(Twitter) :warning:](#xtwitter)
-    - [Xda :warning:](#xda)
+  - [Discord :warning:](#discord)
+  - [Github :warning:](#github)
+  - [Instagram :warning:](#instagram)
+  - [Lemmy](#lemmy)
+  - [Mastodon](#mastodon)
+  - [Pixiv :warning:](#pixiv)
+  - [Reddit :warning:](#reddit)
+  - [VK :warning:](#vk)
+  - [X(Twitter) :warning:](#xtwitter)
+  - [Xda :warning:](#xda)
 - [:running: Sport & Health](#running-sport--health)
 - [:arrows_counterclockwise: Synchronisation](#arrows_counterclockwise-synchronisation)
 - [:toolbox: System](#toolbox-system)
-    - [ADB Tools](#adb-tools)
-    - [Gesture Control](#gesture-control)
-    - [GSI](#gsi)
-    - [Info](#info)
-    - [Optimizer & Cleaner](#optimizer--cleaner)
-    - [SuperUser](#superuser)
-    - [Terminal](#terminal)
-    - [Theme](#theme)
+  - [ADB Tools](#adb-tools)
+  - [Gesture Control](#gesture-control)
+  - [GSI](#gsi)
+  - [Info](#info)
+  - [Optimizer & Cleaner](#optimizer--cleaner)
+  - [SuperUser](#superuser)
+  - [Terminal](#terminal)
+  - [Theme](#theme)
 - [:black_nib: Text Editor & Code Editor/IDE](#black_nib-text-editor--code-editoride)
 - [:speaking_head: Text-to-Speech](#speaking_head-text-to-speech)
 - [:clipboard: ToDo List](#clipboard-todo-list)
@@ -209,8 +211,9 @@ If you want to help out with the project, here are some ideas:
 ---
 
 #### :package: App Manager
+
 - [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector)
-    - [Ruru](https://github.com/byxiaorun/Ruru) **`FORK`**
+  - [Ruru](https://github.com/byxiaorun/Ruru) **`FORK`**
 - [App Manager](https://github.com/MuntashirAkon/AppManager)
 - [Hail](https://github.com/aistra0528/Hail)
 - [Inure](https://github.com/Hamza417/Inure)
@@ -225,14 +228,14 @@ If you want to help out with the project, here are some ideas:
 
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
-    - [APKGrabber](https://github.com/hemker/apkgrabber) **`FORK`**
+  - [APKGrabber](https://github.com/hemker/apkgrabber) **`FORK`**
 - [Appteka](https://github.com/solkin/appteka-android)
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
-    - [Neo-Store](https://github.com/NeoApplications/Neo-Store) **`FORK`**
-    - [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`FORK`**
-    - [F-Droid Classic](https://git.bubu1.eu/Bubu/fdroidclassic) **`FORK`**
-    - [G-Droid](https://gitlab.com/gdroid/gdroidclient) **`FORK`**
+  - [Neo-Store](https://github.com/NeoApplications/Neo-Store) **`FORK`**
+  - [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`FORK`**
+  - [F-Droid Classic](https://git.bubu1.eu/Bubu/fdroidclassic) **`FORK`**
+  - [G-Droid](https://gitlab.com/gdroid/gdroidclient) **`FORK`**
 - [GlassDown](https://github.com/RomanK2311/glassdown)
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
@@ -277,12 +280,12 @@ If you want to help out with the project, here are some ideas:
 #### Firefox Based
 
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
-    - [Firefox Focus](https://hg.mozilla.org/mozilla-central) **`FORK`**
-    - [Firefox Klar](https://hg.mozilla.org/mozilla-central) **`FORK`**
-    - [Fennec](https://gitlab.com/relan/fennecbuild)
-        - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
-    - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
-    - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
+  - [Firefox Focus](https://hg.mozilla.org/mozilla-central) **`FORK`**
+  - [Firefox Klar](https://hg.mozilla.org/mozilla-central) **`FORK`**
+  - [Fennec](https://gitlab.com/relan/fennecbuild)
+    - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
+  - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
+  - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
 
 #### Other
 
@@ -320,7 +323,7 @@ If you want to help out with the project, here are some ideas:
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
 - [unitto](https://github.com/sadellie/unitto) **`DEAD`**
-    - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
+  - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
 - [zCalc](https://github.com/ziadOUA/zCalc)
 
@@ -359,7 +362,7 @@ If you want to help out with the project, here are some ideas:
 - [blabber.im](https://codeberg.org/kriztan/blabber.im)
 - [Briar](https://code.briarproject.org/briar/briar)
 - [Conversations](https://github.com/siacs/Conversations)
-    - [Cheogram](https://git.singpolyma.net/cheogram-android) **`FORK`**
+  - [Cheogram](https://git.singpolyma.net/cheogram-android) **`FORK`**
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 - [Kontalk](https://github.com/kontalk/androidclient)
@@ -371,18 +374,20 @@ If you want to help out with the project, here are some ideas:
 - [Wire](https://github.com/wireapp/wire-android)
 
 #### Matrix
+
 - [Element](https://github.com/vector-im/element-android)
-    - [SchildiChat](https://github.com/SchildiChat/SchildiChat-android) **`FORK`**
+  - [SchildiChat](https://github.com/SchildiChat/SchildiChat-android) **`FORK`**
 - [FluffyChat](https://github.com/krille-chan/fluffychat)
 - [Element X](https://github.com/element-hq/element-x-android)
-    - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next) **`FORK`**
+  - [SchildiNext](https://github.com/SchildiChat/schildichat-android-next) **`FORK`**
 
 #### Signal
+
 - [Signal](https://github.com/signalapp/Signal-Android)
-    - [Molly](https://github.com/mollyim/mollyim-android) **`FORK`**
-    - [Session Android](https://github.com/oxen-io/session-android) **`FORK`**
-    - [Signal-Foss](https://github.com/tw-hx/Signal-Android) **`FORK`**
-    - [Signal-You](https://github.com/nekorubu/Signal-You) **`FORK`**
+  - [Molly](https://github.com/mollyim/mollyim-android) **`FORK`**
+  - [Session Android](https://github.com/oxen-io/session-android) **`FORK`**
+  - [Signal-Foss](https://github.com/tw-hx/Signal-Android) **`FORK`**
+  - [Signal-You](https://github.com/nekorubu/Signal-You) **`FORK`**
 
 #### Telegram
 
@@ -390,23 +395,23 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Telegram](https://github.com/DrKLO/Telegram)
-    - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`FORK`**
-    - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`**
-        - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A)  **`FORK`**
-    - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
-    - [Nagram](https://github.com/NextAlone/Nagram) **`FORK`**
-    - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
-    - [Nullgram](https://github.com/qwq233/Nullgram) **`FORK`**
-    - [OctoGram](https://github.com/OctoGramApp/OctoGram) **`FORK`**
-    - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`**
-    - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
-        - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
-        - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
-        - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`**
-        - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
-        - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android) **`FORK`**
+  - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`FORK`**
+  - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`**
+    - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A) **`FORK`**
+  - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
+  - [Nagram](https://github.com/NextAlone/Nagram) **`FORK`**
+  - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
+  - [Nullgram](https://github.com/qwq233/Nullgram) **`FORK`**
+  - [OctoGram](https://github.com/OctoGramApp/OctoGram) **`FORK`**
+  - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`**
+  - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
+    - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
+    - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
+    - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`**
+    - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
+    - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android) **`FORK`**
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
-    - [moeGramX](https://github.com/moeCrafters/moeGramX) **`FORK`** 
+  - [moeGramX](https://github.com/moeCrafters/moeGramX) **`FORK`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -456,7 +461,7 @@ If you want to help out with the project, here are some ideas:
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [QKSMS](https://github.com/moezbhatti/qksms)
-    - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
+  - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
 - [Silence](https://github.com/SilenceIM/Silence)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -475,6 +480,7 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ### :pencil2: Diary & Journal
+
 - [Daily You](https://github.com/Demizo/Daily_You)
 - [Diary](https://github.com/billthefarmer/diary)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
@@ -503,21 +509,21 @@ If you want to help out with the project, here are some ideas:
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [SubHub](https://github.com/FunkyMuse/SubHub)
 - **Book/Ebook**
-    - [Myne](https://github.com/Pool-Of-Tears/Myne)
-    - [Openlib](https://github.com/dstark5/Openlib)
+  - [Myne](https://github.com/Pool-Of-Tears/Myne)
+  - [Openlib](https://github.com/dstark5/Openlib)
 - **Music**
-    - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-    - [Spowlo](https://github.com/BobbyESP/Spowlo)
+  - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+  - [Spowlo](https://github.com/BobbyESP/Spowlo)
 - **Torrent**
-    - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
-    - [Torrent Client](https://gitlab.com/axet/android-torrent-client)
-    - [TorrServe](https://github.com/YouROK/TorrServe)
-    - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager)
+  - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
+  - [Torrent Client](https://gitlab.com/axet/android-torrent-client)
+  - [TorrServe](https://github.com/YouROK/TorrServe)
+  - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager)
 - **Video**
-    - [dvd](https://github.com/yausername/dvd)
+  - [dvd](https://github.com/yausername/dvd)
 - **YouTube**
-    - [Seal](https://github.com/JunkFood02/Seal)
-    - [YTDLnis](https://github.com/deniscerri/ytdlnis)
+  - [Seal](https://github.com/JunkFood02/Seal)
+  - [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -546,7 +552,7 @@ If you want to help out with the project, here are some ideas:
 - [FairEmail](https://github.com/M66B/FairEmail)
 - [Infomaniak Mail](https://github.com/Infomaniak/android-kMail)
 - [K-9 Mail/Thunderbird Android](https://github.com/thunderbird/thunderbird-android)
-    - [monocles mail](https://codeberg.org/Arne/monocles_mail) **`FORK`**
+  - [monocles mail](https://codeberg.org/Arne/monocles_mail) **`FORK`**
 - [Ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android)
 - [Proton Mail](https://github.com/ProtonMail/proton-mail-android)
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-Android)
@@ -593,6 +599,7 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ### :moneybag: Finance
+
 - [Currencies](https://github.com/sal0max/currencies)
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
@@ -606,8 +613,8 @@ If you want to help out with the project, here are some ideas:
 ### :card_file_box: Flashcard
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-    - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) **`FORK`**
-    - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) **`FORK`**
+  - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) **`FORK`**
+  - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) **`FORK`**
 - [Flash Deck](https://github.com/rh-id/a-flash-deck)
 - [ForgetMeNot](https://github.com/tema6120/ForgetMeNot)
 - [Yokatta](https://github.com/uestueab/app-thesis)
@@ -767,7 +774,7 @@ If you want to help out with the project, here are some ideas:
 - [KryptEY](https://github.com/amnesica/KryptEY)
 - [nicoWnnG](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html)
 - [OpenBoard](https://github.com/dslul/openboard) **`DEAD`**
-    - [HeliBoard](https://github.com/Helium314/HeliBoard) **`FORK`**
+  - [HeliBoard](https://github.com/Helium314/HeliBoard) **`FORK`**
 - [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard)
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard)
 - [Stroke Input Method (筆畫輸入法)](https://github.com/stroke-input/stroke-input-android)
@@ -858,8 +865,8 @@ If you want to help out with the project, here are some ideas:
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-    - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`**
-    - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`**
+  - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`**
+  - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose)
 - [SoundCrowd](https://github.com/soundcrowd/soundcrowd)
@@ -867,10 +874,10 @@ If you want to help out with the project, here are some ideas:
 - [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player)
 - [Transistor](https://codeberg.org/y20k/transistor)
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
-    - [Cover Fetcher](https://github.com/vanilla-music/vanilla) **`FORK`**
-    - [Headphone Detector](https://github.com/vanilla-music/vanilla) **`FORK`**
-    - [Lyric Search](https://github.com/vanilla-music/vanilla) **`FORK`**
-    - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
+  - [Cover Fetcher](https://github.com/vanilla-music/vanilla) **`FORK`**
+  - [Headphone Detector](https://github.com/vanilla-music/vanilla) **`FORK`**
+  - [Lyric Search](https://github.com/vanilla-music/vanilla) **`FORK`**
+  - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
 - [Vibe You](https://github.com/you-apps/VibeYou)
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
@@ -899,17 +906,18 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Jetispot](https://github.com/iTaysonLab/jetispot)
-    - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`**
+  - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`**
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Streaming
+
 - [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap)
 - [Burning-Series](https://github.com/DATL4G/BurningSeries-Android/)
 - [CloudStream](https://github.com/recloudstream/cloudstream)
 - [Findroid](https://github.com/jarnedemeulemeester/findroid)
 - [Jellyfin](https://github.com/jellyfin/jellyfin-android)
 - [Kodi](https://github.com/xbmc/xbmc)
-    - [Kore](https://github.com/xbmc/Kore) **`FORK`**
+  - [Kore](https://github.com/xbmc/Kore) **`FORK`**
 
 #### YouTube Client
 
@@ -922,9 +930,9 @@ If you want to help out with the project, here are some ideas:
 - [LightTube](https://github.com/kuylar/lighttube-android)
 - [Namida](https://github.com/namidaco/namida)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-    - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
-    - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
-    - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
+  - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
+  - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
+  - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
 - [raag](https://github.com/raag-music/raag)
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
@@ -938,14 +946,15 @@ If you want to help out with the project, here are some ideas:
 
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
-    - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
+  - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
+  - [OuterTune](https://github.com/DD3Boh/OuterTune) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Vibe Music](https://github.com/sheikhhaziq/vibemusic)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-    - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`**
-    - [RiMusic](https://github.com/fast4x/RiMusic) **`FORK`**
+  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`**
+  - [RiMusic](https://github.com/fast4x/RiMusic) **`FORK`**
 - [You Tune](https://github.com/SuhasDissa/You-Tune)
 
 #### Twitch
@@ -1035,7 +1044,7 @@ If you want to help out with the project, here are some ideas:
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
-    - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
+  - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
 - [Quillpad](https://github.com/quillpad/quillpad)
 - [Ruslin](https://github.com/ruslin-note/ruslin-android)
@@ -1155,12 +1164,12 @@ If you want to help out with the project, here are some ideas:
 #### Manga & Anime
 
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
-    - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
+  - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
-    - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
+  - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Hentoid](https://github.com/avluis/Hentoid)
-    - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
+  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 - [LNReader](https://github.com/LNReader/lnreader)
@@ -1210,7 +1219,6 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-
 ### :mortar_board: Science & Education
 
 - [Atomic - Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
@@ -1259,9 +1267,9 @@ If you want to help out with the project, here are some ideas:
 
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [OpenCord](https://github.com/topminipie/OpenCord) **`DEAD`**
-    - [OpenCord](https://github.com/MateriiApps/OpenCord) **`DEAD`** **`FORK`**
+  - [OpenCord](https://github.com/MateriiApps/OpenCord) **`DEAD`** **`FORK`**
 - [Vendetta](https://github.com/vendetta-mod/Vendetta) **`DEAD`** **`FORK`**
-    - [Revenge](https://github.com/revenge-mod/Revenge) **`DEAD`** **`FORK`**
+  - [Revenge](https://github.com/revenge-mod/Revenge) **`DEAD`** **`FORK`**
 - [Vendroid](https://github.com/Vencord/Vendroid)
 
 #### Github
@@ -1272,7 +1280,7 @@ If you want to help out with the project, here are some ideas:
 - [DioHub](https://github.com/NamanShergill/diohub)
 - [Gloom - GitHub](https://github.com/MateriiApps/Gloom)
 - [OctoDroid](https://github.com/slapperwan/gh4a) **`DEAD`**
-    - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`**
+  - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`**
 
 #### Instagram
 
@@ -1297,8 +1305,8 @@ If you want to help out with the project, here are some ideas:
 - [Dimett](https://github.com/MateriiApps/Dimett)
 - [Firefly](https://github.com/Firefly-Social/Firefly)
 - [Mastodon](https://github.com/mastodon/mastodon-android)
-    - [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`FORK`**
-    - [Moshidon](https://github.com/LucasGGamerM/moshidon) **`FORK`**
+  - [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`FORK`**
+  - [Moshidon](https://github.com/LucasGGamerM/moshidon) **`FORK`**
 - [monocles social](https://codeberg.org/Arne/monocles_social)
 - [Pachli](https://github.com/pachli/pachli-android)
 - [Tusky](https://github.com/tuskyapp/Tusky)
@@ -1337,7 +1345,7 @@ If you want to help out with the project, here are some ideas:
 - [Quacker](https://github.com/TheHCJ/Quacker) **`DEAD`**
 - [Squawker](https://github.com/j-fbriere/squawker)
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) **`DEAD`**
-    - [Twidere X](https://github.com/TwidereProject/TwidereX-Android) **`DEAD`** **`FORK`**
+  - [Twidere X](https://github.com/TwidereProject/TwidereX-Android) **`DEAD`** **`FORK`**
 
 #### Xda
 
@@ -1364,8 +1372,8 @@ If you want to help out with the project, here are some ideas:
 - [Insigno](https://github.com/MindsHub/insigno_frontend)
 - [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)
 - [LibreHealth](https://gitlab.com/librehealth)
-    - [CCF](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) **`FORK`**
-    - [ECEB](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) **`FORK`**
+  - [CCF](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) **`FORK`**
+  - [ECEB](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) **`FORK`**
 - [Massive](https://gitea.presley.nz/brandon.presley/Massive)
 - [Medic Log](https://github.com/rh-id/a-medic-log)
 - [MediLog](https://codeberg.org/toz/MediLog)
@@ -1395,7 +1403,7 @@ If you want to help out with the project, here are some ideas:
 - [Snapdrop](https://github.com/fm-sys/snapdrop-android)
 - [Syncopoli](https://gitlab.com/fengshaun/syncopoli)
 - [Syncthing](https://github.com/syncthing/syncthing-android)
-    - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) **`FORK`**
+  - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) **`FORK`**
 - [xBrowserSync](https://github.com/xbrowsersync/app)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -1427,15 +1435,17 @@ If you want to help out with the project, here are some ideas:
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 
 #### GSI
+
 - [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
 - [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo)
 
 #### Info
+
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor)
 - [Octi](https://github.com/d4rken-org/octi)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
-    - [LibChecker](https://github.com/zhaobozhen/LibChecker) **`FORK`**
+  - [LibChecker](https://github.com/zhaobozhen/LibChecker) **`FORK`**
 
 #### Optimizer & Cleaner
 
@@ -1455,16 +1465,17 @@ If you want to help out with the project, here are some ideas:
 - [LSPatch](https://github.com/LSPosed/LSPatch) **`DEAD`**
 - [LSPosed](https://github.com/LSPosed/LSPosed) **`DEAD`**
 - [Magisk](https://github.com/topjohnwu/Magisk)
-    - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
+  - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
 - [Mrepo](https://github.com/ya0211/MRepo) **`DEAD`**
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 
 #### Terminal
 
 - [Termux](https://github.com/termux/termux-app)
-    - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
+  - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
 
 #### Theme
+
 - [Dark theme](https://github.com/phstudio2/Darktheme)
 - [DarQ](https://github.com/KieronQuinn/DarQ)
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker)
