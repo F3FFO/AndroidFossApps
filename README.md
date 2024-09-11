@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
 - [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [OuterTune](https://github.com/DD3Boh/OuterTune)
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
-- [Update Me](https://github.com/anfreire/updateMe-Mobile)
 
 ---
 
@@ -371,6 +371,7 @@ _Last **25 apps** that were recently added to list !_
 - [Kontalk](https://github.com/kontalk/androidclient)
 - [Manyverse](https://gitlab.com/staltz/manyverse)
 - [Meshenger](https://github.com/meshenger-app/meshenger-android)
+- [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Mumla](https://gitlab.com/quite/mumla)
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
 - [Threema Libre](https://github.com/threema-ch/threema-android)
