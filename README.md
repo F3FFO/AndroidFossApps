@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Bitwarden BETA](https://github.com/bitwarden/android)
 - [PSLab](https://github.com/fossasia/pslab-android)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
-- [Wattz](https://github.com/dubrowgn/wattz)
 
 ---
 
@@ -1032,6 +1032,7 @@ _Last **25 apps** that were recently added to list !_
 - [JustNotes](https://github.com/jjewuz/JustNotes)
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
+- [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Logseq](https://github.com/logseq/logseq)
 - [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose)
 - [Markor](https://github.com/gsantner/markor)
@@ -1040,11 +1041,11 @@ _Last **25 apps** that were recently added to list !_
 - [My Brain](https://github.com/mhss1/MyBrain)
 - [neutriNote](https://github.com/appml/neutrinote)
 - [Notally](https://github.com/OmGodse/Notally)
-- [NoteCrypt](https://github.com/RyuzakiKK/NoteCrypt)
+- [NoteCrypt](https://github.com/RyuzakiKK/NoteCrypt) **`DEAD`**
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Noterly](https://github.com/tomc128/noterly)
 - [Notesnook](https://github.com/streetwriters/notesnook)
-- [Notification Notes](https://github.com/khuttun/NotificationNotes)
+- [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
