@@ -37,6 +37,9 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Table Habit](https://github.com/FriesI23/mhabit)
+- [Sobriety](https://github.com/KiARC/Sobriety)
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Launch Chat](https://github.com/vinaygopinath/launch-chat)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
@@ -59,9 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [PSLab](https://github.com/fossasia/pslab-android)
 - [TermuC](https://github.com/RainbowC0/TermuC)
 - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
-- [Valv](https://github.com/Arctosoft/Valv-Android)
-- [OuterTune](https://github.com/DD3Boh/OuterTune)
-- [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 
 ---
 
@@ -161,6 +161,7 @@ _Last **25 apps** that were recently added to list !_
   - [X(Twitter) :warning:](#xtwitter)
   - [Xda :warning:](#xda)
 - [:running: Sport & Health](#running-sport--health)
+  - [Tracker](#tracker)
 - [:arrows_counterclockwise: Synchronisation](#arrows_counterclockwise-synchronisation)
 - [:toolbox: System](#toolbox-system)
   - [ADB Tools](#adb-tools)
@@ -1388,29 +1389,35 @@ _Last **25 apps** that were recently added to list !_
 
 ### :running: Sport & Health
 
-- [Drip](https://gitlab.com/bloodyhealth/drip)
-- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
-- [FitBook](https://github.com/brandonp2412/FitBook)
-- [FitoTrack](https://codeberg.org/jannis/FitoTrack)
-- [Flexify](https://github.com/brandonp2412/Flexify)
 - [Food-E](https://github.com/SuhasDissa/Food-E-App)
 - [HeartBeat](https://github.com/berdosi/HeartBeat)
 - [hEARtest](https://github.com/woheller69/audiometry)
 - [Insigno](https://github.com/MindsHub/insigno_frontend)
 - [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)
 - [LibreHealth](https://gitlab.com/librehealth)
-  - [CCF](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) **`FORK`**
-  - [ECEB](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) **`FORK`**
-- [Massive](https://gitea.presley.nz/brandon.presley/Massive)
+  - [CCF](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app)
+  - [ECEB](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb)
+- [fMassive](https://gitea.presley.nz/brandon.presley/fmassive)
 - [Medic Log](https://github.com/rh-id/a-medic-log)
 - [MediLog](https://codeberg.org/toz/MediLog)
-- [Monochromatic](https://github.com/RichyHBM/Monochromatic)
-- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
-- [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
+- [Monochromatic](https://github.com/RichyHBM/Monochromatic) **`DEAD`**
 - [Red Moon](https://github.com/LibreShift/red-moon)
 - [Survival Manual](https://github.com/ligi/SurvivalManual)
 - [Taru](https://github.com/nirajprakash/taru-plants-android)
+
+#### Tracker
+
+- [Drip](https://gitlab.com/bloodyhealth/drip)
+- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [FitBook](https://github.com/brandonp2412/FitBook)
+- [FitoTrack](https://codeberg.org/jannis/FitoTrack)
+- [Flexify](https://github.com/brandonp2412/Flexify)
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
+- [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
+- [Sobriety](https://github.com/KiARC/Sobriety)
+- [Table Habit](https://github.com/FriesI23/mhabit)
 - [Waistline](https://github.com/davidhealey/waistline)
 - [Wger](https://github.com/wger-project/flutter)
 
