@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Sobriety](https://github.com/KiARC/Sobriety)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Bitwarden BETA](https://github.com/bitwarden/android)
 - [PSLab](https://github.com/fossasia/pslab-android)
-- [TermuC](https://github.com/RainbowC0/TermuC)
 
 ---
 
@@ -377,6 +377,7 @@ _Last **25 apps** that were recently added to list !_
 - [Mumla](https://gitlab.com/quite/mumla)
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
 - [Threema Libre](https://github.com/threema-ch/threema-android)
+- [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Wire](https://github.com/wireapp/wire-android)
 
 #### Matrix
