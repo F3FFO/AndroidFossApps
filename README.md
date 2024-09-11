@@ -116,6 +116,7 @@ _Last **25 apps** that were recently added to list !_
 - [:compass: Maps & Navigation](#compass-maps--navigation)
 - [:clapper: Media](#clapper-media)
   - [Equalizer](#equalizer)
+  - [Music](#music)
   - [Music/Audio Player](#musicaudio-player)
   - [Podcast/Audio Book Player](#podcastaudio-book-player)
   - [Subsonic Client :warning:](#subsonic-client)
@@ -846,6 +847,10 @@ _Last **25 apps** that were recently added to list !_
 
 - [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP)
 
+#### Music
+
+- [Metronome](https://github.com/Kr0oked/Metronome)
+
 #### Music/Audio Player
 
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -1422,7 +1427,6 @@ _Last **25 apps** that were recently added to list !_
 
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
-- [Metronome](https://github.com/Kr0oked/Metronome)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
