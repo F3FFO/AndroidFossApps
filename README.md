@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
 - [OuterTune](https://github.com/DD3Boh/OuterTune)
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Logseq](https://github.com/logseq/logseq)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
-- [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 
 ---
 
@@ -361,8 +361,9 @@ _Last **25 apps** that were recently added to list !_
 
 - [blabber.im](https://codeberg.org/kriztan/blabber.im)
 - [Briar](https://code.briarproject.org/briar/briar)
-- [Conversations](https://github.com/siacs/Conversations)
+- [Conversations](https://github.com/siacs/Conversations) **`DEAD`**
   - [Cheogram](https://git.singpolyma.net/cheogram-android) **`FORK`**
+  - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic) **`FORK`**
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 - [Kontalk](https://github.com/kontalk/androidclient)
