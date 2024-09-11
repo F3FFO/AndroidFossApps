@@ -409,7 +409,7 @@ _Last **25 apps** that were recently added to list !_
   - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
     - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
     - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
-    - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`**
+    - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`** **`DEAD`**
     - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
     - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android) **`FORK`**
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
