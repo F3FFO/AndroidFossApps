@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Transito](https://git.sr.ht/~mil/transito)
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
-- [Bitwarden BETA](https://github.com/bitwarden/android)
 
 ---
 
@@ -370,6 +370,7 @@ _Last **25 apps** that were recently added to list !_
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 - [Kontalk](https://github.com/kontalk/androidclient)
+- [KouChat](https://github.com/blurpy/kouchat-android)
 - [Manyverse](https://gitlab.com/staltz/manyverse)
 - [Meshenger](https://github.com/meshenger-app/meshenger-android)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
