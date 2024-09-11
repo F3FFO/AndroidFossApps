@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Bitwarden BETA](https://github.com/bitwarden/android)
 - [PSLab](https://github.com/fossasia/pslab-android)
 - [TermuC](https://github.com/RainbowC0/TermuC)
 - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [Wattz](https://github.com/dubrowgn/wattz)
 - [Linkora](https://github.com/sakethpathike/Linkora)
-- [Finamp](https://github.com/jmshrv/finamp)
 
 ---
 
@@ -1085,6 +1085,7 @@ _Last **25 apps** that were recently added to list !_
 ### :closed_lock_with_key: Password & Authentication
 
 - [Bitwarden](https://github.com/bitwarden/mobile)
+- [Bitwarden BETA](https://github.com/bitwarden/android)
 - [Keepass2Android](https://github.com/PhilippC/keepass2android)
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 - [KeyManager](https://github.com/Yash-Garg/KeyManager)
