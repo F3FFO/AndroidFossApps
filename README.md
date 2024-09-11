@@ -37,6 +37,19 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
+- [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
+- [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
+- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer)
+- [Helio](https://github.com/helio-fm/helio-sequencer)
+- [Hexpress](https://github.com/jmiskovic/hexpress)
+- [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
+- [Noice](https://github.com/ashutoshgngwr/noice)
+- [Noten Learner](https://github.com/MelvilQ/noten-lernen)
+- [Practice Suite](https://codeberg.org/Berker/practice_suite)
+- [Rush](https://github.com/shub39/Rush)
+- [Tack](https://github.com/patzly/tack-android)
+- [Tuner](https://github.com/thetwom/Tuner)
 - [Transito](https://git.sr.ht/~mil/transito)
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
@@ -49,19 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
-- [Awery](https://github.com/MrBoomDeveloper/Awery)
-- [Dantotsu](https://github.com/rebelonion/Dantotsu)
-- [GlassDown](https://github.com/RomanK2311/glassdown)
-- [NumberHub](https://github.com/Myzel394/NumberHub)
-- [Safe Space](https://github.com/aashishksahu/SafeSpace)
-- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
-- [Fossify Notes](https://github.com/FossifyOrg/Notes)
-- [LibChecker](https://github.com/LibChecker/LibChecker)
-- [OCR](https://github.com/SubhamTyagi/android-ocr)
-- [NFCGate](https://github.com/nfcgate/nfcgate)
-- [InnerTune](https://github.com/Malopieds/InnerTune)
-- [FBoard](https://gitlab.com/frknkrc44/superboard)
-- [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 
 ---
 
@@ -849,7 +849,20 @@ _Last **25 apps** that were recently added to list !_
 
 #### Music
 
-- [Metronome](https://github.com/Kr0oked/Metronome)
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
+- [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
+- [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
+- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer)
+- [Helio](https://github.com/helio-fm/helio-sequencer)
+- [Hexpress](https://github.com/jmiskovic/hexpress)
+- [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
+- [Metronome](https://github.com/thetwom/toc2)
+- [Noice](https://github.com/ashutoshgngwr/noice)
+- [Noten Learner](https://github.com/MelvilQ/noten-lernen)
+- [Practice Suite](https://codeberg.org/Berker/practice_suite)
+- [Rush](https://github.com/shub39/Rush)
+- [Tack](https://github.com/patzly/tack-android)
+- [Tuner](https://github.com/thetwom/Tuner)
 
 #### Music/Audio Player
 
@@ -1622,8 +1635,8 @@ _Last **25 apps** that were recently added to list !_
 
 ## 🪢 Sources
 
-- **Mastodon:** [foss_android](https://mstdn.social/@foss_android)
-- **Lemmy:** [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)
-- **Reddit:** [r/fossdroid](https://www.reddit.com/r/fossdroid/)
-- **Telegram:** [WSTprojects](https://t.me/WSTprojects), [FossDroid](https://t.me/FossDroidAndroid),
-- **Similar Lists:** [Android FOSS](https://github.com/offa/android-foss/tree/master), [Material You Apps List](https://github.com/nyas1/Material-You-app-list), [degoogle](https://github.com/tycrek/degoogle), [AAA](https://github.com/Psyhackological/AAA)
+- \*_Mastodon:_- [foss_android](https://mstdn.social/@foss_android)
+- \*_Lemmy:_- [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)
+- \*_Reddit:_- [r/fossdroid](https://www.reddit.com/r/fossdroid/)
+- \*_Telegram:_- [WSTprojects](https://t.me/WSTprojects), [FossDroid](https://t.me/FossDroidAndroid),
+- \*_Similar Lists:_- [Android FOSS](https://github.com/offa/android-foss/tree/master), [Material You Apps List](https://github.com/nyas1/Material-You-app-list), [degoogle](https://github.com/tycrek/degoogle), [AAA](https://github.com/Psyhackological/AAA)
