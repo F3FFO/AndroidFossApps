@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Transito](https://git.sr.ht/~mil/transito)
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Bitwarden BETA](https://github.com/bitwarden/android)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [InnerTune](https://github.com/Malopieds/InnerTune)
 - [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
-- [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 
 ---
 
@@ -829,6 +829,7 @@ _Last **25 apps** that were recently added to list !_
 - [OsmAnd~](https://github.com/osmandapp/OsmAnd)
 - [Private Location](https://github.com/wesaphzt/privatelocation)
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
+- [Transito](https://git.sr.ht/~mil/transito)
 - [Transportr](https://github.com/grote/transportr)
 - [Trekarta](https://github.com/andreynovikov/trekarta)
 - [Tridenta](https://github.com/Stypox/tridenta)
