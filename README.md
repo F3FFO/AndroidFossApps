@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [TermuC](https://github.com/RainbowC0/TermuC)
 - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
 - [OuterTune](https://github.com/DD3Boh/OuterTune)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Linkora](https://github.com/sakethpathike/Linkora)
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Logseq](https://github.com/logseq/logseq)
-- [Butterfly](https://github.com/LinwoodDev/Butterfly)
 
 ---
 
@@ -1497,6 +1497,7 @@ _Last **25 apps** that were recently added to list !_
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
 - [Markor](https://github.com/gsantner/markor)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
+- [TermuC](https://github.com/RainbowC0/TermuC)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
