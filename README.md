@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [PSLab](https://github.com/fossasia/pslab-android)
 - [TermuC](https://github.com/RainbowC0/TermuC)
 - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Wattz](https://github.com/dubrowgn/wattz)
 - [Linkora](https://github.com/sakethpathike/Linkora)
 - [Finamp](https://github.com/jmshrv/finamp)
-- [Logseq](https://github.com/logseq/logseq)
 
 ---
 
@@ -1231,6 +1231,7 @@ _Last **25 apps** that were recently added to list !_
 - [Git+ Coach](https://github.com/vishal2376/git-coach)
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [phyphox](https://github.com/phyphox/phyphox-android)
+- [PSLab](https://github.com/fossasia/pslab-android)
 - [Snow](https://github.com/sahej-dev/Snow)
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
