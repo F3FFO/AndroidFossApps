@@ -37,6 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 _Last **25 apps** that were recently added to list !_
 
+- [Launch Chat](https://github.com/vinaygopinath/launch-chat)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
@@ -61,7 +62,6 @@ _Last **25 apps** that were recently added to list !_
 - [Valv](https://github.com/Arctosoft/Valv-Android)
 - [OuterTune](https://github.com/DD3Boh/OuterTune)
 - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe)
-- [Anx Reader](https://github.com/Anxcye/anx-reader)
 
 ---
 
@@ -372,6 +372,7 @@ _Last **25 apps** that were recently added to list !_
 - [Manyverse](https://gitlab.com/staltz/manyverse)
 - [Meshenger](https://github.com/meshenger-app/meshenger-android)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
+  - [Launch Chat](https://github.com/vinaygopinath/launch-chat) **`FORK`**
 - [Mumla](https://gitlab.com/quite/mumla)
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
 - [Threema Libre](https://github.com/threema-ch/threema-android)
