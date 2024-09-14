@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Zapstore](https://github.com/zapstore/zapstore)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
 - [Transito](https://git.sr.ht/~mil/transito)
-- [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 
 </details>
 
@@ -247,6 +247,7 @@ If you want to help out with the project, here are some ideas:
 - [Sky Droid](https://github.com/redsolver/skydroid)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
+- [Zapstore](https://github.com/zapstore/zapstore)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
