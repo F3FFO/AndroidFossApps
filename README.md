@@ -76,8 +76,8 @@ If you want to help out with the project, here are some ideas:
 - [:floppy_disk: Backup](#floppy_disk-backup)
 - [:battery: Battery](#battery-battery)
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
-  - [Chrome Based](#chrome-based)
-  - [Firefox Based](#firefox-based)
+  - [Chromium Based](#chromium-based)
+  - [Gecko Based](#gecko-based)
   - [Other](#other)
   - [Tools](#tools)
 - [:1234: Calculator](#1234-calculator)
@@ -277,12 +277,12 @@ If you want to help out with the project, here are some ideas:
 
 ### :globe_with_meridians: Browser
 
-#### Chrome Based
+#### Chromium Based
 
 - [Cromite](https://github.com/uazo/cromite)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 
-#### Firefox Based
+#### Gecko Based
 
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
   - [Firefox Focus](https://hg.mozilla.org/mozilla-central) **`FORK`**
