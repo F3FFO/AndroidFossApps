@@ -829,7 +829,7 @@ If you want to help out with the project, here are some ideas:
 - [BTC Map](https://github.com/teambtcmap/btcmap-android)
 - [Bimba](https://git.apiote.xyz/Bimba.git)
 - [Compass](https://github.com/Kr0oked/Compass)
-- [Geomag](https://github.com/ya0211/Geomag)
+- [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [GMaps WV](https://gitlab.com/divested-mobile/maps)
 - [μlogger](https://github.com/bfabiszewski/ulogger-android)
 - [OpenTopoMap Viewer](https://github.com/Pygmalion69/OpenTopoMapViewer)
