@@ -35,7 +35,9 @@ If you want to help out with the project, here are some ideas:
 
 ## :new: Newly Added Apps!
 
-_Last **25 apps** that were recently added to list !_
+<details>
+
+<summary> Last **25 apps** that were recently added to list !</summary>
 
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
@@ -63,7 +65,7 @@ _Last **25 apps** that were recently added to list !_
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 - [Chronos](https://github.com/meenbeese/Chronos)
 
----
+</details>
 
 ## :scroll: Table of Contents
 
