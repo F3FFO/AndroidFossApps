@@ -37,7 +37,7 @@ If you want to help out with the project, here are some ideas:
 
 <details>
 
-<summary> Last **25 apps** that were recently added to list !</summary>
+<summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
