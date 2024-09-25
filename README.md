@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
 - [Transito](https://git.sr.ht/~mil/transito)
-- [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
 
 </details>
 
@@ -1266,6 +1266,7 @@ If you want to help out with the project, here are some ideas:
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [phyphox](https://github.com/phyphox/phyphox-android)
 - [PSLab](https://github.com/fossasia/pslab-android)
+- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [Snow](https://github.com/sahej-dev/Snow)
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
