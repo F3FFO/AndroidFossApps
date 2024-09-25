@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [KouChat](https://github.com/blurpy/kouchat-android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Rush](https://github.com/shub39/Rush)
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
-- [Transito](https://git.sr.ht/~mil/transito)
 
 </details>
 
@@ -1003,6 +1003,7 @@ If you want to help out with the project, here are some ideas:
 - [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 - [Just (Video) Player](https://github.com/moneytoo/Player)
 - [mpv for Android](https://github.com/mpv-android/mpv-android)
+  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`**
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [VLC](https://github.com/videolan/vlc-android)
