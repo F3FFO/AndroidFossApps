@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [Paperize](https://github.com/Anthonyy232/Paperize)
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
@@ -1511,6 +1512,7 @@ If you want to help out with the project, here are some ideas:
 - [APatch](https://github.com/bmax121/APatch)
 - [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer) **`DEAD`**
 - [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
+- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [KernelSU](https://github.com/tiann/KernelSU/)
 - [LSPatch](https://github.com/LSPosed/LSPatch) **`DEAD`**
 - [LSPosed](https://github.com/LSPosed/LSPosed) **`DEAD`**
