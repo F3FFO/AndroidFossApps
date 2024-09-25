@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Paperize](https://github.com/Anthonyy232/Paperize)
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
 - [Rush](https://github.com/shub39/Rush)
 - [Tack](https://github.com/patzly/tack-android)
-- [Tuner](https://github.com/thetwom/Tuner)
 
 </details>
 
@@ -1628,6 +1628,7 @@ If you want to help out with the project, here are some ideas:
 - [Doodle](https://github.com/patzly/doodle-android)
 - [GIF Live Wallpaper](https://github.com/redwarp/gif-wallpaper)
 - [Palette-Cycle](https://github.com/ManApart/palette-cycle)
+- [Paperize](https://github.com/Anthonyy232/Paperize)
 - [WallFlow](https://github.com/ammargitham/WallFlow)
 - [WallMan](https://gitlab.com/colorata/wallman)
 - [Wall You](https://github.com/you-apps/WallYou)
