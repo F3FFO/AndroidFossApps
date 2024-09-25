@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Tuner](https://github.com/thetwom/Tuner)
 - [Transito](https://git.sr.ht/~mil/transito)
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
-- [Chronos](https://github.com/meenbeese/Chronos)
 
 </details>
 
@@ -171,6 +171,7 @@ If you want to help out with the project, here are some ideas:
   - [GSI](#gsi)
   - [Info](#info)
   - [Optimizer & Cleaner](#optimizer--cleaner)
+  - [Shizuku](#shizuku)
   - [SuperUser](#superuser)
   - [Terminal](#terminal)
   - [Theme](#theme)
@@ -1495,6 +1496,11 @@ If you want to help out with the project, here are some ideas:
 - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
+#### Shizuku
+
+- [Shizuku](https://github.com/RikkaApps/Shizuku)
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+
 #### SuperUser
 
 > :warning: This section contains apps that require root privileges to function and without which such apps are useless
@@ -1509,7 +1515,6 @@ If you want to help out with the project, here are some ideas:
 - [Magisk](https://github.com/topjohnwu/Magisk)
   - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
 - [Mrepo](https://github.com/ya0211/MRepo) **`DEAD`**
-- [Shizuku](https://github.com/RikkaApps/Shizuku)
 
 #### Terminal
 
