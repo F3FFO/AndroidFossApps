@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [Paperize](https://github.com/Anthonyy232/Paperize)
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Noten Learner](https://github.com/MelvilQ/noten-lernen)
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
 - [Rush](https://github.com/shub39/Rush)
-- [Tack](https://github.com/patzly/tack-android)
 
 </details>
 
@@ -650,6 +650,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
+- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
