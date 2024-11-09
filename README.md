@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 - [OONI Probe](https://github.com/ooni/probe-android)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
-- [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
 
 </details>
 
@@ -1618,6 +1618,7 @@ If you want to help out with the project, here are some ideas:
 ### :wrench: Utilities
 
 - [JsonList](https://github.com/SlaVcE14/JsonList)
+- [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
