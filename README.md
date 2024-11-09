@@ -39,31 +39,32 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
-1. [Sky Map](https://github.com/sky-map-team/stardroid)
-2. [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
-3. [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
-4. [Paperize](https://github.com/Anthonyy232/Paperize)
-5. [mpvKt](https://github.com/abdallahmehiz/mpvKt)
-6. [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
-7. [ShizuTools](https://github.com/legendsayantan/ShizuTools)
-8. [Zapstore](https://github.com/zapstore/zapstore)
-9. [AutoPie](https://github.com/cryptrr/AutoPie)
-10. [KouChat](https://github.com/blurpy/kouchat-android)
-11. [Openreads](https://github.com/mateusz-bak/openreads)
-12. [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
-13. [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
-14. [Table Habit](https://github.com/FriesI23/mhabit)
-15. [Sobriety](https://github.com/KiARC/Sobriety)
-16. [Loop Habit Tracker](https://github.com/iSoron/uhabits)
-17. [Launch Chat](https://github.com/vinaygopinath/launch-chat)
-18. [Openinwa](https://github.com/SubhamTyagi/openinwa)
-19. [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
-20. [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
-21. [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
-22. [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer)
-23. [Helio](https://github.com/helio-fm/helio-sequencer)
-24. [Hexpress](https://github.com/jmiskovic/hexpress)
-25. [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
+- [JsonList](https://github.com/SlaVcE14/JsonList)
+- [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
+- [OONI Probe](https://github.com/ooni/probe-android)
+- [Orgro](https://github.com/amake/orgro)
+- [Materialious](https://github.com/Materialious/Materialious)
+- [Sky Map](https://github.com/sky-map-team/stardroid)
+- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
+- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
+- [Paperize](https://github.com/Anthonyy232/Paperize)
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt)
+- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+- [Zapstore](https://github.com/zapstore/zapstore)
+- [AutoPie](https://github.com/cryptrr/AutoPie)
+- [KouChat](https://github.com/blurpy/kouchat-android)
+- [Openreads](https://github.com/mateusz-bak/openreads)
+- [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
+- [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
+- [Table Habit](https://github.com/FriesI23/mhabit)
+- [Sobriety](https://github.com/KiARC/Sobriety)
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+- [Launch Chat](https://github.com/vinaygopinath/launch-chat)
+- [Openinwa](https://github.com/SubhamTyagi/openinwa)
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
+- [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
+- [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
 
 </details>
 
@@ -180,6 +181,7 @@ If you want to help out with the project, here are some ideas:
 - [:clipboard: ToDo List](#clipboard-todo-list)
 - [:secret: Translator](#secret-translator)
 - [:anchor: URL Manipulation](#anchor-url-manipulation)
+- [:wrench: Utilities](#utilities)
 - [:earth_africa: VPN](#earth_africa-vpn)
 - [:iphone: Wallpaper](#iphone-wallpaper)
 - [:sunny: Weather](#sunny-weather)
@@ -287,12 +289,12 @@ If you want to help out with the project, here are some ideas:
 #### Gecko Based
 
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
-  - [Firefox Focus](https://hg.mozilla.org/mozilla-central) **`FORK`**
-  - [Firefox Klar](https://hg.mozilla.org/mozilla-central) **`FORK`**
   - [Fennec](https://gitlab.com/relan/fennecbuild)
-    - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
+  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
+- [Firefox Focus](https://hg.mozilla.org/mozilla-central)
+- [Firefox Klar](https://hg.mozilla.org/mozilla-central)
 
 #### Other
 
@@ -962,6 +964,7 @@ If you want to help out with the project, here are some ideas:
 - [Hyperion](https://github.com/zt64/Hyperion)
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/kuylar/lighttube-android)
+- [Materialious](https://github.com/Materialious/Materialious)
 - [Namida](https://github.com/namidaco/namida)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
   - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
@@ -1021,6 +1024,7 @@ If you want to help out with the project, here are some ideas:
 ### :signal_strength: Network
 
 - [NetGuard](https://github.com/M66B/NetGuard)
+- [OONI Probe](https://github.com/ooni/probe-android)
 - [Orbot](https://github.com/guardianproject/orbot)
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
@@ -1547,6 +1551,7 @@ If you want to help out with the project, here are some ideas:
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
 - [Markor](https://github.com/gsantner/markor)
+- [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
 - [TermuC](https://github.com/RainbowC0/TermuC)
 
@@ -1605,6 +1610,15 @@ If you want to help out with the project, here are some ideas:
 - [Untracker](https://github.com/zhanghai/Untracker)
 - [UntrackMe](https://framagit.org/tom79/nitterizeme)
 - [URLCheck](https://github.com/TrianguloY/UrlChecker)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
+### :wrench: Utilities
+
+- [JsonList](https://github.com/SlaVcE14/JsonList)
+- [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
