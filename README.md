@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [WikiReader](https://github.com/nsh07/WikiReader)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Openreads](https://github.com/mateusz-bak/openreads)
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
-- [Table Habit](https://github.com/FriesI23/mhabit)
 
 </details>
 
@@ -1472,6 +1472,7 @@ If you want to help out with the project, here are some ideas:
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
+- [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
