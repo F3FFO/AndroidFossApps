@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [NotallyX](https://github.com/PhilKes/NotallyX)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Launch Chat](https://github.com/vinaygopinath/launch-chat)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
-- [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
 
 </details>
 
@@ -1076,6 +1076,7 @@ If you want to help out with the project, here are some ideas:
 - [My Brain](https://github.com/mhss1/MyBrain)
 - [neutriNote](https://github.com/appml/neutrinote)
 - [Notally](https://github.com/OmGodse/Notally)
+- [NotallyX](https://github.com/PhilKes/NotallyX)
 - [NoteCrypt](https://github.com/RyuzakiKK/NoteCrypt) **`DEAD`**
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Noterly](https://github.com/tomc128/noterly)
