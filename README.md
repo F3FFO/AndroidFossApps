@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [WikiReader](https://github.com/nsh07/WikiReader)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Arru](https://github.com/KSSidll/Arru)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Sobriety](https://github.com/KiARC/Sobriety)
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 
 </details>
 
@@ -1281,6 +1281,7 @@ If you want to help out with the project, here are some ideas:
 - [Sky Map](https://github.com/sky-map-team/stardroid)
 - [Snow](https://github.com/sahej-dev/Snow)
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+- [WikiReader](https://github.com/nsh07/WikiReader)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
