@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Sky Map](https://github.com/sky-map-team/stardroid)
 - [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [Paperize](https://github.com/Anthonyy232/Paperize)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Helio](https://github.com/helio-fm/helio-sequencer)
 - [Hexpress](https://github.com/jmiskovic/hexpress)
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
-- [Noice](https://github.com/ashutoshgngwr/noice)
 
 </details>
 
@@ -1270,6 +1270,7 @@ If you want to help out with the project, here are some ideas:
 - [phyphox](https://github.com/phyphox/phyphox-android)
 - [PSLab](https://github.com/fossasia/pslab-android)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
+- [Sky Map](https://github.com/sky-map-team/stardroid)
 - [Snow](https://github.com/sahej-dev/Snow)
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
