@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [NotallyX](https://github.com/PhilKes/NotallyX)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Launch Chat](https://github.com/vinaygopinath/launch-chat)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
-- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 
 </details>
 
@@ -616,9 +616,10 @@ If you want to help out with the project, here are some ideas:
 ### :moneybag: Finance
 
 - [Currencies](https://github.com/sal0max/currencies)
-- [My Expenses](https://github.com/mtotschnig/MyExpenses)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet)
+- [My Expenses](https://github.com/mtotschnig/MyExpenses)
+- [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [Sushi](https://github.com/jerameel/sushi)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
