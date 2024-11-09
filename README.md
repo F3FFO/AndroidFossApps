@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Arru](https://github.com/KSSidll/Arru)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [NotallyX](https://github.com/PhilKes/NotallyX)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Table Habit](https://github.com/FriesI23/mhabit)
 - [Sobriety](https://github.com/KiARC/Sobriety)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
-- [Launch Chat](https://github.com/vinaygopinath/launch-chat)
 
 </details>
 
@@ -617,6 +617,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Arru](https://github.com/KSSidll/Arru)
 - [Currencies](https://github.com/sal0max/currencies)
+- [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet)
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
