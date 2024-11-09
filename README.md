@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DigiPaws](https://github.com/nethical6/digipaws)
 - [WikiReader](https://github.com/nsh07/WikiReader)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Arru](https://github.com/KSSidll/Arru)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [Table Habit](https://github.com/FriesI23/mhabit)
-- [Sobriety](https://github.com/KiARC/Sobriety)
 
 </details>
 
@@ -1622,6 +1622,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :wrench: Utilities
 
+- [DigiPaws](https://github.com/nethical6/digipaws)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
