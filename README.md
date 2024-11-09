@@ -181,7 +181,7 @@ If you want to help out with the project, here are some ideas:
 - [:clipboard: ToDo List](#clipboard-todo-list)
 - [:secret: Translator](#secret-translator)
 - [:anchor: URL Manipulation](#anchor-url-manipulation)
-- [:wrench: Utilities](#utilities)
+- [:wrench: Utilities](#wrench-utilities)
 - [:earth_africa: VPN](#earth_africa-vpn)
 - [:iphone: Wallpaper](#iphone-wallpaper)
 - [:sunny: Weather](#sunny-weather)
