@@ -39,6 +39,12 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
+- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
+- [Paperize](https://github.com/Anthonyy232/Paperize)
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt)
+- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [Zapstore](https://github.com/zapstore/zapstore)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [KouChat](https://github.com/blurpy/kouchat-android)
@@ -58,12 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Hexpress](https://github.com/jmiskovic/hexpress)
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
 - [Noice](https://github.com/ashutoshgngwr/noice)
-- [Noten Learner](https://github.com/MelvilQ/noten-lernen)
-- [Practice Suite](https://codeberg.org/Berker/practice_suite)
-- [Rush](https://github.com/shub39/Rush)
-- [Tack](https://github.com/patzly/tack-android)
-- [Tuner](https://github.com/thetwom/Tuner)
-- [Transito](https://git.sr.ht/~mil/transito)
 
 </details>
 
@@ -171,6 +171,7 @@ If you want to help out with the project, here are some ideas:
   - [GSI](#gsi)
   - [Info](#info)
   - [Optimizer & Cleaner](#optimizer--cleaner)
+  - [Shizuku](#shizuku)
   - [SuperUser](#superuser)
   - [Terminal](#terminal)
   - [Theme](#theme)
@@ -649,6 +650,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
+- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
@@ -1003,6 +1005,7 @@ If you want to help out with the project, here are some ideas:
 - [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
 - [Just (Video) Player](https://github.com/moneytoo/Player)
 - [mpv for Android](https://github.com/mpv-android/mpv-android)
+  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`**
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [VLC](https://github.com/videolan/vlc-android)
@@ -1266,6 +1269,7 @@ If you want to help out with the project, here are some ideas:
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [phyphox](https://github.com/phyphox/phyphox-android)
 - [PSLab](https://github.com/fossasia/pslab-android)
+- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [Snow](https://github.com/sahej-dev/Snow)
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
@@ -1497,6 +1501,11 @@ If you want to help out with the project, here are some ideas:
 - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
+#### Shizuku
+
+- [Shizuku](https://github.com/RikkaApps/Shizuku)
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+
 #### SuperUser
 
 > :warning: This section contains apps that require root privileges to function and without which such apps are useless
@@ -1505,13 +1514,13 @@ If you want to help out with the project, here are some ideas:
 - [APatch](https://github.com/bmax121/APatch)
 - [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer) **`DEAD`**
 - [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
+- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [KernelSU](https://github.com/tiann/KernelSU/)
 - [LSPatch](https://github.com/LSPosed/LSPatch) **`DEAD`**
 - [LSPosed](https://github.com/LSPosed/LSPosed) **`DEAD`**
 - [Magisk](https://github.com/topjohnwu/Magisk)
   - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
 - [Mrepo](https://github.com/ya0211/MRepo) **`DEAD`**
-- [Shizuku](https://github.com/RikkaApps/Shizuku)
 
 #### Terminal
 
@@ -1623,6 +1632,7 @@ If you want to help out with the project, here are some ideas:
 - [Doodle](https://github.com/patzly/doodle-android)
 - [GIF Live Wallpaper](https://github.com/redwarp/gif-wallpaper)
 - [Palette-Cycle](https://github.com/ManApart/palette-cycle)
+- [Paperize](https://github.com/Anthonyy232/Paperize)
 - [WallFlow](https://github.com/ammargitham/WallFlow)
 - [WallMan](https://gitlab.com/colorata/wallman)
 - [Wall You](https://github.com/you-apps/WallYou)
