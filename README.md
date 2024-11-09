@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Arru](https://github.com/KSSidll/Arru)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [NotallyX](https://github.com/PhilKes/NotallyX)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Sobriety](https://github.com/KiARC/Sobriety)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Launch Chat](https://github.com/vinaygopinath/launch-chat)
-- [Openinwa](https://github.com/SubhamTyagi/openinwa)
 
 </details>
 
@@ -615,6 +615,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :moneybag: Finance
 
+- [Arru](https://github.com/KSSidll/Arru)
 - [Currencies](https://github.com/sal0max/currencies)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet)
