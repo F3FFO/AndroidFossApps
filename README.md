@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [WikiReader](https://github.com/nsh07/WikiReader)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
 - [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
-- [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 
 </details>
 
@@ -1026,6 +1026,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :signal_strength: Network
 
+- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [NetGuard](https://github.com/M66B/NetGuard)
 - [OONI Probe](https://github.com/ooni/probe-android)
 - [Orbot](https://github.com/guardianproject/orbot)
