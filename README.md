@@ -64,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Openreads](https://github.com/mateusz-bak/openreads)
-- [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie)
 
 </details>
 
