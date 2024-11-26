@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
-- [Zapstore](https://github.com/zapstore/zapstore)
 
 </details>
 
@@ -181,6 +181,7 @@ If you want to help out with the project, here are some ideas:
 - [:secret: Translator](#secret-translator)
 - [:anchor: URL Manipulation](#anchor-url-manipulation)
 - [:wrench: Utilities](#wrench-utilities)
+- [:package: VM](#package-vm)
 - [:earth_africa: VPN](#earth_africa-vpn)
 - [:iphone: Wallpaper](#iphone-wallpaper)
 - [:sunny: Weather](#sunny-weather)
@@ -1633,6 +1634,14 @@ If you want to help out with the project, here are some ideas:
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
+### :package: VM
+
+- [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
