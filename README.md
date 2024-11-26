@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [Zapstore](https://github.com/zapstore/zapstore)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
-- [KouChat](https://github.com/blurpy/kouchat-android)
 
 </details>
 
@@ -822,6 +822,7 @@ If you want to help out with the project, here are some ideas:
 - [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher)
 - [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
+  - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF) **`FORK`**
 - [OpenLauncher](https://github.com/BennyKok/OpenLauncher)
 - [PaperLaunch](https://github.com/devmil/PaperLaunch)
 - [Pie Launcher](https://github.com/markusfisch/PieLauncher)
