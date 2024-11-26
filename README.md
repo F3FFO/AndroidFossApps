@@ -417,7 +417,7 @@ If you want to help out with the project, here are some ideas:
   - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
   - [Nullgram](https://github.com/qwq233/Nullgram) **`FORK`**
   - [OctoGram](https://github.com/OctoGramApp/OctoGram) **`FORK`**
-  - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`**
+  - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`** **`DEAD`**
   - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
     - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
     - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`** **`DEAD`**
