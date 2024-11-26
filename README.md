@@ -411,6 +411,7 @@ If you want to help out with the project, here are some ideas:
   - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`FORK`**
   - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`**
     - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A) **`FORK`**
+  - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
   - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
   - [Nagram](https://github.com/NextAlone/Nagram) **`FORK`**
   - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
@@ -418,13 +419,15 @@ If you want to help out with the project, here are some ideas:
   - [OctoGram](https://github.com/OctoGramApp/OctoGram) **`FORK`**
   - [Telegraher](https://github.com/nikitasius/Telegraher/) **`FORK`**
   - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) **`FORK`**
-    - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
     - [MercuryGram](https://github.com/drizzt/Mercurygram) **`FORK`**
     - [Nekogram X](https://github.com/NekoX-Dev/NekoX) **`FORK`** **`DEAD`**
-    - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) **`FORK`**
     - [Partisan-Telegram](https://github.com/wrwrabbit/Partisan-Telegram-Android) **`FORK`**
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
   - [moeGramX](https://github.com/moeCrafters/moeGramX) **`FORK`**
+
+##### Tools
+
+- [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
