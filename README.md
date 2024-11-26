@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 - [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 - [Zapstore](https://github.com/zapstore/zapstore)
-- [AutoPie](https://github.com/cryptrr/AutoPie)
 
 </details>
 
@@ -831,6 +831,7 @@ If you want to help out with the project, here are some ideas:
 - [Pie Launcher](https://github.com/markusfisch/PieLauncher)
 - [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
+- [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
