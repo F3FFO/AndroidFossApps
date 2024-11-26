@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Unlauncher](https://github.com/jkuester/unlauncher)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [DigiPaws](https://github.com/nethical6/digipaws)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Zapstore](https://github.com/zapstore/zapstore)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [KouChat](https://github.com/blurpy/kouchat-android)
-- [Openreads](https://github.com/mateusz-bak/openreads)
 
 </details>
 
@@ -826,6 +826,7 @@ If you want to help out with the project, here are some ideas:
 - [PaperLaunch](https://github.com/devmil/PaperLaunch)
 - [Pie Launcher](https://github.com/markusfisch/PieLauncher)
 - [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3)
+- [Unlauncher](https://github.com/jkuester/unlauncher)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
