@@ -305,7 +305,7 @@ If you want to help out with the project, here are some ideas:
 - [IdiomReplaceX Browser App](https://github.com/idiomReplaceX/IdiomReplaceX-app) **`DEAD`**
 - [Lightning](https://github.com/anthonycr/Lightning-Browser)
 - [Monocles Browser](https://codeberg.org/Arne/monocles_browser)
-- [Privacy Browser](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary)
+- [Privacy Browser](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git)
 - [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) **`DEAD`**
 
 #### Tools
