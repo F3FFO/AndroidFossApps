@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Paperize](https://github.com/Anthonyy232/Paperize)
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 - [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
 
 </details>
 
@@ -974,6 +974,7 @@ If you want to help out with the project, here are some ideas:
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/kuylar/lighttube-android)
 - [Materialious](https://github.com/Materialious/Materialious)
+- [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
   - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
