@@ -1702,8 +1702,9 @@ If you want to help out with the project, here are some ideas:
 
 ## 🪢 Sources
 
-- \*_Mastodon:_- [foss_android](https://mstdn.social/@foss_android)
-- \*_Lemmy:_- [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)
-- \*_Reddit:_- [r/fossdroid](https://www.reddit.com/r/fossdroid/)
-- \*_Telegram:_- [WSTprojects](https://t.me/WSTprojects), [FossDroid](https://t.me/FossDroidAndroid),
-- \*_Similar Lists:_- [Android FOSS](https://github.com/offa/android-foss/tree/master), [Material You Apps List](https://github.com/nyas1/Material-You-app-list), [degoogle](https://github.com/tycrek/degoogle), [AAA](https://github.com/Psyhackological/AAA)
+- \*_Mastodon:_ [foss_android](https://mstdn.social/@foss_android)
+- \*_Lemmy:_ [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)
+- \*_Reddit:_ [r/fossdroid](https://www.reddit.com/r/fossdroid/)
+- \*_Telegram:_ [WSTprojects](https://t.me/WSTprojects), [FossDroid](https://t.me/FossDroidAndroid),
+[popMODS](https://t.me/popMODS)
+- \*_Similar Lists:_ [Android FOSS](https://github.com/offa/android-foss/tree/master), [Material You Apps List](https://github.com/nyas1/Material-You-app-list), [degoogle](https://github.com/tycrek/degoogle), [AAA](https://github.com/Psyhackological/AAA)
