@@ -1338,7 +1338,7 @@ If you want to help out with the project, here are some ideas:
 
 - [DioHub](https://github.com/NamanShergill/diohub)
 - [Gloom - GitHub](https://github.com/MateriiApps/Gloom)
-- [OctoDroid](https://github.com/slapperwan/gh4a) **`DEAD`**
+- [OctoDroid](https://github.com/slapperwan/gh4a)
   - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`**
 
 #### Instagram
