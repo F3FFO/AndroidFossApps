@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [Paperize](https://github.com/Anthonyy232/Paperize)
 - [mpvKt](https://github.com/abdallahmehiz/mpvKt)
-- [ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)
 
 </details>
 
@@ -815,6 +815,7 @@ If you want to help out with the project, here are some ideas:
 - [BlissLauncher](https://gitlab.e.foundation/e/apps/BlissLauncher)
 - [Discreet Launcher](https://github.com/falzonv/discreet-launcher)
 - [Emerald Launcher](https://github.com/HenriDellal/emerald)
+- [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Fossify App Launcher](https://github.com/FossifyOrg/App-Launcher)
 - [Fossify Launcher](https://github.com/FossifyOrg/Launcher)
 - [Hex Launcher](https://github.com/MrMannWood/launcher)
