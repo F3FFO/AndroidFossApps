@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Method Call](https://github.com/coleblvck/MethodCall)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 - [Paperize](https://github.com/Anthonyy232/Paperize)
-- [mpvKt](https://github.com/abdallahmehiz/mpvKt)
 
 </details>
 
@@ -491,6 +491,7 @@ If you want to help out with the project, here are some ideas:
 - [Automation](https://git.server47.de/jens/Automation)
 - [Easer](https://github.com/renyuneyun/Easer)
 - [Home Assistant](https://github.com/home-assistant/android)
+- [Method Call](https://github.com/coleblvck/MethodCall)
 - [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
