@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Sapio](https://github.com/jonathanklee/sapio)
 - [Wallet](https://github.com/sidhant947/Wallet)
 - [Method Call](https://github.com/coleblvck/MethodCall)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Materialious](https://github.com/Materialious/Materialious)
 - [Sky Map](https://github.com/sky-map-team/stardroid)
 - [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
-- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
 
 </details>
 
@@ -1486,6 +1486,7 @@ If you want to help out with the project, here are some ideas:
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
+- [Sapio](https://github.com/jonathanklee/sapio)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
 
