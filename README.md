@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Wallet](https://github.com/sidhant947/Wallet)
 - [Method Call](https://github.com/coleblvck/MethodCall)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Sky Map](https://github.com/sky-map-team/stardroid)
 - [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
-- [Paperize](https://github.com/Anthonyy232/Paperize)
 
 </details>
 
@@ -627,6 +627,7 @@ If you want to help out with the project, here are some ideas:
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [Sushi](https://github.com/jerameel/sushi)
+- [Wallet](https://github.com/sidhant947/Wallet)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
