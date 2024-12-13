@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Book's Story](https://github.com/Acclorite/book-story)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [WikiReader](https://github.com/nsh07/WikiReader)
-- [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 
 </details>
 
@@ -590,6 +590,8 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ### :file_folder: File
+
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
 #### File Manager
 
