@@ -1536,19 +1536,9 @@ If you want to help out with the project, here are some ideas:
 
 #### SuperUser
 
-> :warning: This section contains apps that require root privileges to function and without which such apps are useless
+> :warning: I prefer not to manage this section, but I will still share useful lists for this section
 
-- [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
-- [APatch](https://github.com/bmax121/APatch)
-- [BusyBox Installer](https://github.com/SmartPack/BusyBox-Installer) **`DEAD`**
-- [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater)
-- [EnforceDoze](https://github.com/farfromrefug/EnforceDoze)
-- [KernelSU](https://github.com/tiann/KernelSU/)
-- [LSPatch](https://github.com/LSPosed/LSPatch) **`DEAD`**
-- [LSPosed](https://github.com/LSPosed/LSPosed) **`DEAD`**
-- [Magisk](https://github.com/topjohnwu/Magisk)
-  - [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`FORK`**
-- [Mrepo](https://github.com/ya0211/MRepo) **`DEAD`**
+- [Awesome Android Root](https://github.com/fynks/awesome-android-root)
 
 #### Terminal
 
