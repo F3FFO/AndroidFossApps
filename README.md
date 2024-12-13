@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Wallet](https://github.com/sidhant947/Wallet)
 - [Method Call](https://github.com/coleblvck/MethodCall)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Orgro](https://github.com/amake/orgro)
 - [Materialious](https://github.com/Materialious/Materialious)
 - [Sky Map](https://github.com/sky-map-team/stardroid)
-- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 
 </details>
 
@@ -1568,6 +1568,7 @@ If you want to help out with the project, here are some ideas:
 - [DroidVim](https://github.com/shiftrot/droidvim)
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
+- [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Markor](https://github.com/gsantner/markor)
 - [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
