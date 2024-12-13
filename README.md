@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Phocid](https://github.com/tjysunset/phocid)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 - [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Sapio](https://github.com/jonathanklee/sapio)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 - [OONI Probe](https://github.com/ooni/probe-android)
 - [Orgro](https://github.com/amake/orgro)
-- [Materialious](https://github.com/Materialious/Materialious)
 
 </details>
 
@@ -1024,6 +1024,7 @@ If you want to help out with the project, here are some ideas:
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`**
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
+- [Phocid](https://github.com/tjysunset/phocid)
 - [VLC](https://github.com/videolan/vlc-android)
 
 #### Video Editor
