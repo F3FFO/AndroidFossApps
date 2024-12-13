@@ -1531,8 +1531,9 @@ If you want to help out with the project, here are some ideas:
 
 #### Shizuku
 
-- [Shizuku](https://github.com/RikkaApps/Shizuku)
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools)
+> :warning: I prefer not to manage this section, but I will still share useful lists for this section
+
+- [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
 
 #### SuperUser
 
