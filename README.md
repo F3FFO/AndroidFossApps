@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Book's Story](https://github.com/Acclorite/book-story)
 - [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 - [Geto](https://github.com/JackEblan/Geto)
@@ -897,6 +898,7 @@ If you want to help out with the project, here are some ideas:
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [Blade Player](https://github.com/vhaudiquet/BladePlayer)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
+- [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Dialog Music Player](https://github.com/VishnuSanal/DialogMusicPlayer)
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
