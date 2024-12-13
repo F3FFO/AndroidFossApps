@@ -142,7 +142,7 @@ If you want to help out with the project, here are some ideas:
   - [Permission Manager](#permission-manager)
 - [:microphone: Recorder](#microphone-recorder)
 - [:book: Reader & Viewer](#book-reader--viewer)
-  - [Document & PDF](#document--pdf)
+  - [PDF](#pdf)
   - [Manga & Anime](#manga--anime)
   - [RSS Reader](#rss-reader)
 - [:mag: Research & Development](#mag-research--development)
@@ -1208,19 +1208,19 @@ If you want to help out with the project, here are some ideas:
 
 ### :book: Reader & Viewer
 
-- [Book's Story](https://github.com/Acclorite/book-story)
-- [Openreads](https://github.com/mateusz-bak/openreads)
-
-#### Document & PDF
-
 - [Anx Reader](https://github.com/Anxcye/anx-reader)
 - [Book Reader](https://gitlab.com/axet/android-book-reader)
+- [Book's Story](https://github.com/Acclorite/book-story)
 - [KOReader](https://github.com/koreader/koreader)
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
-- [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
-- [MuPDF](http://mupdf.com/)
+- [Openreads](https://github.com/mateusz-bak/openreads)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
+
+#### PDF
+
+- [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
+- [MuPDF](http://mupdf.com/)
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
