@@ -77,6 +77,7 @@ If you want to help out with the project, here are some ideas:
 - [:floppy_disk: Backup](#floppy_disk-backup)
 - [:battery: Battery](#battery-battery)
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
+  - [Bookmark Manager/Read It Later](#bookmark-managerread-it-later)
   - [Chromium Based](#chromium-based)
   - [Gecko Based](#gecko-based)
   - [Other](#other)
@@ -282,6 +283,14 @@ If you want to help out with the project, here are some ideas:
 
 ### :globe_with_meridians: Browser
 
+#### Bookmark Manager/Read It Later
+
+- [Frigoligo](https://github.com/casimir/frigoligo)
+- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
+- [Linkora](https://github.com/sakethpathike/Linkora)
+- [Omnivore](https://github.com/omnivore-app/omnivore)
+- [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
+
 #### Chromium Based
 
 - [Cromite](https://github.com/uazo/cromite)
@@ -312,10 +321,7 @@ If you want to help out with the project, here are some ideas:
 #### Tools
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater)
-- [Frigoligo](https://github.com/casimir/frigoligo)
-- [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
-- [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1067,8 +1073,6 @@ If you want to help out with the project, here are some ideas:
 #### Link
 
 - [Anchr for Android](https://github.com/muety/anchr-android)
-- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
-- [Linkora](https://github.com/sakethpathike/Linkora)
 - [LinkSheet](https://github.com/1fexd/LinkSheet)
 - [URLCheck](https://github.com/TrianguloY/UrlChecker)
 
