@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 - [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Wallet](https://github.com/sidhant947/Wallet)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [OONI Probe](https://github.com/ooni/probe-android)
 - [Orgro](https://github.com/amake/orgro)
 - [Materialious](https://github.com/Materialious/Materialious)
-- [Sky Map](https://github.com/sky-map-team/stardroid)
 
 </details>
 
@@ -1573,6 +1573,7 @@ If you want to help out with the project, here are some ideas:
 - [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
 - [TermuC](https://github.com/RainbowC0/TermuC)
+- [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
