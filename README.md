@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [FeedFlow](https://github.com/prof18/feed-flow)
 - [TubeSync](https://github.com/khaled-0/TubeSync)
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [Phocid](https://github.com/tjysunset/phocid)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [NotallyX](https://github.com/PhilKes/NotallyX)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
-- [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 
 </details>
 
@@ -1249,6 +1249,7 @@ If you want to help out with the project, here are some ideas:
 - [Aggregator](https://github.com/tughi/aggregator-android)
 - [Dirol Reader](https://github.com/therxmv/Dirol-Reader/)
 - [Feeder](https://gitlab.com/spacecowboy/Feeder)
+- [FeedFlow](https://github.com/prof18/feed-flow)
 - [HandyNewsReader](https://github.com/yanus171/Handy-News-Reader)
 - [NewsBlur](https://github.com/samuelclay/NewsBlur)
 - [Nunti](https://gitlab.com/ondrejfoltyn/nunti)
