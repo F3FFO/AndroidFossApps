@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [TubeSync](https://github.com/khaled-0/TubeSync)
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [Phocid](https://github.com/tjysunset/phocid)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
-- [OONI Probe](https://github.com/ooni/probe-android)
 
 </details>
 
@@ -541,6 +541,7 @@ If you want to help out with the project, here are some ideas:
 - **Video**
   - [dvd](https://github.com/yausername/dvd)
 - **YouTube**
+  - [TubeSync](https://github.com/khaled-0/TubeSync)
   - [Seal](https://github.com/JunkFood02/Seal)
   - [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
@@ -968,7 +969,7 @@ If you want to help out with the project, here are some ideas:
 - [Kodi](https://github.com/xbmc/xbmc)
   - [Kore](https://github.com/xbmc/Kore) **`FORK`**
 
-#### YouTube Client
+#### e Client
 
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
