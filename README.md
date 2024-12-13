@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Komikku](https://github.com/komikku-app/komikku)
 - [FeedFlow](https://github.com/prof18/feed-flow)
 - [TubeSync](https://github.com/khaled-0/TubeSync)
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [NotallyX](https://github.com/PhilKes/NotallyX)
 - [ScreenTime](https://github.com/markusfisch/ScreenTime)
-- [JsonList](https://github.com/SlaVcE14/JsonList)
 
 </details>
 
@@ -1232,6 +1232,7 @@ If you want to help out with the project, here are some ideas:
 - [Hentoid](https://github.com/avluis/Hentoid)
   - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
 - [IReader](https://github.com/IReaderorg/IReader)
+- [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 - [LNReader](https://github.com/LNReader/lnreader)
 - [Mangafeed](https://github.com/starfish23/mangafeed)
