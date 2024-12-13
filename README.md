@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Book's Story](https://github.com/Acclorite/book-story)
 - [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 - [Geto](https://github.com/JackEblan/Geto)
 - [Komikku](https://github.com/komikku-app/komikku)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [WikiReader](https://github.com/nsh07/WikiReader)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Arru](https://github.com/KSSidll/Arru)
-- [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 
 </details>
 
@@ -1208,6 +1208,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :book: Reader & Viewer
 
+- [Book's Story](https://github.com/Acclorite/book-story)
 - [Openreads](https://github.com/mateusz-bak/openreads)
 
 #### Document & PDF
