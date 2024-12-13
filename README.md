@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Geto](https://github.com/JackEblan/Geto)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [FeedFlow](https://github.com/prof18/feed-flow)
 - [TubeSync](https://github.com/khaled-0/TubeSync)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Arru](https://github.com/KSSidll/Arru)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [NotallyX](https://github.com/PhilKes/NotallyX)
-- [ScreenTime](https://github.com/markusfisch/ScreenTime)
 
 </details>
 
@@ -1488,6 +1488,7 @@ If you want to help out with the project, here are some ideas:
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
+- [Geto](https://github.com/JackEblan/Geto)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Sapio](https://github.com/jonathanklee/sapio)
