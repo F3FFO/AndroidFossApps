@@ -1349,8 +1349,7 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Instander](https://thedise.me/instander/repo/)
-- [Honista](https://t.me/Honistagram)
+- [Instander](https://thedise.me/instander/repo/) **`DEAD`**
 - [MyInsta](https://t.me/instasmashrepo)
 
 #### Lemmy
