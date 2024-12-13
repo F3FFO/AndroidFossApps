@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [Phocid](https://github.com/tjysunset/phocid)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 - [Karbon](https://github.com/Xed-Editor/Xed-Editor)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [JsonList](https://github.com/SlaVcE14/JsonList)
 - [Sensorkraken - Sensor Data Collection](https://gitlab.com/sensorkraken/android-app)
 - [OONI Probe](https://github.com/ooni/probe-android)
-- [Orgro](https://github.com/amake/orgro)
 
 </details>
 
@@ -591,6 +591,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)
 - [Amaze File Utilities](https://github.com/TeamAmaze/AmazeFileUtilities)
+- [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [File Manager](https://gitlab.com/axet/android-file-manager)
 - [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere)
 - [Fossify File Manager](https://github.com/FossifyOrg/File-Manager)
