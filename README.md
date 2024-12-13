@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 - [Geto](https://github.com/JackEblan/Geto)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [FeedFlow](https://github.com/prof18/feed-flow)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Arru](https://github.com/KSSidll/Arru)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
-- [NotallyX](https://github.com/PhilKes/NotallyX)
 
 </details>
 
@@ -429,6 +429,7 @@ If you want to help out with the project, here are some ideas:
 ##### Tools
 
 - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
+- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
