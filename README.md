@@ -1072,7 +1072,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Link
 
-- [Anchr for Android](https://github.com/muety/anchr-android)
+- [Anchr for Android](https://github.com/muety/anchr-android) **`DEAD`**
 - [LinkSheet](https://github.com/1fexd/LinkSheet)
 - [URLCheck](https://github.com/TrianguloY/UrlChecker)
 
