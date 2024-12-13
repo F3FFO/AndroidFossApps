@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Book's Story](https://github.com/Acclorite/book-story)
 - [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [WikiReader](https://github.com/nsh07/WikiReader)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
-- [Arru](https://github.com/KSSidll/Arru)
 
 </details>
 
@@ -449,6 +449,7 @@ If you want to help out with the project, here are some ideas:
 - [Overload](https://codeberg.org/pabloscloud/Overload)
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
+- [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
