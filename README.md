@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [BotForge](https://github.com/L4TTiCe/BotForge)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
-- [Unlauncher](https://github.com/jkuester/unlauncher)
 
 </details>
 
@@ -262,6 +262,7 @@ If you want to help out with the project, here are some ideas:
 ### :robot: Artificial Intteligence
 
 - [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
+- [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 
