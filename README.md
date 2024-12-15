@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Summary You](https://github.com/talosross/SummaryYou)
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [BotForge](https://github.com/L4TTiCe/BotForge)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
-- [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 
 </details>
 
@@ -265,6 +265,7 @@ If you want to help out with the project, here are some ideas:
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
+- [Summary You](https://github.com/talosross/SummaryYou)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
