@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
-- [DigiPaws](https://github.com/nethical6/digipaws)
 
 </details>
 
@@ -74,6 +74,7 @@ If you want to help out with the project, here are some ideas:
 - [:no_entry_sign: Ad Blocker](#no_entry_sign-ad-blocker)
 - [:package: App Manager](#package-app-manager)
 - [:shopping: App Store](#shopping️-app-store)
+- [:robot: Artificial Intteligence](#robot-artificial-intelligence)
 - [:floppy_disk: Backup](#floppy_disk-backup)
 - [:battery: Battery](#battery-battery)
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
@@ -253,6 +254,14 @@ If you want to help out with the project, here are some ideas:
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 - [Zapstore](https://github.com/zapstore/zapstore)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
+### :robot: Artificial Intteligence
+
+- [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
