@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [BotForge](https://github.com/L4TTiCe/BotForge)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
-- [EtchDroid](https://github.com/etchdroid/etchdroid)
 
 </details>
 
@@ -261,6 +261,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :robot: Artificial Intteligence
 
+- [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
