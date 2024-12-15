@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Sense](https://github.com/F0x1d/Sense)
 - [BotForge](https://github.com/L4TTiCe/BotForge)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
-- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 
 </details>
 
@@ -262,6 +262,7 @@ If you want to help out with the project, here are some ideas:
 ### :robot: Artificial Intteligence
 
 - [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
+- [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
