@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [DigiPaws](https://github.com/nethical6/digipaws)
-- [WikiReader](https://github.com/nsh07/WikiReader)
 
 </details>
 
@@ -535,6 +535,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Aria2App](https://github.com/devgianlu/Aria2App)
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+- [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [SubHub](https://github.com/FunkyMuse/SubHub)
 - **Book/Ebook**
   - [Myne](https://github.com/Pool-Of-Tears/Myne)
