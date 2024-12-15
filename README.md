@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Colors AI](https://github.com/tsinis/colors_ai)
 - [Summary You](https://github.com/talosross/SummaryYou)
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Vectras VM](https://github.com/xoureldeen/Vectras-VM-Android)
-- [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 
 </details>
 
@@ -262,6 +262,7 @@ If you want to help out with the project, here are some ideas:
 ### :robot: Artificial Intteligence
 
 - [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
+- [Colors AI](https://github.com/tsinis/colors_ai)
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
