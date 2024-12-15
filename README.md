@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Summary You](https://github.com/talosross/SummaryYou)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Wallet](https://github.com/sidhant947/Wallet)
 - [Method Call](https://github.com/coleblvck/MethodCall)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
-- [Muzza](https://github.com/Maloy-Android/Muzza)
 
 </details>
 
@@ -1127,6 +1127,7 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
