@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Amadz](https://github.com/msusman1/Amadz)
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Wallet](https://github.com/sidhant947/Wallet)
-- [Method Call](https://github.com/coleblvck/MethodCall)
 
 </details>
 
@@ -495,6 +495,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Dialer
 
+- [Amadz](https://github.com/msusman1/Amadz)
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 - [Koler](https://github.com/Chooloo/koler)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
