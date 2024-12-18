@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
 - [Colors AI](https://github.com/tsinis/colors_ai)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Wallet](https://github.com/sidhant947/Wallet)
 - [Method Call](https://github.com/coleblvck/MethodCall)
-- [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 
 </details>
 
@@ -147,6 +147,7 @@ If you want to help out with the project, here are some ideas:
 - [:book: Reader & Viewer](#book-reader--viewer)
   - [PDF](#pdf)
   - [Manga & Anime](#manga--anime)
+  - [News](#news)
   - [RSS Reader](#rss-reader)
 - [:mag: Research & Development](#mag-research--development)
 - [:shield: Sandboxing](#shield-sandboxing)
@@ -1272,6 +1273,10 @@ If you want to help out with the project, here are some ideas:
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu)
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+
+#### News
+
+- [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 
 #### RSS Reader
 
