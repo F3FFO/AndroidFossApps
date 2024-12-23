@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [Phocid](https://github.com/tjysunset/phocid)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
-- [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 
 </details>
 
@@ -1025,6 +1025,7 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
+- [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
   - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
