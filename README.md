@@ -997,7 +997,7 @@ If you want to help out with the project, here are some ideas:
 - [Kodi](https://github.com/xbmc/xbmc)
   - [Kore](https://github.com/xbmc/Kore) **`FORK`**
 
-#### e Client
+#### Youtube Client
 
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
