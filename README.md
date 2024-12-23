@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Music You](https://github.com/DanielSevillano/music-you)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Amadz](https://github.com/msusman1/Amadz)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [TubeSync](https://github.com/khaled-0/TubeSync)
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 - [Phocid](https://github.com/tjysunset/phocid)
-- [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 
 </details>
 
@@ -1038,6 +1038,7 @@ If you want to help out with the project, here are some ideas:
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
   - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
+  - [Music You](https://github.com/DanielSevillano/music-you) **`FORK`**
   - [RiMusic](https://github.com/fast4x/RiMusic) **`FORK`**
 - [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
 
