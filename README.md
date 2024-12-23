@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
@@ -63,8 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Phocid](https://github.com/tjysunset/phocid)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
 - [Karbon](https://github.com/Xed-Editor/Xed-Editor)
-- [Sapio](https://github.com/jonathanklee/sapio)
-- [Wallet](https://github.com/sidhant947/Wallet)
 
 </details>
 
@@ -958,7 +957,6 @@ If you want to help out with the project, here are some ideas:
   - [Headphone Detector](https://github.com/vanilla-music/vanilla) **`FORK`**
   - [Lyric Search](https://github.com/vanilla-music/vanilla) **`FORK`**
   - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
-- [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 #### Podcast/Audio Book Player
@@ -1026,6 +1024,7 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
+- [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
   - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
@@ -1033,11 +1032,13 @@ If you want to help out with the project, here are some ideas:
 - [Musify](https://github.com/gokadzev/Musify)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
+- [Symphonica](https://github.com/AkaneTan/Symphonica)
 - [Vibe Music](https://github.com/sheikhhaziq/vibemusic)
-- [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`**
+- [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
+- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
+  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
   - [RiMusic](https://github.com/fast4x/RiMusic) **`FORK`**
-- [You Tune](https://github.com/SuhasDissa/You-Tune)
+- [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
 
 #### Twitch
 
