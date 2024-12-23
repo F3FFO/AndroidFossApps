@@ -80,7 +80,7 @@ If you want to help out with the project, here are some ideas:
 - [:globe_with_meridians: Browser](#globe_with_meridians-browser)
   - [Bookmark Manager/Read It Later](#bookmark-managerread-it-later)
   - [Chromium Based](#chromium-based)
-  - [Gecko Based](#gecko-based)
+  - [Gecko Based (Firefox)](#gecko-based-firefox)
   - [Other](#other)
   - [Tools](#tools)
 - [:1234: Calculator](#1234-calculator)
@@ -312,7 +312,7 @@ If you want to help out with the project, here are some ideas:
 - [Cromite](https://github.com/uazo/cromite)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 
-#### Gecko Based
+#### Gecko Based (Firefox)
 
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
   - [Fennec](https://gitlab.com/relan/fennecbuild)
