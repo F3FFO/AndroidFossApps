@@ -1034,7 +1034,6 @@ If you want to help out with the project, here are some ideas:
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica)
-- [Vibe Music](https://github.com/sheikhhaziq/vibemusic)
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
   - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
