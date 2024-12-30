@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DailyAL](https://github.com/JICA98/DailyAL)
 - [Music You](https://github.com/DanielSevillano/music-you)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [FeedFlow](https://github.com/prof18/feed-flow)
 - [TubeSync](https://github.com/khaled-0/TubeSync)
 - [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
-- [Phocid](https://github.com/tjysunset/phocid)
 
 </details>
 
@@ -1259,6 +1259,7 @@ If you want to help out with the project, here are some ideas:
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
   - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
+- [DailyAL](https://github.com/JICA98/DailyAL)
 - [Dantotsu](https://github.com/rebelonion/Dantotsu)
   - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Hentoid](https://github.com/avluis/Hentoid)
