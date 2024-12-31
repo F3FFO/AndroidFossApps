@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DNSNet](https://github.com/t895/DNSNet)
 - [DailyAL](https://github.com/JICA98/DailyAL)
 - [Music You](https://github.com/DanielSevillano/music-you)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Komikku](https://github.com/komikku-app/komikku)
 - [FeedFlow](https://github.com/prof18/feed-flow)
 - [TubeSync](https://github.com/khaled-0/TubeSync)
-- [File Explorer](https://github.com/Raival-e/File-Explorer-Compose)
 
 </details>
 
@@ -213,7 +213,8 @@ If you want to help out with the project, here are some ideas:
 
 - [AdAway](https://github.com/AdAway/AdAway)
 - [Blokada](https://github.com/blokadaorg/blokada)
-- [DNS66](https://github.com/julian-klode/dns66)
+- [DNS66](https://github.com/julian-klode/dns66) **`DEAD`**
+  - [DNSNet](https://github.com/t895/DNSNet) **`FORK`**
 - [DNSFilter](https://github.com/IngoZenz/personaldnsfilter)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
