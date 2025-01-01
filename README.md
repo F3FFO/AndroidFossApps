@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 - [DNSNet](https://github.com/t895/DNSNet)
 - [DailyAL](https://github.com/JICA98/DailyAL)
 - [Music You](https://github.com/DanielSevillano/music-you)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Geto](https://github.com/JackEblan/Geto)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [FeedFlow](https://github.com/prof18/feed-flow)
-- [TubeSync](https://github.com/khaled-0/TubeSync)
 
 </details>
 
@@ -1030,6 +1030,7 @@ If you want to help out with the project, here are some ideas:
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
 - [InnerTune](https://github.com/z-huang/InnerTune)
   - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
+  - [Metrolist](https://github.com/mostafaalagamy/Metrolist) **`FORK`**
   - [OuterTune](https://github.com/DD3Boh/OuterTune) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
