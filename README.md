@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Session Android](https://github.com/session-foundation/session-android)
 - [Signal](https://github.com/johanw666/Signal-Android)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Book's Story](https://github.com/Acclorite/book-story)
 - [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
-- [Geto](https://github.com/JackEblan/Geto)
 
 </details>
 
@@ -423,6 +423,7 @@ If you want to help out with the project, here are some ideas:
 - [Signal](https://github.com/signalapp/Signal-Android)
   - [Molly](https://github.com/mollyim/mollyim-android) **`FORK`**
   - [Session Android](https://github.com/oxen-io/session-android) **`FORK`**
+    - [Session Android](https://github.com/session-foundation/session-android) **`FORK`**
   - [Signal (FOSS)](https://github.com/tw-hx/Signal-Android) **`FORK`**
   - [Signal](https://github.com/johanw666/Signal-Android) **`FORK`**
     - [Signal-You](https://github.com/nekorubu/Signal-You) **`FORK`**
