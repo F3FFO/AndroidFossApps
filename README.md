@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 - [Session Android](https://github.com/session-foundation/session-android)
 - [Signal](https://github.com/johanw666/Signal-Android)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
 - [Book's Story](https://github.com/Acclorite/book-story)
-- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 
 </details>
 
@@ -1027,6 +1027,7 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
+- [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Harmony Music](https://github.com/anandnet/Harmony-Music)
