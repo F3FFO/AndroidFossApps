@@ -39,7 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
-- [Signal Android](https://github.com/johanw666/Signal-Android)
+- [Signal](https://github.com/johanw666/Signal-Android)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 - [DNSNet](https://github.com/t895/DNSNet)
@@ -423,8 +423,8 @@ If you want to help out with the project, here are some ideas:
 - [Signal](https://github.com/signalapp/Signal-Android)
   - [Molly](https://github.com/mollyim/mollyim-android) **`FORK`**
   - [Session Android](https://github.com/oxen-io/session-android) **`FORK`**
-  - [Signal Android](https://github.com/tw-hx/Signal-Android) **`FORK`**
-  - [Signal Android](https://github.com/johanw666/Signal-Android) **`FORK`**
+  - [Signal (FOSS)](https://github.com/tw-hx/Signal-Android) **`FORK`**
+  - [Signal](https://github.com/johanw666/Signal-Android) **`FORK`**
     - [Signal-You](https://github.com/nekorubu/Signal-You) **`FORK`**
 
 #### Telegram
