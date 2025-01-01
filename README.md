@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [OpenTune](https://github.com/Arturo254/OpenTune)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 - [DNSNet](https://github.com/t895/DNSNet)
 - [DailyAL](https://github.com/JICA98/DailyAL)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 - [Geto](https://github.com/JackEblan/Geto)
 - [Komikku](https://github.com/komikku-app/komikku)
-- [FeedFlow](https://github.com/prof18/feed-flow)
 
 </details>
 
@@ -1033,6 +1033,7 @@ If you want to help out with the project, here are some ideas:
   - [Metrolist](https://github.com/mostafaalagamy/Metrolist) **`FORK`**
   - [OuterTune](https://github.com/DD3Boh/OuterTune) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
+- [OpenTune](https://github.com/Arturo254/OpenTune)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica)
