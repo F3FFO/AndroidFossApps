@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 - [Session Android](https://github.com/session-foundation/session-android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
-- [CuteMusic](https://github.com/sosauce/CuteMusic)
 
 </details>
 
@@ -659,6 +659,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Card Wallet
 
+- [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [Wallet](https://github.com/sidhant947/Wallet)
 
 #### Expense Tracker
