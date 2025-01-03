@@ -667,10 +667,10 @@ If you want to help out with the project, here are some ideas:
 - [Arru](https://github.com/KSSidll/Arru)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
-- [MoneyWallet](https://github.com/AndreAle94/moneywallet)
+- [MoneyWallet](https://github.com/AndreAle94/moneywallet) **`DEAD`**
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
-- [Sushi](https://github.com/jerameel/sushi)
+- [Sushi](https://github.com/jerameel/sushi) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
