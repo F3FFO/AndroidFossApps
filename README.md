@@ -108,6 +108,8 @@ If you want to help out with the project, here are some ideas:
   - [File Manager](#file-manager)
   - [File Sharing](#file-sharing)
 - [:moneybag: Finance](#moneybag-finance)
+  - [Card Wallet](#card_wallet)
+  - [Expense Tracker](#expense_tracker)
 - [:card_file_box: Flashcard](#card_file_box-flashcard)
 - [:flashlight: Flashlight](#flashlight-flashlight)
 - [:video_game: Games & Emulator](#video_game-games--emulator)
@@ -653,15 +655,21 @@ If you want to help out with the project, here are some ideas:
 
 ### :moneybag: Finance
 
-- [Arru](https://github.com/KSSidll/Arru)
 - [Currencies](https://github.com/sal0max/currencies)
+
+#### Card Wallet
+
+- [Wallet](https://github.com/sidhant947/Wallet)
+
+#### Expense Tracker
+
+- [Arru](https://github.com/KSSidll/Arru)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet)
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [Sushi](https://github.com/jerameel/sushi)
-- [Wallet](https://github.com/sidhant947/Wallet)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
