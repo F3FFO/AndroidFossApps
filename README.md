@@ -1049,7 +1049,7 @@ If you want to help out with the project, here are some ideas:
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
-- [Symphonica](https://github.com/AkaneTan/Symphonica)
+- [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
   - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
