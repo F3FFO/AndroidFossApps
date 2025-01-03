@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 - [Session Android](https://github.com/session-foundation/session-android)
 - [Signal](https://github.com/johanw666/Signal-Android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
-- [Book's Story](https://github.com/Acclorite/book-story)
 
 </details>
 
@@ -317,7 +317,8 @@ If you want to help out with the project, here are some ideas:
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
   - [Fennec](https://gitlab.com/relan/fennecbuild)
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
-  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
+  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
+    - [IronFox](https://gitlab.com/ironfox-oss/IronFox) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
 - [Firefox Focus](https://hg.mozilla.org/mozilla-central)
 - [Firefox Klar](https://hg.mozilla.org/mozilla-central)
