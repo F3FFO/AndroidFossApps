@@ -1026,11 +1026,11 @@ If you want to help out with the project, here are some ideas:
   - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
   - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
   - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
-- [raag](https://github.com/raag-music/raag)
+- [raag](https://github.com/raag-music/raag) **`DEAD`**
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
 - [SongTube](https://github.com/SongTube/SongTube-App)
-- [VueTube](https://github.com/VueTubeApp/VueTube)
+- [VueTube](https://github.com/VueTubeApp/VueTube) **`DEAD`**
 
 #### YouTube Music Client
 
