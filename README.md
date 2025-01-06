@@ -576,6 +576,7 @@ If you want to help out with the project, here are some ideas:
 - **YouTube**
   - [TubeSync](https://github.com/khaled-0/TubeSync)
   - [Seal](https://github.com/JunkFood02/Seal)
+  - [SongTube](https://github.com/SongTube/SongTube-App)
   - [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -1019,12 +1020,10 @@ If you want to help out with the project, here are some ideas:
 - [Hyperion](https://github.com/zt64/Hyperion)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
   - [LightTube](https://github.com/kuylar/lighttube-android) **`FORK`**
-- [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
 - [raag](https://github.com/raag-music/raag) **`DEAD`**
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
-- [SongTube](https://github.com/SongTube/SongTube-App)
 - [VueTube](https://github.com/VueTubeApp/VueTube) **`DEAD`**
 
 #### Youtube Piped Client
@@ -1051,6 +1050,7 @@ If you want to help out with the project, here are some ideas:
   - [Metrolist](https://github.com/mostafaalagamy/Metrolist) **`FORK`**
   - [OuterTune](https://github.com/DD3Boh/OuterTune) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
+- [Muzza](https://github.com/Maloy-Android/Muzza)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
