@@ -996,7 +996,7 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Jetispot](https://github.com/iTaysonLab/jetispot)
+- [Jetispot](https://github.com/iTaysonLab/jetispot) **`DEAD`**
   - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`**
 - [Spotube](https://github.com/KRTirtho/spotube)
 
