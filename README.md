@@ -1018,7 +1018,8 @@ If you want to help out with the project, here are some ideas:
 - [Clipious](https://github.com/lamarios/clipious)
 - [Hyperion](https://github.com/zt64/Hyperion)
 - [LibreTube](https://github.com/libre-tube/LibreTube)
-- [LightTube](https://github.com/kuylar/lighttube-android)
+- [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
+  - [LightTube](https://github.com/kuylar/lighttube-android) **`FORK`**
 - [Materialious](https://github.com/Materialious/Materialious)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
