@@ -1002,7 +1002,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Streaming
 
-- [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap)
+- [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) **`DEAD`**
 - [Burning-Series](https://github.com/DATL4G/BurningSeries-Android/)
 - [CloudStream](https://github.com/recloudstream/cloudstream)
 - [Findroid](https://github.com/jarnedemeulemeester/findroid)
