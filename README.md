@@ -129,6 +129,7 @@ If you want to help out with the project, here are some ideas:
   - [Spotify Client :warning:](#spotify-client)
   - [Streaming](#streaming)
   - [YouTube Client :warning:](#youtube-client)
+  - [YouTube Piped Client](#youtube-piped-client)
   - [YouTube Music Client :warning:](#youtube-music-client)
   - [Twitch :warning:](#twitch)
   - [Video Player](#video-player)
@@ -1015,23 +1016,26 @@ If you want to help out with the project, here are some ideas:
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Clipious](https://github.com/lamarios/clipious)
 - [Hyperion](https://github.com/zt64/Hyperion)
-- [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
   - [LightTube](https://github.com/kuylar/lighttube-android) **`FORK`**
-- [Materialious](https://github.com/Materialious/Materialious)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [Namida](https://github.com/namidaco/namida)
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-  - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
-  - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
-  - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
 - [raag](https://github.com/raag-music/raag) **`DEAD`**
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
 - [SongTube](https://github.com/SongTube/SongTube-App)
 - [VueTube](https://github.com/VueTubeApp/VueTube) **`DEAD`**
+
+#### Youtube Piped Client
+
+- [Clipious](https://github.com/lamarios/clipious)
+- [LibreTube](https://github.com/libre-tube/LibreTube)
+- [Materialious](https://github.com/Materialious/Materialious)
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
+  - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
+  - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
 
 #### YouTube Music Client
 
