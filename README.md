@@ -319,7 +319,7 @@ If you want to help out with the project, here are some ideas:
 #### Gecko Based (Firefox)
 
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
-  - [Fennec](https://gitlab.com/relan/fennecbuild)
+  - [Fennec](https://gitlab.com/relan/fennecbuild) **`FORK`**
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
   - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
     - [IronFox](https://gitlab.com/ironfox-oss/IronFox) **`FORK`**
