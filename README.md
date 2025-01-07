@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [X Signer](https://github.com/yamenher/x-signer)
 - [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [BotForge](https://github.com/L4TTiCe/BotForge)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
-- [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
 </details>
 
@@ -794,6 +794,7 @@ If you want to help out with the project, here are some ideas:
 - [Blueprint](https://github.com/jahirfiquitiva/Blueprint)
 - [Delta Icon Pack](https://github.com/Delta-Icons)
 - [DGicons Monet](https://github.com/WaifuPX-DG/DGicons)
+- [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [Iconeration](https://codeberg.org/kaanelloed/Iconeration)
 - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
 - [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons)
