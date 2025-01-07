@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 - [Shopin](https://github.com/erdemklync/Shopin)
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Summary You](https://github.com/talosross/SummaryYou)
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
-- [BotForge](https://github.com/L4TTiCe/BotForge)
 
 </details>
 
@@ -1389,6 +1389,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Shopin](https://github.com/erdemklync/Shopin)
+- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
