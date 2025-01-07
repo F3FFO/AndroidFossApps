@@ -157,7 +157,7 @@ If you want to help out with the project, here are some ideas:
 - [:microscope: Scanner](#microscope-scanner)
   - [QR & Barcode Scanner](#qr--barcode-scanner)
   - [Document Scanner](#document-scanner)
-- [:shopping_cart: Shopping](#shopping-cart-shopping)
+- [:shopping_cart: Shopping](#shopping_cart-shopping)
 - [:busts_in_silhouette: Social Media](#busts_in_silhouette-social-media)
   - [Discord :warning:](#discord)
   - [Github :warning:](#github)
