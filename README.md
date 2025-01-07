@@ -157,6 +157,7 @@ If you want to help out with the project, here are some ideas:
 - [:microscope: Scanner](#microscope-scanner)
   - [QR & Barcode Scanner](#qr--barcode-scanner)
   - [Document Scanner](#document-scanner)
+- [:shopping_cart: Shopping](#shopping-cart-shopping)
 - [:busts_in_silhouette: Social Media](#busts_in_silhouette-social-media)
   - [Discord :warning:](#discord)
   - [Github :warning:](#github)
@@ -1379,6 +1380,14 @@ If you want to help out with the project, here are some ideas:
 
 - [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner)
 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
+### :shopping_cart: Shopping
+
+
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
