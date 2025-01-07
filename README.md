@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [X Signer](https://github.com/yamenher/x-signer)
 - [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
-- [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 
 </details>
 
@@ -1552,6 +1552,7 @@ If you want to help out with the project, here are some ideas:
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
+- [X Signer](https://github.com/yamenher/x-signer)
 
 #### ADB Tools
 
