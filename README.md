@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Shopin](https://github.com/erdemklync/Shopin)
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [X Signer](https://github.com/yamenher/x-signer)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Sense](https://github.com/F0x1d/Sense)
 - [BotForge](https://github.com/L4TTiCe/BotForge)
-- [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 
 </details>
 
@@ -1388,6 +1388,7 @@ If you want to help out with the project, here are some ideas:
 ### :shopping_cart: Shopping
 
 - [Grocy](https://github.com/patzly/grocy-android)
+- [Shopin](https://github.com/erdemklync/Shopin)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
