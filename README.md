@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 - [Shopin](https://github.com/erdemklync/Shopin)
 - [Grocy](https://github.com/patzly/grocy-android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Summary You](https://github.com/talosross/SummaryYou)
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
-- [Sense](https://github.com/F0x1d/Sense)
 
 </details>
 
@@ -823,6 +823,7 @@ If you want to help out with the project, here are some ideas:
 - [Aves](https://github.com/deckerst/aves)
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 - [Gallery](https://github.com/IacobIonut01/Gallery)
+- [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [miniGallery](https://github.com/kabirnayeem99/miniGallery)
 - [Stingle Photos](https://github.com/stingle/stingle-photos-android)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
