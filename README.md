@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 - [Shopin](https://github.com/erdemklync/Shopin)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Summary You](https://github.com/talosross/SummaryYou)
-- [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 
 </details>
 
@@ -324,6 +324,7 @@ If you want to help out with the project, here are some ideas:
   - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
     - [IronFox](https://gitlab.com/ironfox-oss/IronFox) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
+  - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
 - [Firefox Focus](https://hg.mozilla.org/mozilla-central)
 - [Firefox Klar](https://hg.mozilla.org/mozilla-central)
 
