@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
 - [Colors AI](https://github.com/tsinis/colors_ai)
-- [Summary You](https://github.com/talosross/SummaryYou)
 
 </details>
 
@@ -1129,6 +1129,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Another notes app](https://github.com/maltaisn/another-notes-app)
 - [Ara Note](https://github.com/hashemi-hossein/ara-note)
+- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
