@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [uNote](https://gitlab.com/Varlorg/uNote/)
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
-- [Colors AI](https://github.com/tsinis/colors_ai)
 
 </details>
 
@@ -1168,6 +1168,7 @@ If you want to help out with the project, here are some ideas:
 - [Simple Material Notes](https://github.com/RafhaanShah/Simple-Notes)
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Standard Notes](https://github.com/standardnotes/app)
+- [uNote](https://gitlab.com/Varlorg/uNote/)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
