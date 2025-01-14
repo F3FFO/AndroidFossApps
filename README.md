@@ -1639,12 +1639,12 @@ If you want to help out with the project, here are some ideas:
 - [DroidVim](https://github.com/shiftrot/droidvim)
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
-- [Karbon](https://github.com/Xed-Editor/Xed-Editor)
 - [Markor](https://github.com/gsantner/markor)
 - [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
 - [TermuC](https://github.com/RainbowC0/TermuC)
 - [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space)
+- [Xed-Editor (Karbon)](https://github.com/Xed-Editor/Xed-Editor)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
