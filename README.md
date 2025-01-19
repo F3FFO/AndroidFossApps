@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Ciyue](https://github.com/mumu-lhl/Ciyue)
 - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Weread](https://github.com/sk5s/weread)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DailyAL](https://github.com/JICA98/DailyAL)
 - [Music You](https://github.com/DanielSevillano/music-you)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
-- [Gramophone](https://github.com/AkaneTan/Gramophone)
 
 </details>
 
@@ -547,6 +547,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Aard 2](https://github.com/itkach/aard2-android)
   - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict) **`FORK`**
+- [Ciyue](https://github.com/mumu-lhl/Ciyue)
 - [Collins Dictionary](https://github.com/Konyaco/CollinsDictionary)
 - [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp)
 - [Notification Dictionary](https://github.com/tirkarthi/NotificationDictionary)
