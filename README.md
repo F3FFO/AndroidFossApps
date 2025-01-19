@@ -157,7 +157,7 @@ If you want to help out with the project, here are some ideas:
   - [QR & Barcode Scanner](#qr--barcode-scanner)
   - [Document Scanner](#document-scanner)
 - [:shopping_cart: Shopping](#shopping_cart-shopping)
-- [:busts_in_silhouette: Social Media](#busts_in_silhouette-social-media)
+- [:busts_in_silhouette: Social Network](#busts_in_silhouette-social-network)
   - [Discord :warning:](#discord)
   - [Github :warning:](#github)
   - [Instagram :warning:](#instagram)
@@ -1399,7 +1399,7 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-### :busts_in_silhouette: Social Media
+### :busts_in_silhouette: Social Network
 
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
 
