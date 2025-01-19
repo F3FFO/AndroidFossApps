@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
-- [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android)
 
 </details>
 
@@ -1639,6 +1639,7 @@ If you want to help out with the project, here are some ideas:
 - [DroidVim](https://github.com/shiftrot/droidvim)
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
+- [Ghosts IDE](https://github.com/HanzoDev1375/Ghostide)
 - [Markor](https://github.com/gsantner/markor)
 - [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
