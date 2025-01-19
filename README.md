@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Weread](https://github.com/sk5s/weread)
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Music You](https://github.com/DanielSevillano/music-you)
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
-- [Amadz](https://github.com/msusman1/Amadz)
 
 </details>
 
@@ -546,6 +546,7 @@ If you want to help out with the project, here are some ideas:
 ### :books: Dictionary
 
 - [Aard 2](https://github.com/itkach/aard2-android)
+  - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict) **`FORK`**
 - [Collins Dictionary](https://github.com/Konyaco/CollinsDictionary)
 - [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp)
 - [Notification Dictionary](https://github.com/tirkarthi/NotificationDictionary)
