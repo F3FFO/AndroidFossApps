@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Weread](https://github.com/sk5s/weread)
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
-- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
 
 </details>
 
@@ -310,6 +310,7 @@ If you want to help out with the project, here are some ideas:
 - [Linkora](https://github.com/sakethpathike/Linkora)
 - [Omnivore](https://github.com/omnivore-app/omnivore)
 - [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client)
+- [Weread](https://github.com/sk5s/weread)
 
 #### Chromium Based
 
