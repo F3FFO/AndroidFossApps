@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Dhaaga](https://github.com/suvam0451/dhaaga)
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
 - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DNSNet](https://github.com/t895/DNSNet)
 - [DailyAL](https://github.com/JICA98/DailyAL)
 - [Music You](https://github.com/DanielSevillano/music-you)
-- [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 
 </details>
 
@@ -1400,6 +1400,8 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ### :busts_in_silhouette: Social Media
+
+- [Dhaaga](https://github.com/suvam0451/dhaaga)
 
 #### Discord
 
