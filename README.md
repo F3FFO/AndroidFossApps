@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Weread](https://github.com/sk5s/weread)
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Gyawun Music](https://github.com/jhelumcorp/gyawun)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Amadz](https://github.com/msusman1/Amadz)
-- [Harmonic for Hacker News](https://github.com/SimonHalvdansson/Harmonic-HN)
 
 </details>
 
@@ -931,6 +931,7 @@ If you want to help out with the project, here are some ideas:
 - [Hexpress](https://github.com/jmiskovic/hexpress)
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
 - [Metronome](https://github.com/thetwom/toc2)
+- [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Noice](https://github.com/ashutoshgngwr/noice)
 - [Noten Learner](https://github.com/MelvilQ/noten-lernen)
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
