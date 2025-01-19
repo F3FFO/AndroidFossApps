@@ -128,9 +128,8 @@ If you want to help out with the project, here are some ideas:
   - [Subsonic Client :warning:](#subsonic-client)
   - [Spotify Client :warning:](#spotify-client)
   - [Streaming](#streaming)
-  - [YouTube Client :warning:](#youtube-client)
-  - [YouTube Piped Client](#youtube-piped-client)
-  - [YouTube Music Client :warning:](#youtube-music-client)
+  - [YouTube :warning:](#youtube)
+  - [YouTube Music :warning:](#youtube-music)
   - [Twitch :warning:](#twitch)
   - [Video Player](#video-player)
   - [Video Editor](#video-editor)
@@ -1018,31 +1017,28 @@ If you want to help out with the project, here are some ideas:
 - [Kodi](https://github.com/xbmc/xbmc)
   - [Kore](https://github.com/xbmc/Kore) **`FORK`**
 
-#### Youtube Client
+#### Youtube
 
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
+- [Clipious](https://github.com/lamarios/clipious)
 - [Hyperion](https://github.com/zt64/Hyperion)
+- [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
   - [LightTube](https://github.com/kuylar/lighttube-android) **`FORK`**
+- [Materialious](https://github.com/Materialious/Materialious)
 - [Namida](https://github.com/namidaco/namida)
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
+  - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
+  - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
 - [raag](https://github.com/raag-music/raag) **`DEAD`**
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
 - [VueTube](https://github.com/VueTubeApp/VueTube) **`DEAD`**
 
-#### Youtube Piped Client
-
-- [Clipious](https://github.com/lamarios/clipious)
-- [LibreTube](https://github.com/libre-tube/LibreTube)
-- [Materialious](https://github.com/Materialious/Materialious)
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-  - [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) **`FORK`**
-  - [PipePipe](https://codeberg.org/NullPointerException/PipePipe) **`FORK`**
-  - [Tubular](https://github.com/polymorphicshade/Tubular) **`FORK`**
-
-#### YouTube Music Client
+#### YouTube Music
 
 > [!WARNING]  
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
