@@ -589,7 +589,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :paintbrush: Drawing
 
-- [Fossify Draw](https://github.com/FossifyOrg/Draw)
+- [Fossify Paint](https://github.com/FossifyOrg/Paint)
 - [FreePaint](https://github.com/pastthepixels/FreePaint)
 - [PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
 - [PxerStudio](https://github.com/BennyKok/PxerStudio)
