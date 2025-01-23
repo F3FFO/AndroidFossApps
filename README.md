@@ -160,7 +160,6 @@ If you want to help out with the project, here are some ideas:
 - [:busts_in_silhouette: Social Network](#busts_in_silhouette-social-network)
   - [Discord :warning:](#discord)
   - [Github :warning:](#github)
-  - [Instagram :warning:](#instagram)
   - [Lemmy](#lemmy)
   - [Mastodon](#mastodon)
   - [Pixiv :warning:](#pixiv)
@@ -1424,14 +1423,6 @@ If you want to help out with the project, here are some ideas:
 - [Gloom - GitHub](https://github.com/MateriiApps/Gloom)
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`**
-
-#### Instagram
-
-> [!WARNING]  
-> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
-
-- [Instander](https://thedise.me/instander/repo/) **`DEAD`**
-- [MyInsta](https://t.me/instasmashrepo)
 
 #### Lemmy
 
