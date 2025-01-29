@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Habit-Maker](https://github.com/dessalines/habit-maker))
 - [Music](https://github.com/MissingCore/Music)
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
@@ -1518,6 +1519,7 @@ If you want to help out with the project, here are some ideas:
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 - [Flexify](https://github.com/brandonp2412/Flexify)
+- [Habit-Maker](https://github.com/dessalines/habit-maker)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
