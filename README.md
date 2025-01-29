@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
 - [Music](https://github.com/MissingCore/Music)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Signal](https://github.com/johanw666/Signal-Android)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
-- [DNSNet](https://github.com/t895/DNSNet)
 
 </details>
 
@@ -769,6 +769,7 @@ If you want to help out with the project, here are some ideas:
 #### Snake
 
 - [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game)
+- [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 
 #### Sudoku
 
