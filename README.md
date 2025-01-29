@@ -125,7 +125,7 @@ If you want to help out with the project, here are some ideas:
   - [Equalizer](#equalizer)
   - [Music](#music)
   - [Music/Audio Player](#musicaudio-player)
-  - [Podcast/Audio Book Player](#podcastaudio-book-player)
+  - [Podcast/Audio Player](#podcastaudio-player)
   - [Subsonic Client :warning:](#subsonic-client)
   - [Spotify Client :warning:](#spotify-client)
   - [Streaming](#streaming)
@@ -982,7 +982,7 @@ If you want to help out with the project, here are some ideas:
   - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
-#### Podcast/Audio Book Player
+#### Podcast/Audio Player
 
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
 - [Audio Anchor](https://github.com/flackbash/AudioAnchor)
