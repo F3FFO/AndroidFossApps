@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Grid](https://github.com/Rezivure/grid-frontend)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Session Android](https://github.com/session-foundation/session-android)
 - [Signal](https://github.com/johanw666/Signal-Android)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
-- [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 
 </details>
 
@@ -900,6 +900,7 @@ If you want to help out with the project, here are some ideas:
 - [Compass](https://github.com/Kr0oked/Compass)
 - [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [GMaps WV](https://gitlab.com/divested-mobile/maps)
+- [Grid](https://github.com/Rezivure/grid-frontend)
 - [μlogger](https://github.com/bfabiszewski/ulogger-android)
 - [OpenTopoMap Viewer](https://github.com/Pygmalion69/OpenTopoMapViewer)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
