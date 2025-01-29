@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
 - [Music](https://github.com/MissingCore/Music)
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist)
 - [DNSNet](https://github.com/t895/DNSNet)
-- [DailyAL](https://github.com/JICA98/DailyAL)
 
 </details>
 
@@ -1274,6 +1274,7 @@ If you want to help out with the project, here are some ideas:
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
 - [Openreads](https://github.com/mateusz-bak/openreads)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
+- [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 
 #### PDF
 
