@@ -158,7 +158,7 @@ If you want to help out with the project, here are some ideas:
   - [Document Scanner](#document-scanner)
 - [:shopping_cart: Shopping](#shopping_cart-shopping)
 - [:busts_in_silhouette: Social Network](#busts_in_silhouette-social-network)
-  - [Discord :warning:](#discord)
+  - [Discord :warning:](#discord)]
   - [Github :warning:](#github)
   - [Lemmy](#lemmy)
   - [Mastodon](#mastodon)
@@ -954,6 +954,7 @@ If you want to help out with the project, here are some ideas:
 - [little music player](https://github.com/martinmimigames/little-music-player)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [mucke](https://github.com/moritz-weber/mucke)
+- [Music](https://github.com/MissingCore/Music)
 - [Musicmax](https://github.com/TheMusicmax/Musicmax)
 - [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 - [Musify](https://github.com/gokadzev/Musify)
