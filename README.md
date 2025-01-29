@@ -901,7 +901,6 @@ If you want to help out with the project, here are some ideas:
 - [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [GMaps WV](https://gitlab.com/divested-mobile/maps)
 - [Grid](https://github.com/Rezivure/grid-frontend)
-- [μlogger](https://github.com/bfabiszewski/ulogger-android)
 - [OpenTopoMap Viewer](https://github.com/Pygmalion69/OpenTopoMapViewer)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
 - [OsmAnd~](https://github.com/osmandapp/OsmAnd)
@@ -913,6 +912,7 @@ If you want to help out with the project, here are some ideas:
 - [Tridenta](https://github.com/Stypox/tridenta)
 - [Vespucci](https://github.com/MarcusWolschon/osmeditor4android)
 - [Öffi](https://gitlab.com/oeffi/oeffi)
+- [μlogger](https://github.com/bfabiszewski/ulogger-android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
