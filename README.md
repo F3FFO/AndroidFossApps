@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 - [Session Android](https://github.com/session-foundation/session-android)
 - [Signal](https://github.com/johanw666/Signal-Android)
-- [OpenTune](https://github.com/Arturo254/OpenTune)
 
 </details>
 
@@ -1056,6 +1056,7 @@ If you want to help out with the project, here are some ideas:
   - [InnerTune](https://github.com/Malopieds/InnerTune) **`FORK`**
   - [Metrolist](https://github.com/mostafaalagamy/Metrolist) **`FORK`**
   - [OuterTune](https://github.com/DD3Boh/OuterTune) **`FORK`**
+    - [Simple Tube](https://github.com/samyak2403/Simple-Tube) **`FORK`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
