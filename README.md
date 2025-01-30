@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
@@ -63,8 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
-- [Session Android](https://github.com/session-foundation/session-android)
-- [Signal](https://github.com/johanw666/Signal-Android)
 
 </details>
 
@@ -850,6 +849,7 @@ If you want to help out with the project, here are some ideas:
 - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard)
 - [KryptEY](https://github.com/amnesica/KryptEY)
 - [nicoWnnG](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html)
+- [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [OpenBoard](https://github.com/dslul/openboard) **`DEAD`**
   - [HeliBoard](https://github.com/Helium314/HeliBoard) **`FORK`**
 - [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard)
