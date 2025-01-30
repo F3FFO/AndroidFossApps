@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Snatchy](https://github.com/BERLINx03/snatchy)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [X Signer](https://github.com/yamenher/x-signer)
 - [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
-- [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 
 </details>
 
@@ -562,6 +562,7 @@ If you want to help out with the project, here are some ideas:
 - [Aria2App](https://github.com/devgianlu/Aria2App)
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
+- [Snatchy](https://github.com/BERLINx03/snatchy)
 - [SubHub](https://github.com/FunkyMuse/SubHub)
 - **Book/Ebook**
   - [Myne](https://github.com/Pool-Of-Tears/Myne)
