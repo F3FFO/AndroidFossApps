@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 - [Grid](https://github.com/Rezivure/grid-frontend)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [X Signer](https://github.com/yamenher/x-signer)
 - [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 - [IronFox](https://gitlab.com/ironfox-oss/IronFox)
-- [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
 
 </details>
 
@@ -1523,6 +1523,7 @@ If you want to help out with the project, here are some ideas:
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 - [Flexify](https://github.com/brandonp2412/Flexify)
+- [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
