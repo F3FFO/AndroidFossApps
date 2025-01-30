@@ -158,7 +158,7 @@ If you want to help out with the project, here are some ideas:
   - [Document Scanner](#document-scanner)
 - [:shopping_cart: Shopping](#shopping_cart-shopping)
 - [:busts_in_silhouette: Social Network](#busts_in_silhouette-social-network)
-  - [Discord :warning:](#discord)]
+  - [Discord :warning:](#discord)
   - [Github :warning:](#github)
   - [Lemmy](#lemmy)
   - [Mastodon](#mastodon)
