@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
@@ -63,12 +64,12 @@ If you want to help out with the project, here are some ideas:
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [X Signer](https://github.com/yamenher/x-signer)
-- [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner)
 
 </details>
 
 ## :scroll: Table of Contents
 
+- [:question: IDK](#question-idk)
 - [:clock1: 2FA](#clock1-2fa)
 - [:no_entry_sign: Ad Blocker](#no_entry_sign-ad-blocker)
 - [:package: App Manager](#package-app-manager)
@@ -194,6 +195,14 @@ If you want to help out with the project, here are some ideas:
 ---
 
 ## Apps
+
+### :question: IDK
+
+- [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
 
 ### :clock1: 2FA
 
