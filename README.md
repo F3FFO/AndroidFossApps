@@ -523,7 +523,7 @@ If you want to help out with the project, here are some ideas:
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [QKSMS](https://github.com/moezbhatti/qksms)
   - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
-- [Silence](https://github.com/SilenceIM/Silence)
+- [Silence](https://github.com/SilenceIM/Silence) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
