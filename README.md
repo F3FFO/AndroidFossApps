@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Messages](https://github.com/ThriveEngineer/messages)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Shopin](https://github.com/erdemklync/Shopin)
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
-- [X Signer](https://github.com/yamenher/x-signer)
 
 </details>
 
@@ -416,6 +416,7 @@ If you want to help out with the project, here are some ideas:
 - [KouChat](https://github.com/blurpy/kouchat-android)
 - [Manyverse](https://gitlab.com/staltz/manyverse)
 - [Meshenger](https://github.com/meshenger-app/meshenger-android)
+- [Messages](https://github.com/ThriveEngineer/messages)
 - [Openinwa](https://github.com/SubhamTyagi/openinwa)
   - [Launch Chat](https://github.com/vinaygopinath/launch-chat) **`FORK`**
 - [Mumla](https://gitlab.com/quite/mumla)
