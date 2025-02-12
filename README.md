@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 - [Clippy](https://github.com/WSTxda/Clippy)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
 - [Messages](https://github.com/ThriveEngineer/messages)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
-- [Shopin](https://github.com/erdemklync/Shopin)
 
 </details>
 
@@ -1402,6 +1402,7 @@ If you want to help out with the project, here are some ideas:
 
 - [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner)
 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+- [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
