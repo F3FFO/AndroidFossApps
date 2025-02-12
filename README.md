@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Clippy](https://github.com/WSTxda/Clippy)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
 - [Messages](https://github.com/ThriveEngineer/messages)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 - [Shopin](https://github.com/erdemklync/Shopin)
-- [Grocy](https://github.com/patzly/grocy-android)
 
 </details>
 
@@ -1134,6 +1134,7 @@ If you want to help out with the project, here are some ideas:
 #### Link
 
 - [Anchr for Android](https://github.com/muety/anchr-android) **`DEAD`**
+- [Clippy](https://github.com/WSTxda/Clippy)
 - [LinkSheet](https://github.com/1fexd/LinkSheet)
 - [URLCheck](https://github.com/TrianguloY/UrlChecker)
 
