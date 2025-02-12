@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Lumolight](https://github.com/BitMavrick/Lumolight)
 - [Messages](https://github.com/ThriveEngineer/messages)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 - [Shopin](https://github.com/erdemklync/Shopin)
 - [Grocy](https://github.com/patzly/grocy-android)
-- [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 
 </details>
 
@@ -712,6 +712,7 @@ If you want to help out with the project, here are some ideas:
 - [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu)
 - [Flashy](https://github.com/Crazy-Marvin/Flashy)
 - [Fossify Flashlight](https://github.com/FossifyOrg/Flashlight)
+- [Lumolight](https://github.com/BitMavrick/Lumolight)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
