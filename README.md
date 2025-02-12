@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Logline](https://github.com/Patch4Code/Logline)
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 - [Clippy](https://github.com/WSTxda/Clippy)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
-- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
 
 </details>
 
@@ -198,6 +198,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :question: IDK
 
+- [Logline](https://github.com/Patch4Code/Logline)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
