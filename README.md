@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 - [Logline](https://github.com/Patch4Code/Logline)
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 - [Clippy](https://github.com/WSTxda/Clippy)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [uNote](https://gitlab.com/Varlorg/uNote/)
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
-- [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 
 </details>
 
@@ -1789,6 +1789,7 @@ If you want to help out with the project, here are some ideas:
 - [Rain](https://github.com/DarkMooNight/Rain)
 - [Veterondo](https://github.com/Antonis427/veterondo)
 - [Weather](https://codeberg.org/Beowulf/Weather)
+- [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
