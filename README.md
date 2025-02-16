@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 - [Logline](https://github.com/Patch4Code/Logline)
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
-- [Waterfox](https://github.com/BrowserWorks/Waterfox-Android)
 
 </details>
 
@@ -841,6 +841,7 @@ If you want to help out with the project, here are some ideas:
 - [Gallery](https://github.com/IacobIonut01/Gallery)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [miniGallery](https://github.com/kabirnayeem99/miniGallery)
+- [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [Stingle Photos](https://github.com/stingle/stingle-photos-android)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
 
