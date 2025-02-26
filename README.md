@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [PodAura](https://github.com/SkyD666/PodAura)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 - [Logline](https://github.com/Patch4Code/Logline)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Weread](https://github.com/sk5s/weread)
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
-- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 
 </details>
 
@@ -1003,6 +1003,7 @@ If you want to help out with the project, here are some ideas:
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
 - [Audio Anchor](https://github.com/flackbash/AudioAnchor)
 - [Escapepod](https://codeberg.org/y20k/escapepod)
+- [PodAura](https://github.com/SkyD666/PodAura)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Podverse](https://github.com/podverse/podverse-fdroid)
 - [Tsacdop](https://github.com/stonega/tsacdop)
