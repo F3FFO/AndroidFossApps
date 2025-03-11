@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Pluvia](https://github.com/oxters168/Pluvia)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
 - [Music](https://github.com/MissingCore/Music)
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
-- [Ciyue](https://github.com/mumu-lhl/Ciyue)
 
 </details>
 
@@ -165,6 +165,7 @@ If you want to help out with the project, here are some ideas:
   - [Mastodon](#mastodon)
   - [Pixiv :warning:](#pixiv)
   - [Reddit :warning:](#reddit)
+  - [Steam :warning:](#steam)
   - [VK :warning:](#vk)
   - [X(Twitter) :warning:](#xtwitter)
   - [Xda :warning:](#xda)
@@ -1488,6 +1489,13 @@ If you want to help out with the project, here are some ideas:
 - [RedReader](https://github.com/QuantumBadger/RedReader)
 - [Slide](https://github.com/ccrama/Slide) **`DEAD`**
 - [Stealth](https://gitlab.com/cosmosapps/stealth)
+
+#### Steam
+
+> [!WARNING]  
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
+
+- [Pluvia](https://github.com/oxters168/Pluvia)
 
 #### VK
 
