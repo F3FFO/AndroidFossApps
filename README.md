@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [PodAura](https://github.com/SkyD666/PodAura)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Weread](https://github.com/sk5s/weread)
 - [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
-- [uNote](https://gitlab.com/Varlorg/uNote/)
 
 </details>
 
@@ -1174,6 +1174,7 @@ If you want to help out with the project, here are some ideas:
 - [Notepad](https://github.com/farmerbb/Notepad)
 - [Noterly](https://github.com/tomc128/noterly)
 - [Notesnook](https://github.com/streetwriters/notesnook)
+- [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
