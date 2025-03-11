@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [PodAura](https://github.com/SkyD666/PodAura)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
 - [Weread](https://github.com/sk5s/weread)
-- [Ghost IDE](https://github.com/HanzoDev1375/Ghostide)
 
 </details>
 
@@ -1747,6 +1747,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :earth_africa: VPN
 
+- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Calyx VPN](https://gitlab.com/CalyxOS/bitmask_android)
 - [IVPN](https://github.com/ivpn/android-app)
 - [Mullvad](https://github.com/mullvad/mullvadvpn-app)
