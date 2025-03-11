@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Pluvia](https://github.com/oxters168/Pluvia)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
 - [Music](https://github.com/MissingCore/Music)
-- [Dhaaga](https://github.com/suvam0451/dhaaga)
 
 </details>
 
@@ -573,6 +573,7 @@ If you want to help out with the project, here are some ideas:
 ### :arrow_down: Downloader & Manager
 
 - [Aria2App](https://github.com/devgianlu/Aria2App)
+- [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
