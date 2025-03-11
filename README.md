@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
 - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
-- [Musikus](https://github.com/matthiasemde/musikus-android)
 
 </details>
 
@@ -278,6 +278,7 @@ If you want to help out with the project, here are some ideas:
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android) **`DEAD`**
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
+- [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [Summary You](https://github.com/talosross/SummaryYou)
