@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [PodAura](https://github.com/SkyD666/PodAura)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
 - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
-- [Weread](https://github.com/sk5s/weread)
 
 </details>
 
@@ -1258,6 +1258,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
 - [Confidant](https://github.com/YangDai-Github/Encryptor-Android)
+- [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 
 #### Permission Manager
