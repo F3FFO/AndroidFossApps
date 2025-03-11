@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Music](https://github.com/MissingCore/Music)
 - [Dhaaga](https://github.com/suvam0451/dhaaga)
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
-- [OSS-Dict](https://github.com/farfromrefug/OSS-Dict)
 
 </details>
 
@@ -1117,6 +1117,7 @@ If you want to help out with the project, here are some ideas:
 ### :signal_strength: Network
 
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
+- [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [NetGuard](https://github.com/M66B/NetGuard)
 - [OONI Probe](https://github.com/ooni/probe-android)
 - [Orbot](https://github.com/guardianproject/orbot)
