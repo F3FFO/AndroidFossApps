@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [Musekit](https://github.com/Kwasow/Musekit)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Oinkoin](https://github.com/emavgl/oinkoin)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 - [Grid](https://github.com/Rezivure/grid-frontend)
-- [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 
 </details>
 
@@ -1556,6 +1556,7 @@ If you want to help out with the project, here are some ideas:
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 - [Flexify](https://github.com/brandonp2412/Flexify)
+- [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
