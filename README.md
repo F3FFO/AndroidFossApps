@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Musekit](https://github.com/Kwasow/Musekit)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Oinkoin](https://github.com/emavgl/oinkoin)
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
-- [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 
 </details>
 
@@ -954,6 +954,7 @@ If you want to help out with the project, here are some ideas:
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
 - [Metronome](https://github.com/thetwom/toc2)
 - [Musikus](https://github.com/matthiasemde/musikus-android)
+- [Musekit](https://github.com/Kwasow/Musekit)
 - [Noice](https://github.com/ashutoshgngwr/noice)
 - [Noten Learner](https://github.com/MelvilQ/noten-lernen)
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
