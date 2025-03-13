@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Oinkoin](https://github.com/emavgl/oinkoin)
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Pluvia](https://github.com/oxters168/Pluvia)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
 - [Habit-Maker](https://github.com/dessalines/habit-maker))
-- [Music](https://github.com/MissingCore/Music)
 
 </details>
 
@@ -689,6 +689,7 @@ If you want to help out with the project, here are some ideas:
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet) **`DEAD`**
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
+- [Oinkoin](https://github.com/emavgl/oinkoin)
 - [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 - [Sushi](https://github.com/jerameel/sushi) **`DEAD`**
 
