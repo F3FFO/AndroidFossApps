@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Oinkoin](https://github.com/emavgl/oinkoin)
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Pluvia](https://github.com/oxters168/Pluvia)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 - [ReadOut](https://github.com/tawhidmonowar/ReadOut)
-- [Habit-Maker](https://github.com/dessalines/habit-maker))
 
 </details>
 
@@ -761,6 +761,7 @@ If you want to help out with the project, here are some ideas:
 - [Learning Memory](https://github.com/niccokunzmann/app.memory.quelltext.eu)
 - [Quick Calculation](https://github.com/SubhamTyagi/quick-calculation)
 - [RUTMath](https://github.com/przemarbor/RUTMath)
+- [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Tux Math](https://gitlab.com/Afrikalan/tuxmath-android)
 
 #### Emulators
