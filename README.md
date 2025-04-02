@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Zimly](https://github.com/zimly/zimly-backup)
 - [Oblivion](https://github.com/bepass-org/oblivion)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Karui ToDo](https://github.com/ronynn/karui)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 - [Clippy](https://github.com/WSTxda/Clippy)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
-- [Messages](https://github.com/ThriveEngineer/messages)
 
 </details>
 
@@ -1590,6 +1590,7 @@ If you want to help out with the project, here are some ideas:
 - [Syncthing](https://github.com/syncthing/syncthing-android)
   - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) **`FORK`**
 - [xBrowserSync](https://github.com/xbrowsersync/app)
+- [Zimly](https://github.com/zimly/zimly-backup)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
