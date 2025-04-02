@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Karui ToDo](https://github.com/ronynn/karui)
 - [DroidPad](https://github.com/umer0586/DroidPad)
 - [Lotus](https://github.com/dn0ne/lotus)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
 - [Messages](https://github.com/ThriveEngineer/messages)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
-- [Snatchy](https://github.com/BERLINx03/snatchy)
 
 </details>
 
@@ -917,6 +917,7 @@ If you want to help out with the project, here are some ideas:
 - [BTC Map](https://github.com/teambtcmap/btcmap-android)
 - [Bimba](https://git.apiote.xyz/Bimba.git)
 - [Compass](https://github.com/Kr0oked/Compass)
+- [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [GMaps WV](https://gitlab.com/divested-mobile/maps)
 - [Grid](https://github.com/Rezivure/grid-frontend)
