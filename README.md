@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Lotus](https://github.com/dn0ne/lotus)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [Musekit](https://github.com/Kwasow/Musekit)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Snatchy](https://github.com/BERLINx03/snatchy)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
-- [Simple Tube](https://github.com/samyak2403/Simple-Tube)
 
 </details>
 
@@ -975,6 +975,7 @@ If you want to help out with the project, here are some ideas:
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Howl](https://github.com/Iamlooker/Howl)
 - [little music player](https://github.com/martinmimigames/little-music-player)
+- [Lotus](https://github.com/dn0ne/lotus)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 - [mucke](https://github.com/moritz-weber/mucke)
 - [Music](https://github.com/MissingCore/Music)
