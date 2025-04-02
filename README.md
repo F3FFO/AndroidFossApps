@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Karui ToDo](https://github.com/ronynn/karui)
 - [DroidPad](https://github.com/umer0586/DroidPad)
 - [Lotus](https://github.com/dn0ne/lotus)
 - [Kreate](https://github.com/knighthat/Kreate)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Messages](https://github.com/ThriveEngineer/messages)
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
-- [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 
 </details>
 
@@ -1705,6 +1705,7 @@ If you want to help out with the project, here are some ideas:
 ### :clipboard: ToDo List
 
 - [Doable](https://codeberg.org/florian-obernberger/flutter-doable)
+- [Karui ToDo](https://github.com/ronynn/karui)
 - [Mint Task](https://github.com/boredcodebyk/minttask)
 - [PocketPlan](https://github.com/RayLeaf-Studios/PocketPlan)
 - [Snaptick](https://github.com/vishal2376/snaptick)
