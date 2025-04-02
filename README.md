@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DroidPad](https://github.com/umer0586/DroidPad)
 - [Lotus](https://github.com/dn0ne/lotus)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
-- [N Keyboard](https://github.com/arunk140/nth-kbd)
 
 </details>
 
@@ -1598,6 +1598,7 @@ If you want to help out with the project, here are some ideas:
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
+- [DroidPad](https://github.com/umer0586/DroidPad)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [Geto](https://github.com/JackEblan/Geto)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
