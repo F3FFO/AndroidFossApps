@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Oblivion](https://github.com/bepass-org/oblivion)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Karui ToDo](https://github.com/ronynn/karui)
 - [DroidPad](https://github.com/umer0586/DroidPad)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Clippy](https://github.com/WSTxda/Clippy)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
 - [Messages](https://github.com/ThriveEngineer/messages)
-- [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 
 </details>
 
@@ -1127,6 +1127,7 @@ If you want to help out with the project, here are some ideas:
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [NetGuard](https://github.com/M66B/NetGuard)
+- [Oblivion](https://github.com/bepass-org/oblivion)
 - [OONI Probe](https://github.com/ooni/probe-android)
 - [Orbot](https://github.com/guardianproject/orbot)
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
