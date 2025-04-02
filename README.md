@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kreate](https://github.com/knighthat/Kreate)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [Musekit](https://github.com/Kwasow/Musekit)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [Simple Tube](https://github.com/samyak2403/Simple-Tube)
-- [Grid](https://github.com/Rezivure/grid-frontend)
 
 </details>
 
@@ -1088,6 +1088,7 @@ If you want to help out with the project, here are some ideas:
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
   - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
+  - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
   - [Music You](https://github.com/DanielSevillano/music-you) **`FORK`**
 - [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
 
