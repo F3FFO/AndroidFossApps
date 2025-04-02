@@ -991,6 +991,7 @@ If you want to help out with the project, here are some ideas:
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`**
   - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`**
+- [RiMusic](https://github.com/fast4x/RiMusic)
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose)
 - [SoundCrowd](https://github.com/soundcrowd/soundcrowd)
@@ -1088,7 +1089,6 @@ If you want to help out with the project, here are some ideas:
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
   - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
   - [Music You](https://github.com/DanielSevillano/music-you) **`FORK`**
-  - [RiMusic](https://github.com/fast4x/RiMusic) **`FORK`**
 - [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
 
 #### Twitch
