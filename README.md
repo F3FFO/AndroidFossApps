@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 - [SuperX](https://github.com/alexch33/super-video-downloader)
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [wuziqi](https://github.com/iacobo/wuziqi)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Kreate](https://github.com/knighthat/Kreate)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [Musekit](https://github.com/Kwasow/Musekit)
-- [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 
 </details>
 
@@ -179,6 +179,7 @@ If you want to help out with the project, here are some ideas:
   - [Gesture Control](#gesture-control)
   - [GSI](#gsi)
   - [Info](#info)
+  - [Phone Link](#phone-link)
   - [Shizuku](#shizuku)
   - [SuperUser](#superuser)
   - [Terminal](#terminal)
@@ -1670,6 +1671,10 @@ If you want to help out with the project, here are some ideas:
 - [Octi](https://github.com/d4rken-org/octi)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
   - [LibChecker](https://github.com/zhaobozhen/LibChecker) **`FORK`**
+
+#### Phone Link
+
+- [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 
 #### Shizuku
 
