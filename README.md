@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Anikku](https://github.com/komikku-app/anikku)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Drawpile](https://github.com/drawpile/Drawpile)
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Pluvia](https://github.com/oxters168/Pluvia)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
-- [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 
 </details>
 
@@ -1335,6 +1335,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Manga & Anime
 
+- [Anikku](https://github.com/komikku-app/anikku)
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
   - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
