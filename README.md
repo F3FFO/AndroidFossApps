@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [Krude](https://github.com/KusStar/krude)
 - [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [PodAura](https://github.com/SkyD666/PodAura)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
-- [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 </details>
 
@@ -1612,6 +1612,7 @@ If you want to help out with the project, here are some ideas:
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [DroidPad](https://github.com/umer0586/DroidPad)
+- [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [Geto](https://github.com/JackEblan/Geto)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
