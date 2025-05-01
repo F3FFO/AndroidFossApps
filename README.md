@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [camsung](https://github.com/ericswpark/camsung)
 - [Zimly](https://github.com/zimly/zimly-backup)
 - [Oblivion](https://github.com/bepass-org/oblivion)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Logline](https://github.com/Patch4Code/Logline)
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 - [Clippy](https://github.com/WSTxda/Clippy)
-- [Lumolight](https://github.com/BitMavrick/Lumolight)
 
 </details>
 
@@ -1614,6 +1614,7 @@ If you want to help out with the project, here are some ideas:
 #### ADB Tools
 
 - [AShell You](https://github.com/DP-Hridayan/ashell)
+- [camsung](https://github.com/ericswpark/camsung)
 - [LogFox](https://github.com/F0x1d/LogFox)
 - [Scoop](https://github.com/TacoTheDank/Scoop)
 - [WADBS](https://github.com/Smooth-E/wireless-adb-switch)
