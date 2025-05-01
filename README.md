@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [SuperX](https://github.com/alexch33/super-video-downloader)
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [wuziqi](https://github.com/iacobo/wuziqi)
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [Musekit](https://github.com/Kwasow/Musekit)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
-- [Oinkoin](https://github.com/emavgl/oinkoin)
 
 </details>
 
@@ -592,6 +592,7 @@ If you want to help out with the project, here are some ideas:
   - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager)
 - **Video**
   - [dvd](https://github.com/yausername/dvd)
+  - [SuperX](https://github.com/alexch33/super-video-downloader)
 - **YouTube**
   - [TubeSync](https://github.com/khaled-0/TubeSync)
   - [Seal](https://github.com/JunkFood02/Seal)
