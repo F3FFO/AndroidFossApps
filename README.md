@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 - [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 - [Litube](https://github.com/HydeYYHH/litube)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
-- [Notex](https://github.com/GPSxtreme/notex-flutter)
 
 </details>
 
@@ -1633,6 +1633,7 @@ If you want to help out with the project, here are some ideas:
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
+- [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
 - [X Signer](https://github.com/yamenher/x-signer)
 
