@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Drawpile](https://github.com/drawpile/Drawpile)
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 - [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Pluvia](https://github.com/oxters168/Pluvia)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
-- [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 
 </details>
 
@@ -1285,6 +1285,7 @@ If you want to help out with the project, here are some ideas:
 #### File & App Encryption
 
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
+- [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Confidant](https://github.com/YangDai-Github/Encryptor-Android)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS)
