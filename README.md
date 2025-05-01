@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
 - [Zimly](https://github.com/zimly/zimly-backup)
 - [Oblivion](https://github.com/bepass-org/oblivion)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 - [Logline](https://github.com/Patch4Code/Logline)
 - [ScanBridge](https://github.com/Chrisimx/ScanBridge)
-- [Clippy](https://github.com/WSTxda/Clippy)
 
 </details>
 
@@ -1549,6 +1549,7 @@ If you want to help out with the project, here are some ideas:
 - [Medic Log](https://github.com/rh-id/a-medic-log)
 - [MediLog](https://codeberg.org/toz/MediLog)
 - [Monochromatic](https://github.com/RichyHBM/Monochromatic) **`DEAD`**
+- [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [Red Moon](https://github.com/LibreShift/red-moon)
 - [Survival Manual](https://github.com/ligi/SurvivalManual)
 - [Taru](https://github.com/nirajprakash/taru-plants-android)
