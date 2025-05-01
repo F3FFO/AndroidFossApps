@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Krude](https://github.com/KusStar/krude)
 - [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [PodAura](https://github.com/SkyD666/PodAura)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
-- [Logline](https://github.com/Patch4Code/Logline)
 
 </details>
 
@@ -894,6 +894,7 @@ If you want to help out with the project, here are some ideas:
 - [Fossify Launcher](https://github.com/FossifyOrg/Launcher)
 - [Hex Launcher](https://github.com/MrMannWood/launcher)
 - [KISS](https://github.com/Neamar/KISS)
+- [Krude](https://github.com/KusStar/krude)
 - [Kvaesitso](https://github.com/MM2-0/Kvaesitso)
 - [LaunchTime](https://github.com/quaap/LaunchTime)
 - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
