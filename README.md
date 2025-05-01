@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Momogram](https://github.com/dic1911/Momogram)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Karui ToDo](https://github.com/ronynn/karui)
 - [DroidPad](https://github.com/umer0586/DroidPad)
 - [Lotus](https://github.com/dn0ne/lotus)
-- [Kreate](https://github.com/knighthat/Kreate)
 
 </details>
 
@@ -459,6 +459,7 @@ If you want to help out with the project, here are some ideas:
     - [AyuGram for Android](https://github.com/AyuGram/AyuGram4A) **`FORK`**
   - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
   - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
+  - [Momogram](https://github.com/dic1911/Momogram) **`FORK`**
   - [Nagram](https://github.com/NextAlone/Nagram) **`FORK`**
   - [Nekogram](https://github.com/Nekogram/Nekogram) **`FORK`**
   - [Nullgram](https://github.com/qwq233/Nullgram) **`FORK`**
