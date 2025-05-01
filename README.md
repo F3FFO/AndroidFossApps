@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Drawpile](https://github.com/drawpile/Drawpile)
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 - [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 - [Litube](https://github.com/HydeYYHH/litube)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
-- [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 
 </details>
 
@@ -604,6 +604,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :paintbrush: Drawing
 
+- [Drawpile](https://github.com/drawpile/Drawpile)
 - [Fossify Paint](https://github.com/FossifyOrg/Paint)
 - [FreePaint](https://github.com/pastthepixels/FreePaint)
 - [PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
