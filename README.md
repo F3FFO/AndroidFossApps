@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 - [SuperX](https://github.com/alexch33/super-video-downloader)
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Lotus](https://github.com/dn0ne/lotus)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
-- [Musekit](https://github.com/Kwasow/Musekit)
 
 </details>
 
@@ -833,6 +833,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Image Manipulation
 
+- [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Easy Watermark](https://github.com/rosuH/EasyWatermark)
 - [Exif Thumbnail Adder](https://github.com/tenzap/exif-thumbnail-adder)
 - [FFShare](https://github.com/caydey/ffshare)
@@ -1122,6 +1123,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Video Editor
 
+- [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Open Video Editor](https://github.com/devhyper/open-video-editor)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
