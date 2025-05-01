@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [wuziqi](https://github.com/iacobo/wuziqi)
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 - [Anikku](https://github.com/komikku-app/anikku)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Musekit](https://github.com/Kwasow/Musekit)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Oinkoin](https://github.com/emavgl/oinkoin)
-- [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 
 </details>
 
@@ -1652,6 +1652,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Gesture Control
 
+- [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [Pocket Mode](https://github.com/AChep/PocketMode)
 - [SoundTap](https://github.com/Angel-Studio/SoundTap)
 - [Tap, Tap](https://github.com/KieronQuinn/TapTap)
