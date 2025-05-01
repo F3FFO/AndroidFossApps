@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 - [SuperX](https://github.com/alexch33/super-video-downloader)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DroidPad](https://github.com/umer0586/DroidPad)
 - [Lotus](https://github.com/dn0ne/lotus)
 - [Kreate](https://github.com/knighthat/Kreate)
-- [FoodYou](https://github.com/maksimowiczm/FoodYou)
 
 </details>
 
@@ -729,6 +729,7 @@ If you want to help out with the project, here are some ideas:
 ### :video_game: Games & Emulator
 
 - [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
+- [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
