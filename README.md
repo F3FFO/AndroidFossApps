@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 - [Anikku](https://github.com/komikku-app/anikku)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Drawpile](https://github.com/drawpile/Drawpile)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Oinkoin](https://github.com/emavgl/oinkoin)
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
 - [Pluvia](https://github.com/oxters168/Pluvia)
-- [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 
 </details>
 
@@ -1205,6 +1205,7 @@ If you want to help out with the project, here are some ideas:
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Standard Notes](https://github.com/standardnotes/app)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
+- [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
