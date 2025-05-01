@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 - [Litube](https://github.com/HydeYYHH/litube)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [Krude](https://github.com/KusStar/krude)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
-- [PodAura](https://github.com/SkyD666/PodAura)
 
 </details>
 
@@ -1069,6 +1069,7 @@ If you want to help out with the project, here are some ideas:
 - [ReVanced Extended](https://github.com/revanced/revanced-manager)
 - [SkyTube](https://github.com/ram-on/SkyTube)
 - [VueTube](https://github.com/VueTubeApp/VueTube) **`DEAD`**
+- [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 
 #### YouTube Music
 
