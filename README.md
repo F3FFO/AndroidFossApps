@@ -1041,7 +1041,6 @@ If you want to help out with the project, here are some ideas:
 
 #### Streaming
 
-- [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) **`DEAD`**
 - [Burning-Series](https://github.com/DATL4G/BurningSeries-Android/)
 - [CloudStream](https://github.com/recloudstream/cloudstream)
 - [Findroid](https://github.com/jarnedemeulemeester/findroid)
@@ -1336,6 +1335,7 @@ If you want to help out with the project, here are some ideas:
 #### Manga & Anime
 
 - [Anikku](https://github.com/komikku-app/anikku)
+- [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) **`DEAD`**
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
   - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
