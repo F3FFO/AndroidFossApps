@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [wuziqi](https://github.com/iacobo/wuziqi)
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 - [Anikku](https://github.com/komikku-app/anikku)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Oinkoin](https://github.com/emavgl/oinkoin)
 - [BlackHole++](https://github.com/itx-jd/Black-Hole-Extractor)
-- [Pluvia](https://github.com/oxters168/Pluvia)
 
 </details>
 
@@ -748,6 +748,7 @@ If you want to help out with the project, here are some ideas:
 - [Open Chaos Chess](https://github.com/CorruptedArk/open-chaos-chess)
 - [Scid on the go](https://github.com/gkalab/scidonthego)
 - [Simple Chess Clock](https://github.com/simenheg/simple-chess-clock)
+- [wuziqi](https://github.com/iacobo/wuziqi)
 
 #### Card
 
