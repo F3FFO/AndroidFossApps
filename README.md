@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Litube](https://github.com/HydeYYHH/litube)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [Krude](https://github.com/KusStar/krude)
 - [Nobook](https://github.com/ycngmn/Nobook)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Notex](https://github.com/GPSxtreme/notex-flutter)
 - [PodAura](https://github.com/SkyD666/PodAura)
-- [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 
 </details>
 
@@ -1058,6 +1058,7 @@ If you want to help out with the project, here are some ideas:
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
   - [LightTube](https://github.com/kuylar/lighttube-android) **`FORK`**
+- [Litube](https://github.com/HydeYYHH/litube)
 - [Materialious](https://github.com/Materialious/Materialious)
 - [Namida](https://github.com/namidaco/namida)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
