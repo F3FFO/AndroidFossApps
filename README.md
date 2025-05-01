@@ -665,7 +665,6 @@ If you want to help out with the project, here are some ideas:
 - [Device Connect](https://github.com/cyanomiko/dcnnt-android)
 - [Filester](https://github.com/rouzbehzarei/filester)
 - [FTPClient](https://codeberg.org/qwerty287/ftpclient)
-- [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
 - [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android)
 - [LocalSend](https://github.com/localsend/localsend)
 - [ShareX](https://github.com/akanshSirohi/ShareX)
@@ -1612,7 +1611,6 @@ If you want to help out with the project, here are some ideas:
 - [DecSync CC](https://github.com/39aldo39/DecSyncCC)
 - [EteSync](https://github.com/etesync/android)
 - [floccus](https://github.com/floccusaddon/floccus)
-- [KDE Connect](https://github.com/KDE/kdeconnect-kde)
 - [Nextcloud](https://github.com/nextcloud/android)
 - [ownCloud](https://github.com/owncloud/android)
 - [Seafile](https://github.com/haiwen/seadroid)
@@ -1674,6 +1672,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Phone Link
 
+- [KDE Connect](https://github.com/KDE/kdeconnect-kde)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 
 #### Shizuku
