@@ -121,7 +121,7 @@ If you want to help out with the project, here are some ideas:
 - [:keyboard: Keyboard](#keyboard-keyboard)
 - [:house: Launcher](#house-launcher)
 - [:compass: Maps & Navigation](#compass-maps--navigation)
-- [:clapper: Media](#clapper-media)
+- [:clapper: Media](#clapper-media-audiovideo)
   - [Equalizer](#equalizer)
   - [Music](#music)
   - [Music/Audio Player](#musicaudio-player)
@@ -944,7 +944,7 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-### :clapper: Media
+### :clapper: Media (Audio/Video)
 
 #### Equalizer
 
