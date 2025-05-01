@@ -140,6 +140,7 @@ If you want to help out with the project, here are some ideas:
   - [Link](#link)
 - [:memo: Note](#memo-note)
 - [:computer: Office](#computer-office)
+- [:broom: Optimizer & Cleaner](#broom-optimizer--cleaner)
 - [:art: Painting](#art-painting)
 - [:closed_lock_with_key: Password & Authentication](#closed_lock_with_key-password--authentication)
 - [:lock: Privacy](#lock-privacy)
@@ -178,7 +179,6 @@ If you want to help out with the project, here are some ideas:
   - [Gesture Control](#gesture-control)
   - [GSI](#gsi)
   - [Info](#info)
-  - [Optimizer & Cleaner](#optimizer--cleaner)
   - [Shizuku](#shizuku)
   - [SuperUser](#superuser)
   - [Terminal](#terminal)
@@ -1219,6 +1219,18 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
+### :broom: Optimizer & Cleaner
+
+- [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
+- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus)
+- [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
+- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
+
+<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
+
+---
+
 ### :art: Painting
 
 - [Krita](https://invent.kde.org/graphics/krita)
@@ -1648,14 +1660,6 @@ If you want to help out with the project, here are some ideas:
 - [Octi](https://github.com/d4rken-org/octi)
 - [LibChecker](https://github.com/LibChecker/LibChecker)
   - [LibChecker](https://github.com/zhaobozhen/LibChecker) **`FORK`**
-
-#### Optimizer & Cleaner
-
-- [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
-- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus)
-- [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
-- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
 #### Shizuku
 
