@@ -1672,7 +1672,7 @@ If you want to help out with the project, here are some ideas:
 #### Terminal
 
 - [Termux](https://github.com/termux/termux-app)
-  - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`**
+  - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`** **`DEAD`**
 
 #### Theme
 
