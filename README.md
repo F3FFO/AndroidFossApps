@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
 - [Zimly](https://github.com/zimly/zimly-backup)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 - [Logline](https://github.com/Patch4Code/Logline)
-- [ScanBridge](https://github.com/Chrisimx/ScanBridge)
 
 </details>
 
@@ -160,6 +160,7 @@ If you want to help out with the project, here are some ideas:
 - [:shopping_cart: Shopping](#shopping_cart-shopping)
 - [:busts_in_silhouette: Social Network](#busts_in_silhouette-social-network)
   - [Discord :warning:](#discord)
+  - [Facebook :warning:](#facebook)
   - [Github :warning:](#github)
   - [Lemmy](#lemmy)
   - [Mastodon](#mastodon)
@@ -1449,6 +1450,13 @@ If you want to help out with the project, here are some ideas:
 - [Vendetta](https://github.com/vendetta-mod/Vendetta) **`DEAD`** **`FORK`**
   - [Revenge](https://github.com/revenge-mod/Revenge) **`DEAD`** **`FORK`**
 - [Vendroid](https://github.com/Vencord/Vendroid)
+
+#### Facebook
+
+> [!WARNING]  
+> Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
+
+- [Nobook](https://github.com/ycngmn/Nobook)
 
 #### Github
 
