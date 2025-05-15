@@ -999,10 +999,8 @@ If you want to help out with the project, here are some ideas:
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-  - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`**
-  - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`**
-- [RiMusic](https://github.com/fast4x/RiMusic)
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+  - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`** **`DEAD`**
+  - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`** **`DEAD`**
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose)
 - [SoundCrowd](https://github.com/soundcrowd/soundcrowd)
 - [Symphony](https://github.com/zyrouge/symphony)
@@ -1093,6 +1091,7 @@ If you want to help out with the project, here are some ideas:
 - [Musify](https://github.com/gokadzev/Musify)
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
+- [RiMusic](https://github.com/fast4x/RiMusic) **`DEAD`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
