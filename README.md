@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kreate](https://github.com/knighthat/Kreate)
 - [Momogram](https://github.com/dic1911/Momogram)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Karui ToDo](https://github.com/ronynn/karui)
 - [DroidPad](https://github.com/umer0586/DroidPad)
-- [Lotus](https://github.com/dn0ne/lotus)
 
 </details>
 
@@ -1092,6 +1092,7 @@ If you want to help out with the project, here are some ideas:
 - [Muzza](https://github.com/Maloy-Android/Muzza)
 - [OpenTune](https://github.com/Arturo254/OpenTune)
 - [RiMusic](https://github.com/fast4x/RiMusic) **`DEAD`**
+  - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
