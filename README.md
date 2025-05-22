@@ -1007,10 +1007,6 @@ If you want to help out with the project, here are some ideas:
 - [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player)
 - [Transistor](https://codeberg.org/y20k/transistor)
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
-  - [Cover Fetcher](https://github.com/vanilla-music/vanilla) **`FORK`**
-  - [Headphone Detector](https://github.com/vanilla-music/vanilla) **`FORK`**
-  - [Lyric Search](https://github.com/vanilla-music/vanilla) **`FORK`**
-  - [Tag Editor](https://github.com/vanilla-music/vanilla) **`FORK`**
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 #### Podcast/Audio Player
