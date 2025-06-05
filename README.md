@@ -485,13 +485,16 @@ If you want to help out with the project, here are some ideas:
 
 - [Clock](https://github.com/qw123wh/new-clock-fdroid)
 - [Clock You](https://github.com/you-apps/ClockYou)
-- [Cofi](https://github.com/rozPierog/Cofi)
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [Chronos](https://github.com/meenbeese/Chronos)
-- [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
 - [Overload](https://codeberg.org/pabloscloud/Overload) **`DEAD`**
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
+
+#### Timer
+
+- [Cofi](https://github.com/rozPierog/Cofi)
+- [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 
