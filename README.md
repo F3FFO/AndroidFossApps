@@ -484,14 +484,13 @@ If you want to help out with the project, here are some ideas:
 ### :watch: Clock & Time
 
 - [Clock](https://github.com/qw123wh/new-clock-fdroid)
-- [Clock](https://github.com/BlackyHawky/Clock)
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
-- [Overload](https://codeberg.org/pabloscloud/Overload)
+- [Overload](https://codeberg.org/pabloscloud/Overload) **`DEAD`**
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
@@ -982,29 +981,27 @@ If you want to help out with the project, here are some ideas:
 - [Finamp](https://github.com/jmshrv/finamp)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
-- [Howl](https://github.com/Iamlooker/Howl)
-- [little music player](https://github.com/martinmimigames/little-music-player)
+- [Howl](https://github.com/Iamlooker/Howl) **`DEAD`**
+- [little music player](https://github.com/martinmimigames/little-music-player) **`DEAD`**
 - [Lotus](https://github.com/dn0ne/lotus)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
-- [mucke](https://github.com/moritz-weber/mucke)
+- [mucke](https://github.com/moritz-weber/mucke) **`DEAD`**
 - [Music](https://github.com/MissingCore/Music)
-- [Musicmax](https://github.com/TheMusicmax/Musicmax)
-- [Music Player GO](https://github.com/enricocid/Music-Player-GO)
+- [Music Player GO](https://github.com/enricocid/Music-Player-GO) **`DEAD`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [Namida](https://github.com/namidaco/namida)
 - [Noad Player](https://github.com/gauravjot/android-noad-music-player)
-- [Odeon](https://github.com/thibseisel/android-odeon)
+- [Odeon](https://github.com/thibseisel/android-odeon) **`DEAD`**
 - [Odyssey](https://github.com/gateship-one/odyssey)
 - [phiola](https://github.com/stsaz/phiola)
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
-- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+- [RadioDroid](https://github.com/segler-alex/RadioDroid) **`DEAD`**
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-  - [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FORK`** **`DEAD`**
   - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`** **`DEAD`**
-- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose)
+- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`DEAD`**
 - [SoundCrowd](https://github.com/soundcrowd/soundcrowd)
 - [Symphony](https://github.com/zyrouge/symphony)
-- [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player)
+- [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player) **`DEAD`**
 - [Transistor](https://codeberg.org/y20k/transistor)
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
