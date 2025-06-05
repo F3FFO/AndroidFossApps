@@ -488,7 +488,7 @@ If you want to help out with the project, here are some ideas:
 - [Chrono](https://github.com/vicolo-dev/chrono)
 - [Chronos](https://github.com/meenbeese/Chronos)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
-- [Overload](https://codeberg.org/pabloscloud/Overload) **`DEAD`**
+- [Overload](https://github.com/pablo03v/Overload) **`DEAD`**
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
 
 #### Timer
