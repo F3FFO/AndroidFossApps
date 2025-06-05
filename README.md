@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [Digitally](https://github.com/nicanor-jay/digitally)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
 - [Zimly](https://github.com/zimly/zimly-backup)
-- [Oblivion](https://github.com/bepass-org/oblivion)
 
 </details>
 
@@ -1634,6 +1634,7 @@ If you want to help out with the project, here are some ideas:
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [DroidPad](https://github.com/umer0586/DroidPad)
+- [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [Geto](https://github.com/JackEblan/Geto)
