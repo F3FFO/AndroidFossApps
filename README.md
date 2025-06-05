@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Digitally](https://github.com/nicanor-jay/digitally)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Kreate](https://github.com/knighthat/Kreate)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [camsung](https://github.com/ericswpark/camsung)
 - [Zimly](https://github.com/zimly/zimly-backup)
 - [Oblivion](https://github.com/bepass-org/oblivion)
-- [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 
 </details>
 
@@ -1588,6 +1588,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Drip](https://gitlab.com/bloodyhealth/drip)
 - [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [Digitally](https://github.com/nicanor-jay/digitally)
 - [FitBook](https://github.com/brandonp2412/FitBook)
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack)
 - [Flexify](https://github.com/brandonp2412/Flexify)
