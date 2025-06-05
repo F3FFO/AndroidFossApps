@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [Momogram](https://github.com/dic1911/Momogram)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Oblivion](https://github.com/bepass-org/oblivion)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
 - [Karui ToDo](https://github.com/ronynn/karui)
-- [DroidPad](https://github.com/umer0586/DroidPad)
 
 </details>
 
@@ -495,6 +495,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
+- [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 
