@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [DigiPaws](https://github.com/nethical6/digipaws)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [Momogram](https://github.com/dic1911/Momogram)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Zimly](https://github.com/zimly/zimly-backup)
 - [Oblivion](https://github.com/bepass-org/oblivion)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
-- [Karui ToDo](https://github.com/ronynn/karui)
 
 </details>
 
@@ -1631,6 +1631,7 @@ If you want to help out with the project, here are some ideas:
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
+- [DigiPaws](https://github.com/nethical6/digipaws)
 - [DroidPad](https://github.com/umer0586/DroidPad)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
