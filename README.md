@@ -1831,6 +1831,7 @@ If you want to help out with the project, here are some ideas:
 - [WallMan](https://gitlab.com/colorata/wallman)
 - [Wall You](https://github.com/you-apps/WallYou)
 - [Zade's Wallpaper](https://github.com/zadeviggers/wallpaper)
+- [Shiori Wallpapers](https://github.com/brianali-codes)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
