@@ -64,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
-- [Zimly](https://github.com/zimly/zimly-backup)
 
 </details>
 
