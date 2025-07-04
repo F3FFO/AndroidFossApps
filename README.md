@@ -934,6 +934,7 @@ If you want to help out with the project, here are some ideas:
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [OpenTopoMap Viewer](https://github.com/Pygmalion69/OpenTopoMapViewer)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [CoMaps](https://codeberg.org/comaps/comaps)
 - [OsmAnd~](https://github.com/osmandapp/OsmAnd)
 - [Private Location](https://github.com/wesaphzt/privatelocation)
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
