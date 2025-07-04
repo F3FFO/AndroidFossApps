@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [Digitally](https://github.com/nicanor-jay/digitally)
 - [DigiPaws](https://github.com/nethical6/digipaws)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 - [camsung](https://github.com/ericswpark/camsung)
-- [Zimly](https://github.com/zimly/zimly-backup)
 
 </details>
 
@@ -1831,6 +1831,7 @@ If you want to help out with the project, here are some ideas:
 - [WallMan](https://gitlab.com/colorata/wallman)
 - [Wall You](https://github.com/you-apps/WallYou)
 - [Zade's Wallpaper](https://github.com/zadeviggers/wallpaper)
+- [Shiori Wallpapers](https://github.com/brianali-codes)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
