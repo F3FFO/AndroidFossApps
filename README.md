@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Capy Reader](https://github.com/jocmp/capyreader)
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [Digitally](https://github.com/nicanor-jay/digitally)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Krude](https://github.com/KusStar/krude)
 - [Nobook](https://github.com/ycngmn/Nobook)
 - [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
-- [camsung](https://github.com/ericswpark/camsung)
 
 </details>
 
@@ -1369,6 +1369,7 @@ If you want to help out with the project, here are some ideas:
 #### RSS Reader
 
 - [Aggregator](https://github.com/tughi/aggregator-android)
+- [Capy Reader](https://github.com/jocmp/capyreader)
 - [Dirol Reader](https://github.com/therxmv/Dirol-Reader/)
 - [Feeder](https://gitlab.com/spacecowboy/Feeder)
 - [FeedFlow](https://github.com/prof18/feed-flow)
