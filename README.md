@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Tangential](https://github.com/CosmoSailors/Tangential)
 - [Capy Reader](https://github.com/jocmp/capyreader)
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [Krude](https://github.com/KusStar/krude)
 - [Nobook](https://github.com/ycngmn/Nobook)
-- [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 
 </details>
 
@@ -545,6 +545,7 @@ If you want to help out with the project, here are some ideas:
 - [Home Assistant](https://github.com/home-assistant/android)
 - [Method Call](https://github.com/coleblvck/MethodCall)
 - [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+- [Tangential](https://github.com/CosmoSailors/Tangential)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
