@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AppLock](https://github.com/PranavPurwar/AppLock)
 - [Just Chatting](https://github.com/outadoc/just-chatting)
 - [Tangential](https://github.com/CosmoSailors/Tangential)
 - [Capy Reader](https://github.com/jocmp/capyreader)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 - [Litube](https://github.com/HydeYYHH/litube)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
-- [Krude](https://github.com/KusStar/krude)
 
 </details>
 
@@ -1277,6 +1277,7 @@ If you want to help out with the project, here are some ideas:
 
 - [AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
 - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker)
+- [AppLock](https://github.com/PranavPurwar/AppLock)
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner)
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit)
