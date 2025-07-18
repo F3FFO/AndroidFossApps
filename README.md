@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Tomato](https://github.com/nsh07/Tomato)
 - [AppLock](https://github.com/PranavPurwar/AppLock)
 - [Just Chatting](https://github.com/outadoc/just-chatting)
 - [Tangential](https://github.com/CosmoSailors/Tangential)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 - [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 - [Litube](https://github.com/HydeYYHH/litube)
-- [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 
 </details>
 
@@ -497,6 +497,7 @@ If you want to help out with the project, here are some ideas:
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
+- [Tomato](https://github.com/nsh07/Tomato)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
