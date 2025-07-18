@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Just Chatting](https://github.com/outadoc/just-chatting)
 - [Tangential](https://github.com/CosmoSailors/Tangential)
 - [Capy Reader](https://github.com/jocmp/capyreader)
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Litube](https://github.com/HydeYYHH/litube)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [Krude](https://github.com/KusStar/krude)
-- [Nobook](https://github.com/ycngmn/Nobook)
 
 </details>
 
@@ -1107,6 +1107,7 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Frosty](https://github.com/tommyxchow/frosty)
+- [Just Chatting](https://github.com/outadoc/just-chatting)
 - [Twire](https://github.com/twireapp/Twire)
 - [Xtra](https://github.com/crackededed/Xtra)
 
