@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Vanadium](https://github.com/GrapheneOS/Vanadium)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
 - [Tomato](https://github.com/nsh07/Tomato)
 - [AppLock](https://github.com/PranavPurwar/AppLock)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Drawpile](https://github.com/drawpile/Drawpile)
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
-- [YouTube lite](https://github.com/HydeYYHH/YouTube-lite)
 
 </details>
 
@@ -329,6 +329,7 @@ If you want to help out with the project, here are some ideas:
 - [Cromite](https://github.com/uazo/cromite)
 - [Thorium](https://github.com/Alex313031/Thorium-Android)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
+- [Vanadium](https://github.com/GrapheneOS/Vanadium)
 
 #### Gecko Based (Firefox)
 
