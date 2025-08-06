@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Breakout 71](https://gitlab.com/lecarore/breakout71)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Vanadium](https://github.com/GrapheneOS/Vanadium)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 - [Anikku](https://github.com/komikku-app/anikku)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
-- [Drawpile](https://github.com/drawpile/Drawpile)
 
 </details>
 
@@ -736,6 +736,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
+- [Breakout 71](https://gitlab.com/lecarore/breakout71)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
