@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [Athena](https://github.com/Kin69/Athena)
 - [Auto Shine](https://github.com/Valent-in/Auto-Shine)
 - [2048 Open Fun Game](https://github.com/andstatus/game2048)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 - [SuperX](https://github.com/alexch33/super-video-downloader)
-- [EdgeSeek](https://github.com/LSafer/edgeseek)
 
 </details>
 
@@ -789,6 +789,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Logic
 
+- [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 
