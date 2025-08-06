@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Auto Shine](https://github.com/Valent-in/Auto-Shine)
 - [2048 Open Fun Game](https://github.com/andstatus/game2048)
 - [CoMaps](https://codeberg.org/comaps/comaps)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [SuperX](https://github.com/alexch33/super-video-downloader)
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [wuziqi](https://github.com/iacobo/wuziqi)
-- [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 
 </details>
 
@@ -1641,6 +1641,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Auditor](https://github.com/GrapheneOS/Auditor)
 - [AutoPie](https://github.com/cryptrr/AutoPie)
+- [Auto Shine](https://github.com/Valent-in/Auto-Shine)
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [DroidPad](https://github.com/umer0586/DroidPad)
