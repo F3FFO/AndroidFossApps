@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Athena](https://github.com/Kin69/Athena)
 - [Auto Shine](https://github.com/Valent-in/Auto-Shine)
 - [2048 Open Fun Game](https://github.com/andstatus/game2048)
 - [CoMaps](https://codeberg.org/comaps/comaps)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 - [SuperX](https://github.com/alexch33/super-video-downloader)
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
-- [wuziqi](https://github.com/iacobo/wuziqi)
 
 </details>
 
@@ -1157,6 +1157,7 @@ If you want to help out with the project, here are some ideas:
 #### Firewall
 
 - [AFWall+](https://github.com/ukanth/afwall)
+- [Athena](https://github.com/Kin69/Athena)
 - [Karma Firewall](https://github.com/nightflame2/karma-firewall)
 - [NetGuard](https://github.com/M66B/NetGuard)
 
