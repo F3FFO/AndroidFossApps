@@ -736,7 +736,6 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
-- [Flappy Bird](https://github.com/VadimBoev/FlappyBird)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
