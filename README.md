@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Vanadium](https://github.com/GrapheneOS/Vanadium)
 - [Ultimatum](https://github.com/gonzazoid/Ultimatum)
 - [Tomato](https://github.com/nsh07/Tomato)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Anikku](https://github.com/komikku-app/anikku)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
 - [Drawpile](https://github.com/drawpile/Drawpile)
-- [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
 
 </details>
 
@@ -794,6 +794,7 @@ If you want to help out with the project, here are some ideas:
 #### Puzzle
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
+- [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 #### Snake
