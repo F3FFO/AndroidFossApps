@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [CoMaps](https://codeberg.org/comaps/comaps)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Vanadium](https://github.com/GrapheneOS/Vanadium)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [wuziqi](https://github.com/iacobo/wuziqi)
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
 - [Anikku](https://github.com/komikku-app/anikku)
-- [AstraCrypt](https://github.com/gromif/AstraCrypt)
 
 </details>
 
@@ -939,6 +939,7 @@ If you want to help out with the project, here are some ideas:
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [OpenTopoMap Viewer](https://github.com/Pygmalion69/OpenTopoMapViewer)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
+  - [CoMaps](https://codeberg.org/comaps/comaps) **`FORK`**
 - [OsmAnd~](https://github.com/osmandapp/OsmAnd)
 - [Private Location](https://github.com/wesaphzt/privatelocation)
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
