@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [2048 Open Fun Game](https://github.com/andstatus/game2048)
 - [CoMaps](https://codeberg.org/comaps/comaps)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [EdgeSeek](https://github.com/LSafer/edgeseek)
 - [wuziqi](https://github.com/iacobo/wuziqi)
 - [Write On: Simple Notepad](https://github.com/3zpnix/WriteOn)
-- [Anikku](https://github.com/komikku-app/anikku)
 
 </details>
 
@@ -746,6 +746,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Board
 
+- [2048 Open Fun Game](https://github.com/andstatus/game2048)
 - [Chess](https://github.com/jcarolus/android-chess)
 - [Chess Clock](https://github.com/ChessCom/android-chessclock)
 - [DroidFish](https://github.com/peterosterlund2/droidfish)
