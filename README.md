@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [Digitally](https://github.com/nicanor-jay/digitally)
 - [DigiPaws](https://github.com/nethical6/digipaws)
-- [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 
 </details>
 
@@ -1661,6 +1661,7 @@ If you want to help out with the project, here are some ideas:
 - [Sapio](https://github.com/jonathanklee/sapio)
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan)
 - [SysAdmin](https://github.com/prathameshkhade/SysAdmin)
+- [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
 - [XtMapper](https://github.com/Xtr126/XtMapper)
 - [X Signer](https://github.com/yamenher/x-signer)
 
