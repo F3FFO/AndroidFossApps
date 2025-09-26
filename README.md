@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Digitally](https://github.com/nicanor-jay/digitally)
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
-- [Kreate](https://github.com/knighthat/Kreate)
 
 </details>
 
@@ -1028,6 +1028,7 @@ If you want to help out with the project, here are some ideas:
 - [Audio Anchor](https://github.com/flackbash/AudioAnchor)
 - [Escapepod](https://codeberg.org/y20k/escapepod)
 - [PodAura](https://github.com/SkyD666/PodAura)
+- [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Podverse](https://github.com/podverse/podverse-fdroid)
 - [Tsacdop](https://github.com/stonega/tsacdop)
