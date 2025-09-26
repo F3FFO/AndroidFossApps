@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Kreate](https://github.com/knighthat/Kreate)
 - [Momogram](https://github.com/dic1911/Momogram)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
-- [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 
 </details>
 
@@ -597,6 +597,7 @@ If you want to help out with the project, here are some ideas:
 - **Torrent**
   - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
   - [Torrent Client](https://gitlab.com/axet/android-torrent-client)
+  - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
   - [TorrServe](https://github.com/YouROK/TorrServe)
   - [qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager)
 - **Video**
