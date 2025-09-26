@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Kreate](https://github.com/knighthat/Kreate)
-- [Momogram](https://github.com/dic1911/Momogram)
 
 </details>
 
@@ -1244,7 +1244,7 @@ If you want to help out with the project, here are some ideas:
 - [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
 - [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus)
 - [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
-- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
