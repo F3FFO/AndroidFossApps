@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [XoDos](https://github.com/xodiosx/XoDos)
 - [TorrentSearch](https://github.com/prajwalch/TorrentSearch)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [Momogram](https://github.com/dic1911/Momogram)
-- [Loverquest](https://github.com/H3rz3n/loverquest)
 
 </details>
 
@@ -786,6 +786,7 @@ If you want to help out with the project, here are some ideas:
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
 - [Rekado](https://github.com/MenosGrante/Rekado)
 - [RetroArch](https://github.com/libretro/RetroArch)
+- [XoDos](https://github.com/xodiosx/XoDos)
 - [Yuzu](https://github.com/yuzu-emu/yuzu)
 
 #### Logic
