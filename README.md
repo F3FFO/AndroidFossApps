@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [Athena](https://github.com/Kin69/Athena)
 - [Auto Shine](https://github.com/Valent-in/Auto-Shine)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
 - [Sefirah](https://github.com/shrimqy/Sefirah-Android)
-- [SuperX](https://github.com/alexch33/super-video-downloader)
 
 </details>
 
@@ -1007,6 +1007,7 @@ If you want to help out with the project, here are some ideas:
 - [Odyssey](https://github.com/gateship-one/odyssey)
 - [phiola](https://github.com/stsaz/phiola)
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
+- [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [RadioDroid](https://github.com/segler-alex/RadioDroid) **`DEAD`**
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`** **`DEAD`**
