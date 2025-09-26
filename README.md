@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [Athena](https://github.com/Kin69/Athena)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Momogram](https://github.com/dic1911/Momogram)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Bunny Media Editor](https://gitlab.shinice.net/pixeldroid/bunny)
-- [Sefirah](https://github.com/shrimqy/Sefirah-Android)
 
 </details>
 
@@ -978,6 +978,7 @@ If you want to help out with the project, here are some ideas:
 - [Noice](https://github.com/ashutoshgngwr/noice)
 - [Noten Learner](https://github.com/MelvilQ/noten-lernen)
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
+- [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [Rush](https://github.com/shub39/Rush)
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
