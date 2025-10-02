@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Translator](https://github.com/DavidVentura/firefox-translator)
 - [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Capy Reader](https://github.com/jocmp/capyreader)
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
-- [Digitally](https://github.com/nicanor-jay/digitally)
 
 </details>
 
@@ -231,7 +231,6 @@ If you want to help out with the project, here are some ideas:
 - [DNS66](https://github.com/julian-klode/dns66) **`DEAD`**
   - [DNSNet](https://github.com/t895/DNSNet) **`FORK`**
 - [DNSFilter](https://github.com/IngoZenz/personaldnsfilter)
-- [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1297,6 +1296,7 @@ If you want to help out with the project, here are some ideas:
 - [InviZible Pro](https://github.com/Gedsh/InviZible)
 - [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian)
 - [Privacy Indicator](https://github.com/NitishGadangi/Privacy-Indicator-App)
+- [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android)
