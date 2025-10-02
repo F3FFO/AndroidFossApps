@@ -237,7 +237,7 @@ If you want to help out with the project, here are some ideas:
 
 ---
 
-#### :package: App Manager
+### :package: App Manager
 
 - [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector)
   - [Ruru](https://github.com/byxiaorun/Ruru) **`FORK`**
