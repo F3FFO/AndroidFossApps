@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Translator](https://github.com/DavidVentura/firefox-translator)
 - [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 - [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [Digitally](https://github.com/nicanor-jay/digitally)
-- [DigiPaws](https://github.com/nethical6/digipaws)
 
 </details>
 
@@ -1784,6 +1784,7 @@ If you want to help out with the project, here are some ideas:
 - [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile)
 - [The Translator](https://github.com/sunilpaulmathew/Translator)
 - [Translate You](https://github.com/you-apps/TranslateYou)
+- [Translator](https://github.com/DavidVentura/firefox-translator)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
