@@ -64,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Tangential](https://github.com/CosmoSailors/Tangential)
 - [Capy Reader](https://github.com/jocmp/capyreader)
 - [Shiori wallpapers](https://github.com/brianali-codes/shiori)
-- [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 
 </details>
 
