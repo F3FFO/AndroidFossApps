@@ -39,6 +39,19 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Right Contacts](https://github.com/Goodwy/Contacts)
+- [Right Dialer](https://github.com/Goodwy/Dialer)
+- [Right Messages](https://github.com/Goodwy/Messages)
+- [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
+- [Right Files](https://github.com/Goodwy/File-Manager)
+- [Unitto](https://github.com/sadellie/unitto)
+- [NumberHub](https://github.com/Myzel394/NumberHub)
+- [Right Gallery](https://github.com/Goodwy/Gallery)
+- [Echo](https://github.com/iad1tya/Echo-Music)
+- [Continuum](https://github.com/cygnusx-1-org/continuum)
+- [Norm](https://github.com/tusharonly/norm)
+- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
+- [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer)
 - [Kori](https://github.com/YangDai2003/Kori)
 - [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Translator](https://github.com/DavidVentura/firefox-translator)
@@ -51,19 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [Athena](https://github.com/Kin69/Athena)
-- [Auto Shine](https://github.com/Valent-in/Auto-Shine)
-- [2048 Open Fun Game](https://github.com/andstatus/game2048)
-- [CoMaps](https://codeberg.org/comaps/comaps)
-- [Breakout 71](https://gitlab.com/lecarore/breakout71)
-- [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
-- [Vanadium](https://github.com/GrapheneOS/Vanadium)
-- [Ultimatum](https://github.com/gonzazoid/Ultimatum)
-- [Tomato](https://github.com/nsh07/Tomato)
-- [AppLock](https://github.com/PranavPurwar/AppLock)
-- [Just Chatting](https://github.com/outadoc/just-chatting)
-- [Tangential](https://github.com/CosmoSailors/Tangential)
-- [Capy Reader](https://github.com/jocmp/capyreader)
-- [Shiori wallpapers](https://github.com/brianali-codes/shiori)
 
 </details>
 
@@ -785,7 +785,7 @@ If you want to help out with the project, here are some ideas:
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Tux Math](https://gitlab.com/Afrikalan/tuxmath-android)
 - [Unitto](https://github.com/sadellie/unitto)
-  - [NumberHub](https://github.com/Myzel394/NumberHub) ** `FORK` **
+  - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 #### Emulators
 
 - [Dolphin](https://github.com/dolphin-emu/dolphin)
@@ -1220,8 +1220,8 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
-- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) ** `DEAD` **
-  - [Kori](https://github.com/YangDai2003/Kori) ** `FORK` **
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) **`DEAD`**
+  - [Kori](https://github.com/YangDai2003/Kori) **`FORK`**
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
@@ -1551,7 +1551,7 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-  - [Continuum](https://github.com/cygnusx-1-org/continuum) ** `FORK` **
+  - [Continuum](https://github.com/cygnusx-1-org/continuum) **`FORK`**
 - [Pineapple](https://github.com/galaxygoldfish/pineapple) **`DEAD`**
 - [RedReader](https://github.com/QuantumBadger/RedReader)
 - [Slide](https://github.com/ccrama/Slide) **`DEAD`**
