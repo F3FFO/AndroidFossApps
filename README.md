@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kori](https://github.com/YangDai2003/Kori)
 - [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Translator](https://github.com/DavidVentura/firefox-translator)
 - [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
@@ -1210,7 +1211,8 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
-- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) ** `DEAD` **
+  - [Kori](https://github.com/YangDai2003/Kori) ** `FORK` **
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
