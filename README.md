@@ -1112,7 +1112,7 @@ If you want to help out with the project, here are some ideas:
 - [RiMusic](https://github.com/fast4x/RiMusic) **`DEAD`**
   - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-  - [Echo](https://github.com/iad1tya/Echo-Music)
+  - [Echo](https://github.com/iad1tya/Echo-Music) **`FORK`**
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
@@ -1220,7 +1220,7 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
-- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) **`DEAD`**
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) ** `DEAD` **
   - [Kori](https://github.com/YangDai2003/Kori) **`FORK`**
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
