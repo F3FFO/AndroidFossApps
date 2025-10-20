@@ -1371,15 +1371,15 @@ If you want to help out with the project, here are some ideas:
   - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
 - [DailyAL](https://github.com/JICA98/DailyAL)
-- [Dantotsu](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://github.com/rebelonion/Dantotsu) **`DEAD`**
   - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Hentoid](https://github.com/avluis/Hentoid)
-  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
+  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`** **`DEAD`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 - [LNReader](https://github.com/LNReader/lnreader)
-- [Mangafeed](https://github.com/starfish23/mangafeed)
+- [Mangafeed](https://github.com/starfish23/mangafeed) **`DEAD`**
 - [Mihon](https://github.com/mihonapp/mihon)
 - [Neko](https://github.com/CarlosEsco/Neko)
 - [Nekome](https://github.com/Chesire/Nekome)
@@ -1398,7 +1398,7 @@ If you want to help out with the project, here are some ideas:
 - [Aggregator](https://github.com/tughi/aggregator-android)
 - [Capy Reader](https://github.com/jocmp/capyreader)
 - [Dirol Reader](https://github.com/therxmv/Dirol-Reader/)
-- [Feeder](https://gitlab.com/spacecowboy/Feeder)
+- [Feeder](https://github.com/spacecowboy/Feeder)
 - [FeedFlow](https://github.com/prof18/feed-flow)
 - [HandyNewsReader](https://github.com/yanus171/Handy-News-Reader)
 - [NewsBlur](https://github.com/samuelclay/NewsBlur)
