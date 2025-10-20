@@ -1359,8 +1359,8 @@ If you want to help out with the project, here are some ideas:
 #### PDF
 
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
-- [MuPDF](http://mupdf.com/)
-- [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+- [MuPDF](https://github.com/ArtifexSoftware/mupdf-android-viewer)
+- [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer) **`DEAD`**
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
 #### Manga & Anime
