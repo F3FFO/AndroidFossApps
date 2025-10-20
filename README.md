@@ -39,6 +39,20 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Right Contacts](https://github.com/Goodwy/Contacts)
+- [Right Dialer](https://github.com/Goodwy/Dialer)
+- [Right Messages](https://github.com/Goodwy/Messages)
+- [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
+- [Right Files](https://github.com/Goodwy/File-Manager)
+- [Unitto](https://github.com/sadellie/unitto)
+- [NumberHub](https://github.com/Myzel394/NumberHub)
+- [Right Gallery](https://github.com/Goodwy/Gallery)
+- [Echo](https://github.com/iad1tya/Echo-Music)
+- [Continuum](https://github.com/cygnusx-1-org/continuum)
+- [Norm](https://github.com/tusharonly/norm)
+- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
+- [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer)
+- [Kori](https://github.com/YangDai2003/Kori)
 - [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Translator](https://github.com/DavidVentura/firefox-translator)
 - [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
@@ -50,20 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 - [Athena](https://github.com/Kin69/Athena)
-- [Auto Shine](https://github.com/Valent-in/Auto-Shine)
-- [2048 Open Fun Game](https://github.com/andstatus/game2048)
-- [CoMaps](https://codeberg.org/comaps/comaps)
-- [Breakout 71](https://gitlab.com/lecarore/breakout71)
-- [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
-- [Vanadium](https://github.com/GrapheneOS/Vanadium)
-- [Ultimatum](https://github.com/gonzazoid/Ultimatum)
-- [Tomato](https://github.com/nsh07/Tomato)
-- [AppLock](https://github.com/PranavPurwar/AppLock)
-- [Just Chatting](https://github.com/outadoc/just-chatting)
-- [Tangential](https://github.com/CosmoSailors/Tangential)
-- [Capy Reader](https://github.com/jocmp/capyreader)
-- [Shiori wallpapers](https://github.com/brianali-codes/shiori)
-- [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 
 </details>
 
@@ -512,6 +512,7 @@ If you want to help out with the project, here are some ideas:
 - [Connect You](https://github.com/you-apps/ConnectYou)
 - [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts)
+- [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Simple Contacts Pro SE](https://github.com/stephanritscher/Simple-Contacts)
 
 #### Call Blocker/Spam Filter
@@ -526,6 +527,7 @@ If you want to help out with the project, here are some ideas:
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 - [Koler](https://github.com/Chooloo/koler)
+- [Right Dialer](https://github.com/Goodwy/Dialer)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 
 #### SMS
@@ -534,6 +536,7 @@ If you want to help out with the project, here are some ideas:
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [QKSMS](https://github.com/moezbhatti/qksms)
   - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
+- [Right Messages](https://github.com/Goodwy/Messages)
 - [Silence](https://github.com/SilenceIM/Silence) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -614,6 +617,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :paintbrush: Drawing
 
+- [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
 - [Drawpile](https://github.com/drawpile/Drawpile)
 - [Fossify Paint](https://github.com/FossifyOrg/Paint)
 - [FreePaint](https://github.com/pastthepixels/FreePaint)
@@ -665,6 +669,8 @@ If you want to help out with the project, here are some ideas:
 - [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree)
 - [Little File Explorer](https://github.com/martinmimigames/little-file-explorer)
 - [Material Files](https://github.com/zhanghai/MaterialFiles)
+- [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer)
+- [Right Files](https://github.com/Goodwy/File-Manager)
 
 #### File Sharing
 
@@ -697,6 +703,7 @@ If you want to help out with the project, here are some ideas:
 
 - [Arru](https://github.com/KSSidll/Arru)
 - [Fixed Deposit Tracker](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker)
+- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
 - [Monekin](https://github.com/enrique-lozano/Monekin)
 - [MoneyWallet](https://github.com/AndreAle94/moneywallet) **`DEAD`**
 - [My Expenses](https://github.com/mtotschnig/MyExpenses)
@@ -777,7 +784,8 @@ If you want to help out with the project, here are some ideas:
 - [RUTMath](https://github.com/przemarbor/RUTMath)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Tux Math](https://gitlab.com/Afrikalan/tuxmath-android)
-
+- [Unitto](https://github.com/sadellie/unitto)
+  - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 #### Emulators
 
 - [Dolphin](https://github.com/dolphin-emu/dolphin)
@@ -865,6 +873,7 @@ If you want to help out with the project, here are some ideas:
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
 - [miniGallery](https://github.com/kabirnayeem99/miniGallery)
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
+- [Right Gallery](https://github.com/Goodwy/Gallery)
 - [Stingle Photos](https://github.com/stingle/stingle-photos-android)
 - [Valv](https://github.com/Arctosoft/Valv-Android)
 
@@ -1103,6 +1112,7 @@ If you want to help out with the project, here are some ideas:
 - [RiMusic](https://github.com/fast4x/RiMusic) **`DEAD`**
   - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+  - [Echo](https://github.com/iad1tya/Echo-Music) **`FORK`**
 - [SpMp](https://github.com/toasterofbread/spmp)
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
@@ -1210,7 +1220,8 @@ If you want to help out with the project, here are some ideas:
 - [Notification Notes](https://github.com/khuttun/NotificationNotes) **`DEAD`**
 - [Noto](https://github.com/alialbaali/Noto)
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
-- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose)
+- [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) ** `DEAD` **
+  - [Kori](https://github.com/YangDai2003/Kori) **`FORK`**
 - [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
@@ -1540,6 +1551,7 @@ If you want to help out with the project, here are some ideas:
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+  - [Continuum](https://github.com/cygnusx-1-org/continuum) **`FORK`**
 - [Pineapple](https://github.com/galaxygoldfish/pineapple) **`DEAD`**
 - [RedReader](https://github.com/QuantumBadger/RedReader)
 - [Slide](https://github.com/ccrama/Slide) **`DEAD`**
@@ -1613,6 +1625,7 @@ If you want to help out with the project, here are some ideas:
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+- [Norm](https://github.com/tusharonly/norm)
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
 - [Sobriety](https://github.com/KiARC/Sobriety)
