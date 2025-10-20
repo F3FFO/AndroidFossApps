@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Right Dialer](https://github.com/Goodwy/Dialer)
 - [Right Messages](https://github.com/Goodwy/Messages)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
-- [Athena](https://github.com/Kin69/Athena)
 
 </details>
 
@@ -989,6 +989,7 @@ If you want to help out with the project, here are some ideas:
 - [Noten Learner](https://github.com/MelvilQ/noten-lernen)
 - [Practice Suite](https://codeberg.org/Berker/practice_suite)
 - [Repertoir](https://github.com/Adithya-Jayan/MyRepertoirApp)
+- [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Rush](https://github.com/shub39/Rush)
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
