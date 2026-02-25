@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Updatium](https://github.com/omeritzics/Updatium)
 - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 - [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
 - [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
@@ -64,8 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
-- [AAAAXY](https://github.com/divVerent/aaaaxy)
-- [Col
 
 </details>
 
@@ -267,6 +266,7 @@ If you want to help out with the project, here are some ideas:
 - [GlassDown](https://github.com/RomanK2311/glassdown)
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
+  - [Updatium](https://github.com/omeritzics/Updatium) **`FORK`**
 - [Orion Store](https://github.com/RookieEnough/Orion-Store)
 - [Sky Droid](https://github.com/redsolver/skydroid)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
