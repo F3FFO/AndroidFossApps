@@ -279,7 +279,7 @@ If you want to help out with the project, here are some ideas:
 
 ### :robot: Artificial Intelligence
 
-- [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
+- [AI Hub](https://github.com/SilentCoderHere/aihub)
 - [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
 - [Colors AI](https://github.com/tsinis/colors_ai)
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android) **`DEAD`**
