@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Android FOSS Apps</title>
+  <meta name="description" content="A curated list of Free and Open Source Software (FOSS) apps for Android. Search, filter and discover alternatives.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/topbar.css">
+  <link rel="stylesheet" href="css/filters.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <link rel="stylesheet" href="css/layout.css">
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <header class="top-bar">
+    <div class="top-bar-inner">
+      <a href="./" class="logo">
+        <span class="material-symbols-outlined logo-icon">android</span>
+        <span class="logo-text">Android FOSS Apps</span>
+      </a>
+
+      <div class="search-area">
+        <div class="search-box">
+          <span class="material-symbols-outlined search-icon">search</span>
+          <input type="text" id="searchInput" placeholder="Search apps... ( / )" autocomplete="off">
+          <button id="clearSearch" class="clear-btn" title="Clear search" aria-label="Clear search">
+            <span class="material-symbols-outlined">close</span>
+          </button>
+        </div>
+
+        <div class="filter-dropdown-wrapper">
+          <button id="filterToggle" class="icon-btn filter-toggle" title="Toggle filters" aria-label="Toggle filters">
+            <span class="material-symbols-outlined">tune</span>
+            <span class="filter-badge" id="filterBadge" hidden>0</span>
+          </button>
+
+          <div id="filterPanel" class="filter-dropdown" hidden>
+            <div class="filter-header">
+              <h3><span class="material-symbols-outlined">filter_list</span> Filters</h3>
+              <button id="clearFilters" class="text-btn">Clear all</button>
+            </div>
+
+            <div class="filter-section">
+              <h4><span class="material-symbols-outlined">info</span> Status</h4>
+              <div class="filter-status-toggles">
+                <label class="toggle-chip">
+                  <input type="checkbox" id="hideDead">
+                  <span class="material-symbols-outlined chip-icon">delete_forever</span>
+                  <span>Hide discontinued</span>
+                </label>
+                <label class="toggle-chip">
+                  <input type="checkbox" id="hideForks">
+                  <span class="material-symbols-outlined chip-icon">fork_right</span>
+                  <span>Hide forks</span>
+                </label>
+                <label class="toggle-chip">
+                  <input type="checkbox" id="showNewOnly">
+                  <span class="material-symbols-outlined chip-icon">new_releases</span>
+                  <span>Recently added</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="filter-section">
+              <h4><span class="material-symbols-outlined">category</span> Categories</h4>
+              <div class="filter-search-box">
+                <span class="material-symbols-outlined filter-search-icon">search</span>
+                <input type="text" id="tagSearch" placeholder="Filter tags...">
+              </div>
+              <div id="tagContainer" class="tag-container"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button id="themeToggle" class="icon-btn theme-toggle" title="Toggle theme" aria-label="Toggle theme">
+        <span class="material-symbols-outlined icon-sun">light_mode</span>
+        <span class="material-symbols-outlined icon-moon">dark_mode</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <div class="results-bar">
+      <span id="resultsCount">Loading...</span>
+    </div>
+    <div id="appGrid" class="app-grid"></div>
+    <div id="noResults" class="no-results" hidden>
+      <span class="material-symbols-outlined no-results-icon">search_off</span>
+      <p>No apps found matching your criteria.</p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Data sourced from <a href="https://github.com/F3FFO/AndroidFossApps" target="_blank" rel="noopener noreferrer">AndroidFossApps</a> · Licensed under GPL-3.0</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
