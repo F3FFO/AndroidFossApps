@@ -1,28 +1,132 @@
 [
-  { "applicationName": "Updatium", "url": "https://github.com/omeritzics/Updatium" },
-  { "applicationName": "Seal Plus", "url": "https://github.com/MaheshTechnicals/Sealplus" },
-  { "applicationName": "Vector Pinball", "url": "https://github.com/dozingcat/Vector-Pinball" },
-  { "applicationName": "Flappy Bird", "url": "https://github.com/FlappyRecreator/FlappyB64bitAndroid" },
-  { "applicationName": "Ricochlime", "url": "https://github.com/adil192/ricochlime" },
-  { "applicationName": "Orion Store", "url": "https://github.com/RookieEnough/Orion-Store" },
-  { "applicationName": "Kumo", "url": "https://github.com/nubesurrealista/Kumo" },
-  { "applicationName": "Taison", "url": "https://github.com/Gent8/Taison" },
-  { "applicationName": "TachiyomiAT", "url": "https://github.com/mannu691/TachiyomiAT" },
-  { "applicationName": "Kahon", "url": "https://github.com/AmanoTeam/Kahon" },
-  { "applicationName": "Futon", "url": "https://github.com/AppFuton/Futon" },
-  { "applicationName": "tmtLauncher", "url": "https://github.com/tinnamchoi/tmtLauncher" },
-  { "applicationName": "Escape Launcher", "url": "https://github.com/GeorgeClensy/Escape-Launcher" },
-  { "applicationName": "Mako", "url": "https://github.com/jmiguelrivas/mako" },
-  { "applicationName": "Dragon Launcher", "url": "https://github.com/Elnix90/Dragon-Launcher" },
-  { "applicationName": "EinsteinLauncher", "url": "https://github.com/JackEblan/EinsteinLauncher" },
-  { "applicationName": "WebLibre", "url": "https://github.com/FaFre/WebLibre" },
-  { "applicationName": "searxist", "url": "https://codeberg.org/Linerly/searxist" },
-  { "applicationName": "mpvEx", "url": "https://github.com/marlboro-advance/mpvEx" },
-  { "applicationName": "Keyguard", "url": "https://github.com/AChep/keyguard-app" },
-  { "applicationName": "gitnote", "url": "https://github.com/wiiznokes/gitnote" },
-  { "applicationName": "SpotiFLAC-Mobile", "url": "https://github.com/zarzet/SpotiFLAC-Mobile" },
-  { "applicationName": "PAIOS", "url": "https://github.com/Puzzaks/PAIOS" },
-  { "applicationName": "Audion", "url": "https://github.com/dupitydumb/Audion" },
-  { "applicationName": "star", "url": "https://github.com/jacojayy/star" },
-  { "applicationName": "Messages", "url": "https://github.com/PVOT-OSS/Messages" }
+  {
+    "applicationName": "Updatium",
+    "url": "https://github.com/omeritzics/Updatium",
+    "description": ""
+  },
+  {
+    "applicationName": "Seal Plus",
+    "url": "https://github.com/MaheshTechnicals/Sealplus",
+    "description": ""
+  },
+  {
+    "applicationName": "Vector Pinball",
+    "url": "https://github.com/dozingcat/Vector-Pinball",
+    "description": ""
+  },
+  {
+    "applicationName": "Flappy Bird",
+    "url": "https://github.com/FlappyRecreator/FlappyB64bitAndroid",
+    "description": ""
+  },
+  {
+    "applicationName": "Ricochlime",
+    "url": "https://github.com/adil192/ricochlime",
+    "description": ""
+  },
+  {
+    "applicationName": "Orion Store",
+    "url": "https://github.com/RookieEnough/Orion-Store",
+    "description": ""
+  },
+  {
+    "applicationName": "Kumo",
+    "url": "https://github.com/nubesurrealista/Kumo",
+    "description": ""
+  },
+  {
+    "applicationName": "Taison",
+    "url": "https://github.com/Gent8/Taison",
+    "description": ""
+  },
+  {
+    "applicationName": "TachiyomiAT",
+    "url": "https://github.com/mannu691/TachiyomiAT",
+    "description": ""
+  },
+  {
+    "applicationName": "Kahon",
+    "url": "https://github.com/AmanoTeam/Kahon",
+    "description": ""
+  },
+  {
+    "applicationName": "Futon",
+    "url": "https://github.com/AppFuton/Futon",
+    "description": ""
+  },
+  {
+    "applicationName": "tmtLauncher",
+    "url": "https://github.com/tinnamchoi/tmtLauncher",
+    "description": ""
+  },
+  {
+    "applicationName": "Escape Launcher",
+    "url": "https://github.com/GeorgeClensy/Escape-Launcher",
+    "description": ""
+  },
+  {
+    "applicationName": "Mako",
+    "url": "https://github.com/jmiguelrivas/mako",
+    "description": ""
+  },
+  {
+    "applicationName": "Dragon Launcher",
+    "url": "https://github.com/Elnix90/Dragon-Launcher",
+    "description": ""
+  },
+  {
+    "applicationName": "EinsteinLauncher",
+    "url": "https://github.com/JackEblan/EinsteinLauncher",
+    "description": ""
+  },
+  {
+    "applicationName": "WebLibre",
+    "url": "https://github.com/FaFre/WebLibre",
+    "description": ""
+  },
+  {
+    "applicationName": "searxist",
+    "url": "https://codeberg.org/Linerly/searxist",
+    "description": ""
+  },
+  {
+    "applicationName": "mpvEx",
+    "url": "https://github.com/marlboro-advance/mpvEx",
+    "description": ""
+  },
+  {
+    "applicationName": "Keyguard",
+    "url": "https://github.com/AChep/keyguard-app",
+    "description": ""
+  },
+  {
+    "applicationName": "gitnote",
+    "url": "https://github.com/wiiznokes/gitnote",
+    "description": ""
+  },
+  {
+    "applicationName": "SpotiFLAC-Mobile",
+    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
+    "description": ""
+  },
+  {
+    "applicationName": "PAIOS",
+    "url": "https://github.com/Puzzaks/PAIOS",
+    "description": ""
+  },
+  {
+    "applicationName": "Audion",
+    "url": "https://github.com/dupitydumb/Audion",
+    "description": ""
+  },
+  {
+    "applicationName": "star",
+    "url": "https://github.com/jacojayy/star",
+    "description": ""
+  },
+  {
+    "applicationName": "Messages",
+    "url": "https://github.com/PVOT-OSS/Messages",
+    "description": ""
+  }
 ]
