@@ -114,12 +114,31 @@ a.badge-fork:hover {
   color: var(--md-primary);
 }
 
+/* Description (truncated) */
+.app-desc {
+  font-size: 0.8rem;
+  color: var(--md-on-surface-variant);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+}
+
+/* Card footer: tags + expand button */
+.app-card-footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: auto;
+}
+
 /* Tags */
 .app-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
-  margin-top: auto;
+  flex: 1;
 }
 
 .app-tag {
@@ -138,9 +157,132 @@ a.badge-fork:hover {
   font-size: 13px !important;
 }
 
+/* Expand button */
+.app-expand-btn {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: var(--md-radius-sm);
+  background: transparent;
+  color: var(--md-on-surface-variant);
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.15s, background 0.15s;
+}
+
+.app-expand-btn:hover,
+.app-expand-btn:focus-visible {
+  opacity: 1;
+  background: var(--md-surface-container-high);
+  outline: none;
+}
+
+.app-expand-btn .material-symbols-outlined {
+  font-size: 16px !important;
+}
+
+/* ── Modal Overlay ─────────────────────────────────────────────────────── */
+.app-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.app-modal-overlay.is-open {
+  opacity: 1;
+  pointer-events: all;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+.app-modal-card {
+  position: relative;
+  background: var(--md-surface-container-low);
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--md-radius-lg);
+  padding: 24px;
+  width: min(480px, 100%);
+  max-height: 80vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: var(--md-shadow-lg);
+  transform: scale(0.95);
+  transition: transform 0.2s;
+}
+
+.app-modal-overlay.is-open .app-modal-card {
+  transform: scale(1);
+}
+
+/* Close button */
+.app-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--md-on-surface-variant);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.app-modal-close:hover,
+.app-modal-close:focus-visible {
+  background: var(--md-surface-container-high);
+  outline: none;
+}
+
+.app-modal-close .material-symbols-outlined {
+  font-size: 18px !important;
+}
+
+/* Full description inside modal */
+.app-modal-desc {
+  font-size: 0.875rem;
+  color: var(--md-on-surface-variant);
+  line-height: 1.55;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
 /* Responsive */
 @media (max-width: 480px) {
   .app-card {
     padding: 12px;
+  }
+
+  .app-modal-overlay {
+    padding: 16px;
+    align-items: flex-end;
+  }
+
+  .app-modal-card {
+    width: 100%;
+    max-height: 70vh;
+    border-radius: var(--md-radius-lg) var(--md-radius-lg) 0 0;
   }
 }
