@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Pear Pass](https://github.com/tetherto/pearpass-app-mobile)
 - [Updatium](https://github.com/omeritzics/Updatium)
 - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 - [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [PAIOS](https://github.com/Puzzaks/PAIOS)
 - [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
-- [Messages](https://github.com/PVOT-OSS/Messages)
 
 </details>
 
@@ -1324,6 +1324,7 @@ If you want to help out with the project, here are some ideas:
 - [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords)
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
 - [Pazzword](https://github.com/cyb3rko/pazzword)
+- [Pear Pass](https://github.com/tetherto/pearpass-app-mobile)
 - [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass)
 - [Vault](https://github.com/arsvechkarev/Vault)
 - [Wassword](https://github.com/polilluminato/wassword-flutter)
