@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 - [Updatium](https://github.com/omeritzics/Updatium)
 - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 - [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
