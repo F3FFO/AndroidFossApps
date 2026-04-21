@@ -306,12 +306,13 @@ If you want to help out with the project, here are some ideas:
 ### :battery: Battery
 
 - [ACCA](https://github.com/MatteCarra/AccA) **`DEAD`**
-- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
-- [Battery Tool](https://github.com/Domi04151309/BatteryTool)
-- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
+- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro) **`DEAD`**
+- [Battery Tool](https://github.com/Domi04151309/BatteryTool) **`DEAD`**
+- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`DEAD`**
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Wattz](https://github.com/dubrowgn/wattz)
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1519,8 +1520,8 @@ If you want to help out with the project, here are some ideas:
 ### :shopping_cart: Shopping
 
 - [Grocy](https://github.com/patzly/grocy-android)
-- [Shopin](https://github.com/erdemklync/Shopin)
-- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
+- [Shopin](https://github.com/erdemklync/Shopin) **`DEAD`**
+- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
