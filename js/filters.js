@@ -1,9 +1,5 @@
 import { iconFor } from './icons.js';
 
-/**
- * Builds the tag filter chips inside the given container.
- * Calls onChange(tag, checked) whenever a chip is toggled.
- */
 export function buildTagChips(apps, container, onChange) {
   const counts = {};
   for (const app of apps) {
@@ -44,7 +40,6 @@ export function buildTagChips(apps, container, onChange) {
   }
 }
 
-/** Show/hide tag chips that match a search query */
 export function filterChips(container, query) {
   const q = query.toLowerCase();
   for (const chip of container.querySelectorAll('.tag-chip')) {
@@ -52,16 +47,11 @@ export function filterChips(container, query) {
   }
 }
 
-/** Update the filter badge number (hides when count is 0) */
 export function updateBadge(el, count) {
   el.textContent = count;
   el.hidden = count === 0;
 }
 
-/**
- * Wire up the filter dropdown open/close.
- * Closes on outside click or Escape.
- */
 export function setupDropdown(toggleBtn, panel) {
   let open = false;
 
@@ -96,7 +86,6 @@ export function setupDropdown(toggleBtn, panel) {
   return { show, hide };
 }
 
-/** Uncheck every tag chip in the container */
 export function clearTagSelection(container) {
   for (const cb of container.querySelectorAll('input[type="checkbox"]')) {
     cb.checked = false;

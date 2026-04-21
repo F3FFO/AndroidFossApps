@@ -1,8 +1,4 @@
-/*
- * Tag → Material Symbols icon mapping.
- * Falls back to 'label' for anything not listed here.
- */
-
+// tag → Material Symbols icon, falls back to 'label'
 export const TAG_ICONS = {
   '2FA': 'passkey',
   'Ad Blocker': 'block',

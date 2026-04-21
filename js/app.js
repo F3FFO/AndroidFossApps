@@ -5,7 +5,6 @@ import {
   setupDropdown, clearTagSelection
 } from './filters.js';
 
-// --- DOM refs ---
 const el = id => document.getElementById(id);
 
 const searchInput     = el('searchInput');
@@ -24,7 +23,6 @@ const showNewCb       = el('showNewOnly');
 const clearFiltersBtn = el('clearFilters');
 const themeToggle     = el('themeToggle');
 
-// --- state ---
 let apps = [];
 let recentUrls = new Set();
 let activeTags = new Set();
@@ -32,8 +30,6 @@ let search = '';
 let hideDead = false;
 let hideForks = false;
 let newOnly = false;
-
-// --- helpers ---
 
 function isNew(app) {
   return recentUrls.has(app.url);
@@ -103,8 +99,6 @@ function resetAll() {
   render();
 }
 
-// --- data loading ---
-
 async function load() {
   try {
     const [appsRes, recentRes] = await Promise.all([
@@ -132,8 +126,6 @@ async function load() {
     console.error(err);
   }
 }
-
-// --- events ---
 
 theme.init();
 themeToggle.addEventListener('click', theme.toggle);

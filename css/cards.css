@@ -43,7 +43,7 @@
   text-decoration: underline;
 }
 
-/* Badges */
+/* badges */
 .app-badges {
   display: flex;
   gap: 4px;
@@ -89,7 +89,7 @@ a.badge-fork:hover {
   color: var(--md-primary);
 }
 
-/* Source URL row */
+/* source url */
 .app-url {
   font-size: 0.78rem;
   color: var(--md-on-surface-variant);
@@ -114,7 +114,6 @@ a.badge-fork:hover {
   color: var(--md-primary);
 }
 
-/* Description (truncated) */
 .app-desc {
   font-size: 0.8rem;
   color: var(--md-on-surface-variant);
@@ -124,7 +123,7 @@ a.badge-fork:hover {
   margin: 0;
 }
 
-/* Card footer: tags + expand button */
+/* card footer: tags + expand */
 .app-card-footer {
   display: flex;
   align-items: flex-end;
@@ -133,7 +132,7 @@ a.badge-fork:hover {
   margin-top: auto;
 }
 
-/* Tags */
+/* tags */
 .app-tags {
   display: flex;
   flex-wrap: wrap;
@@ -157,7 +156,7 @@ a.badge-fork:hover {
   font-size: 13px !important;
 }
 
-/* Expand button */
+/* expand button */
 .app-expand-btn {
   flex-shrink: 0;
   display: inline-flex;
@@ -185,7 +184,7 @@ a.badge-fork:hover {
   font-size: 16px !important;
 }
 
-/* ── Modal Overlay ─────────────────────────────────────────────────────── */
+/* modal */
 .app-modal-overlay {
   position: fixed;
   inset: 0;
@@ -232,7 +231,6 @@ body.modal-open {
   transform: scale(1);
 }
 
-/* Close button */
 .app-modal-close {
   position: absolute;
   top: 12px;
@@ -260,7 +258,6 @@ body.modal-open {
   font-size: 18px !important;
 }
 
-/* Full description inside modal */
 .app-modal-desc {
   font-size: 0.875rem;
   color: var(--md-on-surface-variant);
