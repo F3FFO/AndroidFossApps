@@ -350,7 +350,7 @@
     "applicationName": "AndroidIDE",
     "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Text Editor & Code Editor/IDE"
@@ -414,7 +414,7 @@
     "applicationName": "Anki Image Occlusion",
     "url": "https://github.com/infinyte7/Anki-Occlusion",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Flashcard"
@@ -438,7 +438,7 @@
     "applicationName": "AnkiEditor",
     "url": "https://github.com/jkennethcarino/AnkiEditor",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Flashcard"
@@ -538,7 +538,7 @@
     "applicationName": "APKGrabber",
     "url": "https://github.com/hemker/apkgrabber",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "App Store"
@@ -574,7 +574,7 @@
     "applicationName": "Applist Detector",
     "url": "https://github.com/Dr-TSNG/ApplistDetector",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "App Manager"
@@ -610,7 +610,7 @@
     "applicationName": "Ara Note",
     "url": "https://github.com/hashemi-hossein/ara-note",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -998,7 +998,7 @@
     "applicationName": "Battery Tool",
     "url": "https://github.com/Domi04151309/BatteryTool",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Battery"
@@ -1010,7 +1010,7 @@
     "applicationName": "BatteryBot Pro",
     "url": "https://github.com/darshan-/Battery-Indicator-Pro",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Battery"
@@ -1022,7 +1022,7 @@
     "applicationName": "BCL",
     "url": "https://github.com/MuntashirAkon/BatteryChargeLimiter",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Battery"
@@ -1108,7 +1108,7 @@
     "applicationName": "Bitwarden",
     "url": "https://github.com/bitwarden/mobile",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -1256,7 +1256,7 @@
     "applicationName": "BotForge",
     "url": "https://github.com/L4TTiCe/BotForge",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Artificial Intelligence"
@@ -1418,7 +1418,7 @@
     "applicationName": "Calculator-inator",
     "url": "https://github.com/prathameshmm02/Calculator-inator",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Calculator"
@@ -1678,7 +1678,7 @@
     "applicationName": "Clima",
     "url": "https://github.com/Lacerte/clima",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Weather"
@@ -1702,7 +1702,7 @@
     "applicationName": "Clipious",
     "url": "https://github.com/lamarios/clipious",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -1790,7 +1790,7 @@
     "applicationName": "Collins Dictionary",
     "url": "https://github.com/Konyaco/CollinsDictionary",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Dictionary"
@@ -1814,7 +1814,7 @@
     "applicationName": "Colors AI",
     "url": "https://github.com/tsinis/colors_ai",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Artificial Intelligence"
@@ -1850,7 +1850,7 @@
     "applicationName": "Confidant",
     "url": "https://github.com/YangDai-Github/Encryptor-Android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Privacy",
@@ -2115,7 +2115,7 @@
     "applicationName": "DarQ",
     "url": "https://github.com/KieronQuinn/DarQ",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "System",
@@ -2165,7 +2165,7 @@
     "applicationName": "DecSync CC",
     "url": "https://github.com/39aldo39/DecSyncCC",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Synchronisation"
@@ -2227,7 +2227,7 @@
     "applicationName": "DGicons Monet",
     "url": "https://github.com/WaifuPX-DG/DGicons",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Icon Pack"
@@ -2288,7 +2288,7 @@
     "applicationName": "Did I Take My Meds?",
     "url": "https://github.com/CorruptedArk/did-i-take-my-meds",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Sport & Health",
@@ -2391,7 +2391,7 @@
     "applicationName": "DNS66",
     "url": "https://github.com/julian-klode/dns66",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Ad Blocker",
@@ -2629,7 +2629,7 @@
     "applicationName": "dvd",
     "url": "https://github.com/yausername/dvd",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Downloader & Manager",
@@ -2953,7 +2953,7 @@
     "applicationName": "exteraGram",
     "url": "https://github.com/exteraSquad/exteraGram",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -3308,7 +3308,7 @@
     "applicationName": "Firenote",
     "url": "https://github.com/T8RIN/Firenote",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -3396,7 +3396,7 @@
     "applicationName": "Flashlight Tiramisu",
     "url": "https://github.com/polodarb/Flashlight-Tiramisu",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Flashlight"
@@ -4042,7 +4042,7 @@
     "applicationName": "Geoperion",
     "url": "https://github.com/vulnerabbity/Geoperion",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -4253,7 +4253,7 @@
     "applicationName": "GuitarFretboardTrainer",
     "url": "https://gitlab.com/pandagoespoop/guitarfretboardtrainer",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -4266,7 +4266,7 @@
     "applicationName": "Guitarist",
     "url": "https://github.com/Colorata/Guitarist",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Media (Audio/Video)",
@@ -4394,7 +4394,7 @@
     "applicationName": "Harpy",
     "url": "https://github.com/robertodoering/harpy",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -4407,7 +4407,7 @@
     "applicationName": "HeartBeat",
     "url": "https://github.com/berdosi/HeartBeat",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Sport & Health"
@@ -4469,7 +4469,7 @@
     "applicationName": "Hentoid MaterialYou",
     "url": "https://github.com/h6rd/Hentoid-Material-You",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Reader & Viewer",
@@ -4835,7 +4835,7 @@
     "applicationName": "Jetispot",
     "url": "https://github.com/BobbyESP/Jetispot",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Media (Audio/Video)",
@@ -4934,7 +4934,7 @@
     "applicationName": "JustNotes",
     "url": "https://github.com/jjewuz/JustNotes",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -5033,7 +5033,7 @@
     "applicationName": "Kenko",
     "url": "https://github.com/Iamlooker/Kenko",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Sport & Health",
@@ -5046,7 +5046,7 @@
     "applicationName": "KeyManager",
     "url": "https://github.com/Yash-Garg/KeyManager",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -5094,7 +5094,7 @@
     "applicationName": "KeySpace",
     "url": "https://github.com/Keyspace-cloud/android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -5169,7 +5169,7 @@
     "applicationName": "Kontalk",
     "url": "https://github.com/kontalk/androidclient",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Chat & Messaging"
@@ -5231,7 +5231,7 @@
     "applicationName": "KouChat",
     "url": "https://github.com/blurpy/kouchat-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Chat & Messaging"
@@ -5389,7 +5389,7 @@
     "applicationName": "Learning Memory",
     "url": "https://github.com/niccokunzmann/app.memory.quelltext.eu",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -5514,7 +5514,7 @@
     "applicationName": "LibrePass",
     "url": "https://github.com/LibrePass/LibrePass-Android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -5576,7 +5576,7 @@
     "applicationName": "Lichess",
     "url": "https://github.com/lichess-org/lichobile",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -5770,7 +5770,7 @@
     "applicationName": "little music player",
     "url": "https://github.com/martinmimigames/little-music-player",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -6072,7 +6072,7 @@
     "applicationName": "MathCalculator",
     "url": "https://github.com/v1tzor/MathCalculator",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Calculator"
@@ -6132,7 +6132,7 @@
     "applicationName": "Megalodon for Mastodon",
     "url": "https://github.com/sk22/megalodon",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Social Network",
@@ -6333,7 +6333,7 @@
     "applicationName": "miniGallery",
     "url": "https://github.com/kabirnayeem99/miniGallery",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Image",
@@ -6346,7 +6346,7 @@
     "applicationName": "Mint Calculator",
     "url": "https://github.com/boredcodebyk/mintcalc",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Calculator"
@@ -6358,7 +6358,7 @@
     "applicationName": "Mint Task",
     "url": "https://github.com/boredcodebyk/minttask",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "ToDo List"
@@ -6498,7 +6498,7 @@
     "applicationName": "monocles social",
     "url": "https://codeberg.org/Arne/monocles_social",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -6561,7 +6561,7 @@
     "applicationName": "mpvKt",
     "url": "https://github.com/abdallahmehiz/mpvKt",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Media (Audio/Video)",
@@ -6587,7 +6587,7 @@
     "applicationName": "mucke",
     "url": "https://github.com/moritz-weber/mucke",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -6600,7 +6600,7 @@
     "applicationName": "Mull",
     "url": "https://gitlab.com/divested-mobile/mull-fenix",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Browser",
@@ -6882,7 +6882,7 @@
     "applicationName": "Nekogram X",
     "url": "https://github.com/NekoX-Dev/NekoX",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -7069,7 +7069,7 @@
     "applicationName": "Noad Player",
     "url": "https://github.com/gauravjot/android-noad-music-player",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -7418,7 +7418,7 @@
     "applicationName": "OctoDroid MD",
     "url": "https://github.com/Sohil876/Octodroid_md",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Social Network",
@@ -7444,7 +7444,7 @@
     "applicationName": "Odeon",
     "url": "https://github.com/thibseisel/android-odeon",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -7507,7 +7507,7 @@
     "applicationName": "Olauncher CF",
     "url": "https://github.com/OlauncherCF/OlauncherCF",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Launcher"
@@ -7581,7 +7581,7 @@
     "applicationName": "OONI Probe",
     "url": "https://github.com/ooni/probe-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Network"
@@ -7618,7 +7618,7 @@
     "applicationName": "Open Golf",
     "url": "https://github.com/mgerdes/Open-Golf",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator"
@@ -7816,7 +7816,7 @@
     "applicationName": "OpenTracks",
     "url": "https://github.com/OpenTracksApp/OpenTracks",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Sport & Health",
@@ -7878,7 +7878,7 @@
     "applicationName": "Orgzly",
     "url": "https://github.com/orgzly/orgzly-android",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Note"
@@ -7977,7 +7977,7 @@
     "applicationName": "Overload",
     "url": "https://github.com/pablo03v/Overload",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Clock & Time"
@@ -8088,7 +8088,7 @@
     "applicationName": "Pazzword",
     "url": "https://github.com/cyb3rko/pazzword",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -8190,7 +8190,7 @@
     "applicationName": "Phonograph Plus",
     "url": "https://github.com/chr56/Phonograph_Plus",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -8227,7 +8227,7 @@
     "applicationName": "Pineapple",
     "url": "https://github.com/galaxygoldfish/pineapple",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -8354,7 +8354,7 @@
     "applicationName": "Pocket Broomball",
     "url": "https://github.com/dulvui/pocket-broomball",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator"
@@ -8519,7 +8519,7 @@
     "applicationName": "Privacy Indicator",
     "url": "https://github.com/NitishGadangi/Privacy-Indicator-App",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Privacy"
@@ -8544,7 +8544,7 @@
     "applicationName": "Private Location",
     "url": "https://github.com/wesaphzt/privatelocation",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Maps & Navigation"
@@ -8556,7 +8556,7 @@
     "applicationName": "Proton Mail",
     "url": "https://github.com/ProtonMail/proton-mail-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Email",
@@ -8630,7 +8630,7 @@
     "applicationName": "QKSMS",
     "url": "https://github.com/moezbhatti/qksms",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Communication",
@@ -8643,7 +8643,7 @@
     "applicationName": "QR & Barcode Scanner",
     "url": "https://github.com/wewewe718/QrAndBarcodeScanner",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Scanner",
@@ -8757,7 +8757,7 @@
     "applicationName": "RadioDroid",
     "url": "https://github.com/segler-alex/RadioDroid",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -8896,7 +8896,7 @@
     "applicationName": "ReLabs - XDA Developers",
     "url": "https://github.com/theimpulson/ReLabs/releases",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -8986,7 +8986,7 @@
     "applicationName": "Revenge",
     "url": "https://github.com/revenge-mod/Revenge",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Social Network",
@@ -9151,7 +9151,7 @@
     "applicationName": "Rootless Pixel Launcher",
     "url": "https://github.com/amirzaidi/Launcher3",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Launcher"
@@ -9201,7 +9201,7 @@
     "applicationName": "Ruslin",
     "url": "https://github.com/ruslin-note/ruslin-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -9362,7 +9362,7 @@
     "applicationName": "Scid on the go",
     "url": "https://github.com/gkalab/scidonthego",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -9375,7 +9375,7 @@
     "applicationName": "Scoop",
     "url": "https://github.com/TacoTheDank/Scoop",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "System",
@@ -9462,7 +9462,7 @@
     "applicationName": "SecScanQR",
     "url": "https://github.com/Fr4gorSoftware/SecScanQR",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Scanner",
@@ -9549,7 +9549,7 @@
     "applicationName": "Session Android",
     "url": "https://github.com/oxen-io/session-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -9588,7 +9588,7 @@
     "applicationName": "Sharik",
     "url": "https://github.com/marchellodev/sharik",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "File",
@@ -9701,7 +9701,7 @@
     "applicationName": "Signal (FOSS)",
     "url": "https://github.com/tw-hx/Signal-Android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -9714,7 +9714,7 @@
     "applicationName": "Signal-You",
     "url": "https://github.com/nekorubu/Signal-You",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -9828,7 +9828,7 @@
     "applicationName": "Simple Material Notes",
     "url": "https://github.com/RafhaanShah/Simple-Notes",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -9853,7 +9853,7 @@
     "applicationName": "Simple Password",
     "url": "https://github.com/grigorevmp/Simple_Passwords_QuickPass",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -9954,7 +9954,7 @@
     "applicationName": "Sky Droid",
     "url": "https://github.com/redsolver/skydroid",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "App Store"
@@ -10029,7 +10029,7 @@
     "applicationName": "SmartCookieWeb",
     "url": "https://github.com/CookieJarApps/SmartCookieWeb",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Browser",
@@ -10042,7 +10042,7 @@
     "applicationName": "Snake Classic",
     "url": "https://github.com/kafri8889/Compose-Classic-Snake-Game",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -10269,7 +10269,7 @@
     "applicationName": "Spowlo",
     "url": "https://github.com/BobbyESP/Spowlo",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Downloader & Manager",
@@ -10395,7 +10395,7 @@
     "applicationName": "SubHub",
     "url": "https://github.com/FunkyMuse/SubHub",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Downloader & Manager"
@@ -10444,7 +10444,7 @@
     "applicationName": "SuperImage",
     "url": "https://github.com/Lucchetto/SuperImage",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Image",
@@ -10533,7 +10533,7 @@
     "applicationName": "Syncthing",
     "url": "https://github.com/syncthing/syncthing-android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Synchronisation"
@@ -10719,7 +10719,7 @@
     "applicationName": "TeamFiles Lawnicons",
     "url": "https://github.com/TeamFiles/Lawnicons",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Icon Pack"
@@ -10961,7 +10961,7 @@
     "applicationName": "Tiny Music Player",
     "url": "https://github.com/martinmimigames/tiny-music-player",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -11187,7 +11187,7 @@
     "applicationName": "Trekarta",
     "url": "https://github.com/andreynovikov/trekarta",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Maps & Navigation"
@@ -11236,7 +11236,7 @@
     "applicationName": "Tsacdop",
     "url": "https://github.com/stonega/tsacdop",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -11288,7 +11288,7 @@
     "applicationName": "Tusky",
     "url": "https://github.com/tuskyapp/Tusky",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -11502,7 +11502,7 @@
     "applicationName": "Update Me",
     "url": "https://github.com/anfreire/updateMe-Mobile",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "App Store"
@@ -11653,7 +11653,7 @@
     "applicationName": "Veterondo",
     "url": "https://github.com/Antonis427/veterondo",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Weather"
@@ -11755,7 +11755,7 @@
     "applicationName": "VTosters lite",
     "url": "https://github.com/vtosters/lite",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -11918,7 +11918,7 @@
     "applicationName": "Weather",
     "url": "https://codeberg.org/Beowulf/Weather",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Weather"
@@ -12240,7 +12240,7 @@
     "applicationName": "Yokatta",
     "url": "https://github.com/uestueab/app-thesis",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Flashcard"
@@ -12340,7 +12340,7 @@
     "applicationName": "zCalc",
     "url": "https://github.com/ziadOUA/zCalc",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Calculator"
