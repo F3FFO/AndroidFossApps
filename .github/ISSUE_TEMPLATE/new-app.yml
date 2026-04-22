@@ -37,32 +37,13 @@ body:
     id: tags
     attributes:
       label: Tags
+      description: |
+        Write the applicable tags, one per line. Main categories:
+        2FA, Ad Blocker, App Manager, App Store, Artificial Intelligence, Backup, Battery, Browser, Calculator, Calendar, Camera, Chat & Messaging, Clock & Time, Communication, Device automation, Diary & Journal, Dictionary, Downloader & Manager, Drawing, Email, File, Finance, Flashcard, Flashlight, Games & Emulator, Icon Pack, Image, Keyboard, Launcher, Maps & Navigation, Media (Audio/Video), Network, Note, Office, Optimizer & Cleaner, Painting, Password & Authentication, Privacy, Recorder, Reader & Viewer, Research & Development, Sandboxing, Science & Education, Scanner, Shopping, Social Network, Sport & Health, Synchronisation, System, Text Editor & Code Editor/IDE, Text-to-Speech, ToDo List, Translator, URL Manipulation, Utilities, VM, VPN, Wallpaper, Weather
       placeholder: |
-        Select from the following list (one per line):
-        Communication
-        Development
-        Development Tools
-        Education
+        e.g.:
         Games & Emulator
         Board
-        Arcade
-        Card
-        Puzzle
-        Role Playing
-        Sports
-        Graphics
-        Imaging
-        Multimedia
-        Music & Audio
-        Navigation
-        Network
-        Office
-        PDF Viewer
-        News & Magazines
-        Reading
-        System
-        Tools
-        Utilities
     validations:
       required: true
 
