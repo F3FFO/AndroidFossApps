@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Winlator](https://github.com/brunodev85/winlator)
 - [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 - [Pear Pass](https://github.com/tetherto/pearpass-app-mobile)
 - [Updatium](https://github.com/omeritzics/Updatium)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Keyguard](https://github.com/AChep/keyguard-app)
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
-- [PAIOS](https://github.com/Puzzaks/PAIOS)
 
 </details>
 
@@ -810,7 +810,8 @@ If you want to help out with the project, here are some ideas:
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
 - [Rekado](https://github.com/MenosGrante/Rekado)
 - [RetroArch](https://github.com/libretro/RetroArch)
-- [star](https://github.com/jacojayy/star)
+- [Winlator](https://github.com/brunodev85/winlator)
+  - [star](https://github.com/jacojayy/star) **`FORK`**
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [Yuzu](https://github.com/yuzu-emu/yuzu)
 
