@@ -1,0 +1,220 @@
+/* ===== Filter Dropdown ===== */
+.filter-dropdown-wrapper {
+  position: relative;
+}
+
+.filter-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  width: 380px;
+  max-height: 80vh;
+  overflow-y: auto;
+  background: var(--md-surface-container-low);
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--md-radius-lg);
+  box-shadow: var(--md-shadow-xl);
+  padding: 16px;
+  z-index: 200;
+  transition: background-color 0.3s;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.filter-header h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--md-on-surface);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.filter-header h3 .material-symbols-outlined {
+  font-size: 20px !important;
+  color: var(--md-primary);
+}
+
+.text-btn {
+  background: none;
+  border: none;
+  color: var(--md-primary);
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: var(--md-radius-sm);
+}
+
+.text-btn:hover {
+  background: color-mix(in srgb, var(--md-primary) 10%, transparent);
+}
+
+/* Filter Sections */
+.filter-section {
+  margin-bottom: 14px;
+}
+
+.filter-section:last-child {
+  margin-bottom: 0;
+}
+
+.filter-section h4 {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--md-on-surface-variant);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.filter-section h4 .material-symbols-outlined {
+  font-size: 16px !important;
+  opacity: 0.7;
+}
+
+.filter-status-toggles {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+/* Toggle Chip */
+.toggle-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 12px;
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--md-radius-sm);
+  cursor: pointer;
+  font-size: 0.82rem;
+  color: var(--md-on-surface-variant);
+  transition: all 0.15s;
+  user-select: none;
+}
+
+.toggle-chip:hover {
+  background: var(--md-surface-container);
+}
+
+.toggle-chip input { display: none; }
+
+.toggle-chip .chip-icon {
+  font-size: 16px !important;
+}
+
+.toggle-chip:has(input:checked) {
+  background: var(--md-primary-container);
+  color: var(--md-on-primary-container);
+  border-color: var(--md-primary-container);
+}
+
+/* Filter search */
+.filter-search-box {
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.filter-search-icon {
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px !important;
+  color: var(--md-on-surface-variant);
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.filter-search-box input {
+  width: 100%;
+  padding: 6px 12px 6px 30px;
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--md-radius-sm);
+  background: var(--md-surface-container-lowest);
+  color: var(--md-on-surface);
+  font-family: inherit;
+  font-size: 0.85rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.filter-search-box input:focus {
+  border-color: var(--md-primary);
+}
+
+/* Tag container */
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  max-height: 250px;
+  overflow-y: auto;
+  padding: 2px 0;
+}
+
+.tag-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px;
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--md-radius-sm);
+  font-size: 0.78rem;
+  cursor: pointer;
+  color: var(--md-on-surface-variant);
+  background: transparent;
+  transition: all 0.15s;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.tag-chip:hover {
+  background: var(--md-surface-container);
+}
+
+.tag-chip input { display: none; }
+
+.tag-chip:has(input:checked) {
+  background: var(--md-primary-container);
+  color: var(--md-on-primary-container);
+  border-color: var(--md-primary-container);
+  font-weight: 500;
+}
+
+.tag-chip .tag-icon {
+  font-size: 15px !important;
+}
+
+.tag-chip .tag-count {
+  margin-left: 3px;
+  font-size: 0.68rem;
+  opacity: 0.65;
+}
+
+/* Scrollbar */
+.tag-container::-webkit-scrollbar,
+.filter-dropdown::-webkit-scrollbar {
+  width: 5px;
+}
+
+.tag-container::-webkit-scrollbar-track,
+.filter-dropdown::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tag-container::-webkit-scrollbar-thumb,
+.filter-dropdown::-webkit-scrollbar-thumb {
+  background: var(--md-outline-variant);
+  border-radius: 3px;
+}

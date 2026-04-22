@@ -1,0 +1,52 @@
+/* ===== Design Tokens - Material 3 ===== */
+:root {
+  --md-primary: #2E7D32;
+  --md-on-primary: #FFFFFF;
+  --md-primary-container: #C8E6C9;
+  --md-on-primary-container: #1B5E20;
+  --md-secondary: #526350;
+  --md-on-secondary: #FFFFFF;
+  --md-surface: #FCFDF6;
+  --md-surface-dim: #DCE5D4;
+  --md-surface-container-lowest: #FFFFFF;
+  --md-surface-container-low: #F2F5EB;
+  --md-surface-container: #E8EDE0;
+  --md-surface-container-high: #E0E5D8;
+  --md-on-surface: #1A1C18;
+  --md-on-surface-variant: #43483F;
+  --md-outline: #73796D;
+  --md-outline-variant: #C3C8BB;
+  --md-error: #BA1A1A;
+  --md-info: #0277BD;
+  --md-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.08);
+  --md-shadow-lg: 0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06);
+  --md-shadow-xl: 0 10px 25px rgba(0,0,0,0.12), 0 4px 10px rgba(0,0,0,0.08);
+  --md-radius-sm: 8px;
+  --md-radius-md: 12px;
+  --md-radius-lg: 16px;
+  --md-radius-xl: 28px;
+}
+
+[data-theme="dark"] {
+  --md-primary: #A5D6A7;
+  --md-on-primary: #003300;
+  --md-primary-container: #1B5E20;
+  --md-on-primary-container: #C8E6C9;
+  --md-secondary: #B8CCB2;
+  --md-on-secondary: #243424;
+  --md-surface: #121410;
+  --md-surface-dim: #121410;
+  --md-surface-container-lowest: #0C0F0A;
+  --md-surface-container-low: #1A1C18;
+  --md-surface-container: #1E211B;
+  --md-surface-container-high: #282B25;
+  --md-on-surface: #E2E3DC;
+  --md-on-surface-variant: #C3C8BB;
+  --md-outline: #8D9286;
+  --md-outline-variant: #43483F;
+  --md-error: #FFB4AB;
+  --md-info: #81D4FA;
+  --md-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.2);
+  --md-shadow-lg: 0 4px 6px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.15);
+  --md-shadow-xl: 0 10px 25px rgba(0,0,0,0.35), 0 4px 10px rgba(0,0,0,0.2);
+}

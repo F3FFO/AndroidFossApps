@@ -1,0 +1,59 @@
+/* ===== Layout & Content ===== */
+.main-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 16px 20px 40px;
+  min-height: 60vh;
+}
+
+.results-bar {
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  color: var(--md-on-surface-variant);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.results-bar .material-symbols-outlined {
+  font-size: 18px !important;
+  opacity: 0.6;
+}
+
+/* App Grid */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+}
+
+/* No Results */
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--md-on-surface-variant);
+}
+
+.no-results-icon {
+  font-size: 48px !important;
+  opacity: 0.3;
+  display: block;
+  margin: 0 auto 16px;
+}
+
+.no-results p {
+  font-size: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .app-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-content {
+    padding: 12px 14px 32px;
+  }
+}

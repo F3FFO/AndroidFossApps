@@ -1,0 +1,124 @@
+name: Monthly Dead & 404 Check
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  check-dead:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check dead apps
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/check-dead.js
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apps.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update dead status"
+          git push
+
+  check-404:
+    runs-on: ubuntu-latest
+    needs: check-dead
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check URLs
+        run: node scripts/check-404.js
+
+      - name: Parse report
+        id: report
+        run: |
+          if [ ! -f 404-report.json ]; then
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          COUNT=$(node -e "const r=JSON.parse(require('fs').readFileSync('404-report.json','utf-8')); console.log(r.length)")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          if [ "$COUNT" = "0" ]; then
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            # build the issue body
+            BODY="The following apps have URLs returning 404:\n\n"
+            BODY+=$(node -e "
+              const r=JSON.parse(require('fs').readFileSync('404-report.json','utf-8'));
+              r.forEach(a => console.log('- **' + a.applicationName + '** (' + a.source + ')'));
+            ")
+            echo "body<<EOF" >> "$GITHUB_OUTPUT"
+            echo -e "$BODY" >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Branch & fix
+        if: steps.report.outputs.found == 'true'
+        run: |
+          BRANCH="fix/remove-404-apps-$(date +%Y%m%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          node scripts/remove-404.js
+          rm -f 404-report.json
+          git add apps.json recently-added.json
+          git commit -m "fix: remove apps with 404 URLs"
+          git push -u origin "$BRANCH"
+          echo "branch=$BRANCH" >> "$GITHUB_ENV"
+
+      - name: Open PR
+        if: steps.report.outputs.found == 'true'
+        id: create_pr
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branch = process.env.branch;
+            const count = '${{ steps.report.outputs.count }}';
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `fix: remove ${count} app(s) with broken URLs`,
+              head: branch,
+              base: 'main',
+              body: `Removes ${count} app(s) with 404 URLs. Check the linked issue for details.\n\n> **Do NOT auto-merge** — verify manually.`,
+            });
+            core.setOutput('pr_number', pr.number);
+            core.setOutput('pr_url', pr.html_url);
+
+      - name: Open issue
+        if: steps.report.outputs.found == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = '${{ steps.create_pr.outputs.pr_number }}';
+            const prUrl = '${{ steps.create_pr.outputs.pr_url }}';
+            const body = `${{ steps.report.outputs.body }}`;
+            const date = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Broken URLs (404) — ${date}`,
+              body: body + `\n\n---\nFix: ${prUrl} (#${prNumber})`,
+              labels: ['broken-url'],
+            });
