@@ -998,7 +998,7 @@
     "applicationName": "Battery Tool",
     "url": "https://github.com/Domi04151309/BatteryTool",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Battery"
@@ -1010,7 +1010,7 @@
     "applicationName": "BatteryBot Pro",
     "url": "https://github.com/darshan-/Battery-Indicator-Pro",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Battery"
@@ -1022,7 +1022,7 @@
     "applicationName": "BCL",
     "url": "https://github.com/MuntashirAkon/BatteryChargeLimiter",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Battery"
@@ -2488,18 +2488,6 @@
     "description": ""
   },
   {
-    "applicationName": "Dragon Launcher",
-    "url": "https://github.com/Elnix90/Dragon-Launcher",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "DrawAnyWhere",
     "url": "https://github.com/shezik/DrawAnywhere",
     "downloadUrl": [],
@@ -2764,18 +2752,6 @@
     "description": ""
   },
   {
-    "applicationName": "EinsteinLauncher",
-    "url": "https://github.com/JackEblan/EinsteinLauncher",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Element",
     "url": "https://github.com/vector-im/element-android",
     "downloadUrl": [],
@@ -2857,18 +2833,6 @@
     "isFork": false,
     "tags": [
       "System"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Escape Launcher",
-    "url": "https://github.com/GeorgeClensy/Escape-Launcher",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
     ],
     "urlFork": null,
     "description": ""
@@ -3400,18 +3364,6 @@
     "tags": [
       "Games & Emulator",
       "Board"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Flappy Bird",
-    "url": "https://github.com/FlappyRecreator/FlappyB64bitAndroid",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator"
     ],
     "urlFork": null,
     "description": ""
@@ -4011,19 +3963,6 @@
     "description": ""
   },
   {
-    "applicationName": "Futon",
-    "url": "https://github.com/AppFuton/Futon",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": "https://github.com/KotatsuApp/Kotatsu",
-    "description": ""
-  },
-  {
     "applicationName": "G-Droid",
     "url": "https://gitlab.com/gdroid/gdroidclient",
     "downloadUrl": [],
@@ -4169,18 +4108,6 @@
     "isFork": false,
     "tags": [
       "Science & Education"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "gitnote",
-    "url": "https://github.com/wiiznokes/gitnote",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Note"
     ],
     "urlFork": null,
     "description": ""
@@ -5041,19 +4968,6 @@
     "description": ""
   },
   {
-    "applicationName": "Kahon",
-    "url": "https://github.com/AmanoTeam/Kahon",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": "https://github.com/mihonapp/mihon",
-    "description": ""
-  },
-  {
     "applicationName": "Karma Firewall",
     "url": "https://github.com/nightflame2/karma-firewall",
     "downloadUrl": [],
@@ -5124,18 +5038,6 @@
     "tags": [
       "Sport & Health",
       "Tracker"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Keyguard",
-    "url": "https://github.com/AChep/keyguard-app",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Password & Authentication"
     ],
     "urlFork": null,
     "description": ""
@@ -5396,19 +5298,6 @@
       "Research & Development"
     ],
     "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Kumo",
-    "url": "https://github.com/nubesurrealista/Kumo",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": "https://github.com/mihonapp/mihon",
     "description": ""
   },
   {
@@ -6091,18 +5980,6 @@
     "description": ""
   },
   {
-    "applicationName": "Mako",
-    "url": "https://github.com/jmiguelrivas/mako",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Mangafeed",
     "url": "https://github.com/starfish23/mangafeed",
     "downloadUrl": [],
@@ -6678,19 +6555,6 @@
       "Video Player"
     ],
     "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "mpvEx",
-    "url": "https://github.com/marlboro-advance/mpvEx",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Media (Audio/Video)",
-      "Video Player"
-    ],
-    "urlFork": "https://github.com/mpv-android/mpv-android",
     "description": ""
   },
   {
@@ -8035,18 +7899,6 @@
     "description": ""
   },
   {
-    "applicationName": "Orion Store",
-    "url": "https://github.com/RookieEnough/Orion-Store",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "App Store"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Orion Viewer",
     "url": "https://github.com/max-kammerer/orion-viewer",
     "downloadUrl": [],
@@ -8166,18 +8018,6 @@
     "tags": [
       "Social Network",
       "Mastodon"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "PAIOS",
-    "url": "https://github.com/Puzzaks/PAIOS",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Artificial Intelligence"
     ],
     "urlFork": null,
     "description": ""
@@ -9181,18 +9021,6 @@
     "description": ""
   },
   {
-    "applicationName": "Ricochlime",
-    "url": "https://github.com/adil192/ricochlime",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Ridna - Relationship Calendar",
     "url": "https://github.com/nexy791/Ridna",
     "downloadUrl": [],
@@ -9631,32 +9459,6 @@
     "description": ""
   },
   {
-    "applicationName": "Seal Plus",
-    "url": "https://github.com/MaheshTechnicals/Sealplus",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Downloader & Manager",
-      "YouTube"
-    ],
-    "urlFork": "https://github.com/JunkFood02/Seal",
-    "description": ""
-  },
-  {
-    "applicationName": "searxist",
-    "url": "https://codeberg.org/Linerly/searxist",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Browser",
-      "Other"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "SecScanQR",
     "url": "https://github.com/Fr4gorSoftware/SecScanQR",
     "downloadUrl": [],
@@ -9836,7 +9638,7 @@
     "applicationName": "Shopin",
     "url": "https://github.com/erdemklync/Shopin",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Shopping"
@@ -9848,7 +9650,7 @@
     "applicationName": "Shopping Cart Calculator",
     "url": "https://github.com/D4rK7355608/com.d4rk.cartcalculator",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Shopping"
@@ -10438,19 +10240,6 @@
     "description": ""
   },
   {
-    "applicationName": "SpotiFLAC-Mobile",
-    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Downloader & Manager",
-      "Music"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "SpotiFlyer",
     "url": "https://github.com/Shabinder/SpotiFlyer",
     "downloadUrl": [],
@@ -10803,19 +10592,6 @@
     "description": ""
   },
   {
-    "applicationName": "TachiyomiAT",
-    "url": "https://github.com/mannu691/TachiyomiAT",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": "https://github.com/mihonapp/mihon",
-    "description": ""
-  },
-  {
     "applicationName": "TachiyomiJ2K",
     "url": "https://github.com/Jays2Kings/tachiyomiJ2K",
     "downloadUrl": [],
@@ -10864,19 +10640,6 @@
       "VPN"
     ],
     "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Taison",
-    "url": "https://github.com/Gent8/Taison",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": "https://github.com/mihonapp/mihon",
     "description": ""
   },
   {
@@ -11203,18 +10966,6 @@
     "tags": [
       "Media (Audio/Video)",
       "Music/Audio Player"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "tmtLauncher",
-    "url": "https://github.com/tinnamchoi/tmtLauncher",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
     ],
     "urlFork": null,
     "description": ""
@@ -11760,18 +11511,6 @@
     "description": ""
   },
   {
-    "applicationName": "Updatium",
-    "url": "https://github.com/omeritzics/Updatium",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "App Store"
-    ],
-    "urlFork": "https://github.com/ImranR98/Obtainium",
-    "description": ""
-  },
-  {
     "applicationName": "UpgradeAll",
     "url": "https://github.com/DUpdateSystem/UpgradeAll",
     "downloadUrl": [],
@@ -11856,18 +11595,6 @@
     "isFork": false,
     "tags": [
       "Password & Authentication"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Vector Pinball",
-    "url": "https://github.com/dozingcat/Vector-Pinball",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator"
     ],
     "urlFork": null,
     "description": ""
@@ -12207,19 +11934,6 @@
     "isFork": false,
     "tags": [
       "Weather"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "WebLibre",
-    "url": "https://github.com/FaFre/WebLibre",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Browser",
-      "Gecko Based (Firefox)"
     ],
     "urlFork": null,
     "description": ""
@@ -12692,6 +12406,57 @@
     "isFork": false,
     "tags": [
       "Maps & Navigation"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
+    "applicationName": "Messages",
+    "url": "https://github.com/PVOT-OSS/Messages",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": true,
+    "tags": [
+      "Communication",
+      "SMS"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
+    "applicationName": "star",
+    "url": "https://github.com/jacojayy/star",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": true,
+    "tags": [
+      "Games & Emulator",
+      "Emulators"
+    ],
+    "urlFork": "https://github.com/brunodev85/winlator",
+    "description": "star - An application that lets you run Windows applications via Wine and box64/86 on Android."
+  },
+  {
+    "applicationName": "Audion",
+    "url": "https://github.com/dupitydumb/Audion",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Media (Audio/Video)",
+      "Music/Audio Player"
+    ],
+    "urlFork": null,
+    "description": "An open-source music player for your local library featuring synchronized lyrics, themes, and plugins."
+  },
+  {
+    "applicationName": "PAIOS",
+    "url": "https://github.com/Puzzaks/PAIOS",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Artificial Intelligence"
     ],
     "urlFork": null,
     "description": ""

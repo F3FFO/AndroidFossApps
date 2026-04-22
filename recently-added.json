@@ -1,135 +1,292 @@
 {
   "_comment": "WARNING: Do NOT remove entries from this list. Always add new apps at the END of the 'apps' array. The rotation script will automatically move the oldest entries to apps.json when the list exceeds 25.",
   "apps": [
-  {
-    "applicationName": "Updatium",
-    "url": "https://github.com/omeritzics/Updatium",
-    "description": ""
-  },
-  {
-    "applicationName": "Seal Plus",
-    "url": "https://github.com/MaheshTechnicals/Sealplus",
-    "description": ""
-  },
-  {
-    "applicationName": "Vector Pinball",
-    "url": "https://github.com/dozingcat/Vector-Pinball",
-    "description": ""
-  },
-  {
-    "applicationName": "Flappy Bird",
-    "url": "https://github.com/FlappyRecreator/FlappyB64bitAndroid",
-    "description": ""
-  },
-  {
-    "applicationName": "Ricochlime",
-    "url": "https://github.com/adil192/ricochlime",
-    "description": ""
-  },
-  {
-    "applicationName": "Orion Store",
-    "url": "https://github.com/RookieEnough/Orion-Store",
-    "description": ""
-  },
-  {
-    "applicationName": "Kumo",
-    "url": "https://github.com/nubesurrealista/Kumo",
-    "description": ""
-  },
-  {
-    "applicationName": "Taison",
-    "url": "https://github.com/Gent8/Taison",
-    "description": ""
-  },
-  {
-    "applicationName": "TachiyomiAT",
-    "url": "https://github.com/mannu691/TachiyomiAT",
-    "description": ""
-  },
-  {
-    "applicationName": "Kahon",
-    "url": "https://github.com/AmanoTeam/Kahon",
-    "description": ""
-  },
-  {
-    "applicationName": "Futon",
-    "url": "https://github.com/AppFuton/Futon",
-    "description": ""
-  },
-  {
-    "applicationName": "tmtLauncher",
-    "url": "https://github.com/tinnamchoi/tmtLauncher",
-    "description": ""
-  },
-  {
-    "applicationName": "Escape Launcher",
-    "url": "https://github.com/GeorgeClensy/Escape-Launcher",
-    "description": ""
-  },
-  {
-    "applicationName": "Mako",
-    "url": "https://github.com/jmiguelrivas/mako",
-    "description": ""
-  },
-  {
-    "applicationName": "Dragon Launcher",
-    "url": "https://github.com/Elnix90/Dragon-Launcher",
-    "description": ""
-  },
-  {
-    "applicationName": "EinsteinLauncher",
-    "url": "https://github.com/JackEblan/EinsteinLauncher",
-    "description": ""
-  },
-  {
-    "applicationName": "WebLibre",
-    "url": "https://github.com/FaFre/WebLibre",
-    "description": ""
-  },
-  {
-    "applicationName": "searxist",
-    "url": "https://codeberg.org/Linerly/searxist",
-    "description": ""
-  },
-  {
-    "applicationName": "mpvEx",
-    "url": "https://github.com/marlboro-advance/mpvEx",
-    "description": ""
-  },
-  {
-    "applicationName": "Keyguard",
-    "url": "https://github.com/AChep/keyguard-app",
-    "description": ""
-  },
-  {
-    "applicationName": "gitnote",
-    "url": "https://github.com/wiiznokes/gitnote",
-    "description": ""
-  },
-  {
-    "applicationName": "SpotiFLAC-Mobile",
-    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
-    "description": ""
-  },
-  {
-    "applicationName": "PAIOS",
-    "url": "https://github.com/Puzzaks/PAIOS",
-    "description": ""
-  },
-  {
-    "applicationName": "Audion",
-    "url": "https://github.com/dupitydumb/Audion",
-    "description": ""
-  },
-  {
-    "applicationName": "star",
-    "url": "https://github.com/jacojayy/star",
-    "description": ""
-  },
-  {
-    "applicationName": "Messages",
-    "url": "https://github.com/PVOT-OSS/Messages",
-    "description": ""
-  }
+    {
+      "applicationName": "SpotiFLAC-Mobile",
+      "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Downloader & Manager",
+        "Music"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "gitnote",
+      "url": "https://github.com/wiiznokes/gitnote",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Note"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Keyguard",
+      "url": "https://github.com/AChep/keyguard-app",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Password & Authentication"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "mpvEx",
+      "url": "https://github.com/marlboro-advance/mpvEx",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Media (Audio/Video)",
+        "Video Player"
+      ],
+      "urlFork": "https://github.com/mpv-android/mpv-android",
+      "description": ""
+    },
+    {
+      "applicationName": "searxist",
+      "url": "https://codeberg.org/Linerly/searxist",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Browser",
+        "Other"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "WebLibre",
+      "url": "https://github.com/FaFre/WebLibre",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Browser",
+        "Gecko Based (Firefox)"
+      ],
+      "urlFork": "https://hg-edge.mozilla.org/mozilla-central",
+      "description": ""
+    },
+    {
+      "applicationName": "EinsteinLauncher",
+      "url": "https://github.com/JackEblan/EinsteinLauncher",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Dragon Launcher",
+      "url": "https://github.com/Elnix90/Dragon-Launcher",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Mako",
+      "url": "https://github.com/jmiguelrivas/mako",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Escape Launcher",
+      "url": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "tmtLauncher",
+      "url": "https://github.com/tinnamchoi/tmtLauncher",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Futon",
+      "url": "https://github.com/AppFuton/Futon",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": "https://github.com/KotatsuApp/Kotatsu",
+      "description": ""
+    },
+    {
+      "applicationName": "Kahon",
+      "url": "https://github.com/AmanoTeam/Kahon",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": "https://github.com/mihonapp/mihon",
+      "description": ""
+    },
+    {
+      "applicationName": "TachiyomiAT",
+      "url": "https://github.com/mannu691/TachiyomiAT",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": "https://github.com/mihonapp/mihon",
+      "description": ""
+    },
+    {
+      "applicationName": "Taison",
+      "url": "https://github.com/Gent8/Taison",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": "https://github.com/mihonapp/mihon",
+      "description": ""
+    },
+    {
+      "applicationName": "Kumo",
+      "url": "https://github.com/nubesurrealista/Kumo",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": "https://github.com/mihonapp/mihon",
+      "description": ""
+    },
+    {
+      "applicationName": "Orion Store",
+      "url": "https://github.com/RookieEnough/Orion-Store",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "App Store"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Ricochlime",
+      "url": "https://github.com/adil192/ricochlime",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Games & Emulator"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Flappy Bird",
+      "url": "https://github.com/FlappyRecreator/FlappyB64bitAndroid",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Games & Emulator"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Vector Pinball",
+      "url": "https://github.com/dozingcat/Vector-Pinball",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Games & Emulator"
+      ],
+      "urlFork": null,
+      "description": ""
+    },
+    {
+      "applicationName": "Seal Plus",
+      "url": "https://github.com/MaheshTechnicals/Sealplus",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Downloader & Manager",
+        "YouTube"
+      ],
+      "urlFork": "https://github.com/JunkFood02/Seal",
+      "description": ""
+    },
+    {
+      "applicationName": "Updatium",
+      "url": "https://github.com/omeritzics/Updatium",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "App Store"
+      ],
+      "urlFork": "https://github.com/ImranR98/Obtainium",
+      "description": ""
+    },
+    {
+      "applicationName": "Winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Games & Emulator",
+        "Emulators"
+      ],
+      "urlFork": null,
+      "description": "Android application for running Windows applications with Wine and Box86/Box64 "
+    }
   ]
 }
