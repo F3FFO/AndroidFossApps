@@ -1,10 +1,10 @@
 name: Rotate Recently Added
 
 on:
-#  push:
-#    branches: [main]
-#    paths:
-#      - 'recently-added.json'
+  push:
+    branches: [main]
+    paths:
+      - 'recently-added.json'
   workflow_dispatch:
 
 permissions:
