@@ -54,7 +54,6 @@ function getFiltered() {
     if (hideForks && app.isFork) return false;
     if (newOnly && !isNew(app)) return false;
 
-    // all selected tags must be present
     for (const tag of activeTags) {
       if (!app.tags.includes(tag)) return false;
     }
@@ -110,7 +109,8 @@ async function load() {
     apps = await appsRes.json();
 
     if (recentRes?.ok) {
-      const recent = await recentRes.json();
+      const recentData = await recentRes.json();
+      const recent = recentData.apps || recentData;
       recentUrls = new Set(recent.map(r => r.url));
     }
 
@@ -167,7 +167,6 @@ clearFiltersBtn.addEventListener('click', resetAll);
 
 const dropdown = setupDropdown(filterToggle, filterPanel);
 
-// keyboard shortcut: press / to focus the search bar
 document.addEventListener('keydown', e => {
   if (e.key === '/' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
     e.preventDefault();
