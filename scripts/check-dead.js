@@ -40,7 +40,19 @@ async function checkGitHub(owner, repo) {
 
   if (info.archived) return true;
 
-  if (info.pushed_at) {
+  const branch = info.default_branch || 'main';
+  const commits = await fetchJSON(
+    `https://api.github.com/repos/${owner}/${repo}/commits?sha=${branch}&per_page=1`,
+    headers
+  );
+
+  if (Array.isArray(commits) && commits.length > 0) {
+    const commitDate = commits[0].commit?.committer?.date || commits[0].commit?.author?.date;
+    if (commitDate) {
+      const age = Date.now() - new Date(commitDate).getTime();
+      if (age > THREE_YEARS_MS) return true;
+    }
+  } else if (info.pushed_at) {
     const age = Date.now() - new Date(info.pushed_at).getTime();
     if (age > THREE_YEARS_MS) return true;
   }
@@ -71,7 +83,15 @@ async function checkCodeberg(owner, repo) {
 
   if (info.archived) return true;
 
-  if (info.updated_at) {
+  const branch = info.default_branch || 'main';
+  const branchInfo = await fetchJSON(
+    `https://codeberg.org/api/v1/repos/${owner}/${repo}/branches/${branch}`
+  );
+
+  if (branchInfo?.commit?.timestamp) {
+    const age = Date.now() - new Date(branchInfo.commit.timestamp).getTime();
+    if (age > THREE_YEARS_MS) return true;
+  } else if (info.updated_at) {
     const age = Date.now() - new Date(info.updated_at).getTime();
     if (age > THREE_YEARS_MS) return true;
   }
