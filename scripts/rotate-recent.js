@@ -33,10 +33,10 @@ for (const entry of toMove) {
     applicationName: entry.applicationName,
     url: entry.url,
     downloadUrl: entry.downloadUrl || [],
-    isDead: false,
-    isFork: false,
-    tags: entry.tags || ['IDK'],
-    urlFork: null,
+    isDead: entry.isDead || false,
+    isFork: entry.isFork || false,
+    tags: entry.tags && entry.tags.length ? entry.tags : ['IDK'],
+    urlFork: entry.urlFork || null,
     description: entry.description || '',
   });
   console.log(`  moved: ${entry.applicationName}`);

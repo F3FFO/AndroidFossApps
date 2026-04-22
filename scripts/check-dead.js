@@ -6,7 +6,10 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const appsPath = path.join(ROOT, 'apps.json');
+const recentPath = path.join(ROOT, 'recently-added.json');
 const apps = JSON.parse(fs.readFileSync(appsPath, 'utf-8'));
+const recentData = JSON.parse(fs.readFileSync(recentPath, 'utf-8'));
+const recent = recentData.apps || recentData;
 
 const THREE_YEARS_MS = 3 * 365.25 * 24 * 60 * 60 * 1000;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || '';
@@ -116,7 +119,8 @@ async function checkApp(app) {
 }
 
 async function main() {
-  console.log(`Checking ${apps.length} apps for dead status...`);
+  const allApps = [...apps, ...recent];
+  console.log(`Checking ${allApps.length} apps for dead status (${apps.length} main + ${recent.length} recent)...`);
   if (!GITHUB_TOKEN) {
     console.warn('Warning: GITHUB_TOKEN not set, GitHub rate limits will apply');
   }
@@ -125,8 +129,8 @@ async function main() {
   let checked = 0;
   let skipped = 0;
 
-  for (let i = 0; i < apps.length; i++) {
-    const app = apps[i];
+  for (let i = 0; i < allApps.length; i++) {
+    const app = allApps[i];
     const dead = await checkApp(app);
 
     if (dead === null) {
@@ -144,7 +148,7 @@ async function main() {
     else await sleep(50);
 
     if ((i + 1) % 100 === 0) {
-      console.log(`  ... ${i + 1}/${apps.length}`);
+      console.log(`  ... ${i + 1}/${allApps.length}`);
     }
   }
 
@@ -152,7 +156,9 @@ async function main() {
 
   if (changed > 0) {
     fs.writeFileSync(appsPath, JSON.stringify(apps, null, 2) + '\n', 'utf-8');
-    console.log('apps.json updated.');
+    recentData.apps = recent;
+    fs.writeFileSync(recentPath, JSON.stringify(recentData, null, 2) + '\n', 'utf-8');
+    console.log('apps.json and recently-added.json updated.');
   } else {
     console.log('No changes needed.');
   }

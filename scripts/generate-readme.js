@@ -4,9 +4,10 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const apps = JSON.parse(fs.readFileSync(path.join(ROOT, 'apps.json'), 'utf-8'));
+const mainApps = JSON.parse(fs.readFileSync(path.join(ROOT, 'apps.json'), 'utf-8'));
 const recentData = JSON.parse(fs.readFileSync(path.join(ROOT, 'recently-added.json'), 'utf-8'));
 const recentlyAdded = recentData.apps || recentData;
+const apps = [...mainApps, ...recentlyAdded];
 
 const TAG_EMOJI = {
   'IDK': ':question:',
@@ -267,4 +268,4 @@ function buildReadme() {
 
 const readme = buildReadme();
 fs.writeFileSync(path.join(ROOT, 'APPS.md'), readme, 'utf-8');
-console.log(`apps: ${apps.length}, recently added: ${recentlyAdded.length}`);
+console.log(`apps: ${mainApps.length}, recently added: ${recentlyAdded.length}, total: ${apps.length}`);
