@@ -1,4 +1,6 @@
-[
+{
+  "_comment": "WARNING: Do NOT remove entries from this list. Always add new apps at the END of the 'apps' array. The rotation script will automatically move the oldest entries to apps.json when the list exceeds 25.",
+  "apps": [
   {
     "applicationName": "Updatium",
     "url": "https://github.com/omeritzics/Updatium",
@@ -129,4 +131,5 @@
     "url": "https://github.com/PVOT-OSS/Messages",
     "description": ""
   }
-]
+  ]
+}
