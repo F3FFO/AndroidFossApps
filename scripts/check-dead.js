@@ -1,18 +1,5 @@
 #!/usr/bin/env node
-
-/**
- * check-dead.js
- *
- * Checks each app in apps.json against GitHub/GitLab/Codeberg APIs to
- * determine if a repo is "dead":
- *   - Archived, OR
- *   - No commits on any branch in the last 3 years
- *
- * Usage: GITHUB_TOKEN=xxx node scripts/check-dead.js
- *
- * Requires a GITHUB_TOKEN for GitHub repos (to avoid rate limits).
- * GitLab/Codeberg use public APIs.
- */
+// Usage: GITHUB_TOKEN=xxx node scripts/check-dead.js
 
 const fs = require('fs');
 const path = require('path');
@@ -32,14 +19,11 @@ async function fetchJSON(url, headers = {}) {
   const res = await fetch(url, { headers });
   if (res.status === 404 || res.status === 451) return { _notFound: true };
   if (!res.ok) {
-    // Rate limited or server error — skip
     console.warn(`  HTTP ${res.status} for ${url}`);
     return null;
   }
   return res.json();
 }
-
-// --- GitHub ---
 
 async function checkGitHub(owner, repo) {
   const headers = {};
@@ -49,11 +33,10 @@ async function checkGitHub(owner, repo) {
     `https://api.github.com/repos/${owner}/${repo}`,
     headers
   );
-  if (!info || info._notFound) return null; // skip if we can't reach it
+  if (!info || info._notFound) return null;
 
   if (info.archived) return true;
 
-  // Check pushed_at (last push to any branch)
   if (info.pushed_at) {
     const age = Date.now() - new Date(info.pushed_at).getTime();
     if (age > THREE_YEARS_MS) return true;
@@ -61,8 +44,6 @@ async function checkGitHub(owner, repo) {
 
   return false;
 }
-
-// --- GitLab (gitlab.com and self-hosted) ---
 
 async function checkGitLab(host, projectPath) {
   const encoded = encodeURIComponent(projectPath);
@@ -79,8 +60,6 @@ async function checkGitLab(host, projectPath) {
   return false;
 }
 
-// --- Codeberg ---
-
 async function checkCodeberg(owner, repo) {
   const info = await fetchJSON(
     `https://codeberg.org/api/v1/repos/${owner}/${repo}`
@@ -96,8 +75,6 @@ async function checkCodeberg(owner, repo) {
 
   return false;
 }
-
-// --- Router ---
 
 function parseUrl(url) {
   try {
@@ -117,7 +94,6 @@ function parseUrl(url) {
       return { type: 'codeberg', owner: parts[0], repo: parts[1] };
     }
 
-    // Other hosts (sourceforge, custom git) — can't check
     return { type: 'unknown' };
   } catch {
     return { type: 'unknown' };
@@ -135,11 +111,9 @@ async function checkApp(app) {
     case 'codeberg':
       return checkCodeberg(parsed.owner, parsed.repo);
     default:
-      return null; // can't determine
+      return null;
   }
 }
-
-// --- Main ---
 
 async function main() {
   console.log(`Checking ${apps.length} apps for dead status...`);
@@ -166,11 +140,9 @@ async function main() {
       }
     }
 
-    // Rate limiting: 50ms between requests
     if (i % 10 === 9) await sleep(500);
     else await sleep(50);
 
-    // Progress every 100
     if ((i + 1) % 100 === 0) {
       console.log(`  ... ${i + 1}/${apps.length}`);
     }

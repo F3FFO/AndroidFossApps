@@ -1,22 +1,13 @@
 #!/usr/bin/env node
 
-/**
- * generate-readme.js
- *
- * Generates APPS.md from apps.json and recently-added.json.
- * Run: node scripts/generate-readme.js
- *
- * Also called by the GitHub Action on push to master.
- */
-
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const apps = JSON.parse(fs.readFileSync(path.join(ROOT, 'apps.json'), 'utf-8'));
-const recentlyAdded = JSON.parse(fs.readFileSync(path.join(ROOT, 'recently-added.json'), 'utf-8'));
+const recentData = JSON.parse(fs.readFileSync(path.join(ROOT, 'recently-added.json'), 'utf-8'));
+const recentlyAdded = recentData.apps || recentData;
 
-// ===== Tag → Emoji mapping (matches the original README style) =====
 const TAG_EMOJI = {
   'IDK': ':question:',
   '2FA': ':clock1:',
@@ -80,14 +71,12 @@ const TAG_EMOJI = {
   'Weather': ':sunny:',
 };
 
-// Tags that should have :warning: appended
 const WARNING_TAGS = [
   'Telegram', 'Discord', 'Facebook', 'Github', 'Pixiv',
   'Reddit', 'Steam', 'VK', 'X(Twitter)', 'Xda',
   'Subsonic Client', 'Spotify Client', 'YouTube', 'YouTube Music', 'Twitch',
 ];
 
-// Top-level sections (H3) in the desired order
 const SECTION_ORDER = [
   'IDK', '2FA', 'Ad Blocker', 'App Manager', 'App Store',
   'Artificial Intelligence', 'Backup', 'Battery', 'Browser',
@@ -106,7 +95,6 @@ const SECTION_ORDER = [
   'Utilities', 'VM', 'VPN', 'Wallpaper', 'Weather',
 ];
 
-// Sub-sections for specific parent sections
 const SUB_SECTIONS = {
   'Browser': ['Bookmark Manager/Read It Later', 'Chromium Based', 'Gecko Based (Firefox)', 'Other', 'Tools'],
   'Chat & Messaging': ['Matrix', 'Signal', 'Telegram'],
@@ -128,7 +116,6 @@ const SUB_SECTIONS = {
   'System': ['ADB Tools', 'Gesture Control', 'GSI', 'Info', 'Phone Link', 'Shizuku', 'SuperUser', 'Terminal', 'Theme'],
 };
 
-// Telegram sub-sub-sections
 const TELEGRAM_SUBS = ['Tools'];
 
 function getAppsForTag(tag) {
@@ -144,14 +131,9 @@ function formatApp(app, indent = '') {
   return line;
 }
 
-/**
- * Writes a list of apps, grouping forks indented under their parent.
- * Forks whose parent is not in the list are shown at top level.
- */
 function writeAppList(appList) {
   let out = '';
-  // Build parent→children map
-  const childrenOf = new Map(); // parentUrl → [app, ...]
+  const childrenOf = new Map();
   const topLevel = [];
 
   for (const app of appList) {
@@ -169,7 +151,6 @@ function writeAppList(appList) {
 
   for (const app of topLevel) {
     out += formatApp(app) + '\n';
-    // Write forks of this app indented
     const forks = childrenOf.get(app.url);
     if (forks) {
       for (const fork of forks) {
@@ -197,7 +178,6 @@ function buildReadme() {
   md += ':arrow_left: [Back to README](README.md)\n\n';
   md += '---\n\n';
 
-  // Abbreviations
   md += '## :arrow_right: Abbreviations\n\n';
   md += '| Abbreviation | Meaning |\n';
   md += '| :----------: | ------- |\n';
@@ -206,7 +186,6 @@ function buildReadme() {
   md += '|  :warning:   | Only the application is FOSS. The service is based on a closed-source or non-FOSS system. |\n\n';
   md += '---\n\n';
 
-  // Recently added
   md += '## :new: Newly Added Apps!\n\n';
   md += '<details>\n\n';
   md += `<summary>Last <b>${recentlyAdded.length} apps</b> that were recently added to list!</summary>\n\n`;
@@ -215,7 +194,6 @@ function buildReadme() {
   }
   md += '\n</details>\n\n';
 
-  // Table of Contents
   md += '## :scroll: Table of Contents\n\n';
   for (const section of SECTION_ORDER) {
     const emoji = TAG_EMOJI[section] || '';
@@ -231,35 +209,28 @@ function buildReadme() {
   }
   md += '\n---\n\n## Apps\n\n';
 
-  // Sections
   for (const section of SECTION_ORDER) {
     const emoji = TAG_EMOJI[section] || '';
     const prefix = emoji ? emoji + ' ' : '';
     md += `### ${prefix}${section}\n\n`;
 
-    // Apps directly in this section (not in a sub-section)
     const subsForSection = SUB_SECTIONS[section] || [];
-    const directApps = getAppsForTag(section).filter(app => {
-      // Include if the app doesn't belong to any subsection of this section
-      return !subsForSection.some(sub => app.tags.includes(sub));
-    });
+    const directApps = getAppsForTag(section).filter(
+      app => !subsForSection.some(sub => app.tags.includes(sub))
+    );
 
     if (directApps.length > 0) {
       md += writeAppList(directApps);
       md += '\n';
     }
 
-    // Sub-sections
     for (const sub of subsForSection) {
       const subApps = getAppsForTag(sub);
       if (subApps.length === 0) continue;
 
       const isWarning = WARNING_TAGS.includes(sub);
 
-      if (sub === 'Tools' && section === 'Chat & Messaging') {
-        // Telegram > Tools is H5
-        continue; // handled inside Telegram
-      }
+      if (sub === 'Tools' && section === 'Chat & Messaging') continue;
 
       md += `#### ${sub}\n\n`;
 
@@ -271,7 +242,6 @@ function buildReadme() {
       md += writeAppList(subApps);
       md += '\n';
 
-      // Handle Telegram > Tools sub-sub-section
       if (sub === 'Telegram') {
         const toolsApps = apps.filter(a => a.tags.includes('Telegram') && a.tags.includes('Tools'));
         if (toolsApps.length > 0) {
@@ -285,7 +255,6 @@ function buildReadme() {
     md += `<sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>\n\n---\n\n`;
   }
 
-  // Sources
   md += '## :link: Sources\n\n';
   md += '- _Mastodon:_ [foss_android](https://mstdn.social/@foss_android)\n';
   md += '- _Lemmy:_ [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)\n';
@@ -298,7 +267,4 @@ function buildReadme() {
 
 const readme = buildReadme();
 fs.writeFileSync(path.join(ROOT, 'APPS.md'), readme, 'utf-8');
-console.log('APPS.md generated successfully.');
-console.log(`Total apps: ${apps.length}`);
-console.log(`Sections: ${SECTION_ORDER.length}`);
-console.log(`Recently added: ${recentlyAdded.length}`);
+console.log(`apps: ${apps.length}, recently added: ${recentlyAdded.length}`);
