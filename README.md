@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 - [Pear Pass](https://github.com/tetherto/pearpass-app-mobile)
 - [Updatium](https://github.com/omeritzics/Updatium)
 - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
@@ -63,8 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [PAIOS](https://github.com/Puzzaks/PAIOS)
-- [Audion](https://github.com/dupitydumb/Audion)
-- [star](https://github.com/jacojayy/star)
 
 </details>
 
@@ -306,12 +305,13 @@ If you want to help out with the project, here are some ideas:
 ### :battery: Battery
 
 - [ACCA](https://github.com/MatteCarra/AccA) **`DEAD`**
-- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
-- [Battery Tool](https://github.com/Domi04151309/BatteryTool)
-- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
+- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro) **`DEAD`**
+- [Battery Tool](https://github.com/Domi04151309/BatteryTool) **`DEAD`**
+- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`DEAD`**
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Wattz](https://github.com/dubrowgn/wattz)
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1520,8 +1520,8 @@ If you want to help out with the project, here are some ideas:
 ### :shopping_cart: Shopping
 
 - [Grocy](https://github.com/patzly/grocy-android)
-- [Shopin](https://github.com/erdemklync/Shopin)
-- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
+- [Shopin](https://github.com/erdemklync/Shopin) **`DEAD`**
+- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
