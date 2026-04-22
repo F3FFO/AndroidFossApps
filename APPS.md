@@ -48,57 +48,57 @@
 
 ## :scroll: Table of Contents
 
-- [:question: IDK](#idk)
-- [:clock1: 2FA](#2fa)
-- [:no_entry_sign: Ad Blocker](#ad-blocker)
-- [:package: App Manager](#app-manager)
-- [:shopping: App Store](#app-store)
-- [:robot: Artificial Intelligence](#artificial-intelligence)
-- [:floppy_disk: Backup](#backup)
-- [:battery: Battery](#battery)
-- [:globe_with_meridians: Browser](#browser)
+- [:question: IDK](#question-idk)
+- [:clock1: 2FA](#clock1-2fa)
+- [:no_entry_sign: Ad Blocker](#noentrysign-ad-blocker)
+- [:package: App Manager](#package-app-manager)
+- [:shopping: App Store](#shopping-app-store)
+- [:robot: Artificial Intelligence](#robot-artificial-intelligence)
+- [:floppy_disk: Backup](#floppydisk-backup)
+- [:battery: Battery](#battery-battery)
+- [:globe_with_meridians: Browser](#globewithmeridians-browser)
   - [Bookmark Manager/Read It Later](#bookmark-managerread-it-later)
   - [Chromium Based](#chromium-based)
   - [Gecko Based (Firefox)](#gecko-based-firefox)
   - [Other](#other)
   - [Tools](#tools)
-- [:1234: Calculator](#calculator)
-- [:calendar: Calendar](#calendar)
-- [:camera: Camera](#camera)
-- [:speech_balloon: Chat & Messaging](#chat-messaging)
+- [:1234: Calculator](#1234-calculator)
+- [:calendar: Calendar](#calendar-calendar)
+- [:camera: Camera](#camera-camera)
+- [:speech_balloon: Chat & Messaging](#speechballoon-chat-messaging)
   - [Matrix](#matrix)
   - [Signal](#signal)
   - [Telegram :warning:](#telegram)
-- [:watch: Clock & Time](#clock-time)
+- [:watch: Clock & Time](#watch-clock-time)
   - [Timer](#timer)
-- [:telephone_receiver: Communication](#communication)
+- [:telephone_receiver: Communication](#telephonereceiver-communication)
   - [Contact](#contact)
   - [Call Blocker/Spam Filter](#call-blockerspam-filter)
   - [Dialer](#dialer)
   - [SMS](#sms)
-- [:joystick: Device automation](#device-automation)
-- [:pencil2: Diary & Journal](#diary-journal)
-- [:books: Dictionary](#dictionary)
-- [:arrow_down: Downloader & Manager](#downloader-manager)
+- [:joystick: Device automation](#joystick-device-automation)
+- [:pencil2: Diary & Journal](#pencil2-diary-journal)
+- [:books: Dictionary](#books-dictionary)
+- [:arrow_down: Downloader & Manager](#arrowdown-downloader-manager)
   - [Book/Ebook](#bookebook)
   - [Music](#music)
   - [Torrent](#torrent)
   - [Video](#video)
   - [YouTube :warning:](#youtube)
-- [:paintbrush: Drawing](#drawing)
-- [:email: Email](#email)
+- [:paintbrush: Drawing](#paintbrush-drawing)
+- [:email: Email](#email-email)
   - [Email Alias](#email-alias)
   - [Email Client](#email-client)
   - [Email Forwarding](#email-forwarding)
-- [:file_folder: File](#file)
+- [:file_folder: File](#filefolder-file)
   - [File Manager](#file-manager)
   - [File Sharing](#file-sharing)
-- [:moneybag: Finance](#finance)
+- [:moneybag: Finance](#moneybag-finance)
   - [Card Wallet](#card-wallet)
   - [Expense Tracker](#expense-tracker)
-- [:card_file_box: Flashcard](#flashcard)
-- [:flashlight: Flashlight](#flashlight)
-- [:video_game: Games & Emulator](#games-emulator)
+- [:card_file_box: Flashcard](#cardfilebox-flashcard)
+- [:flashlight: Flashlight](#flashlight-flashlight)
+- [:video_game: Games & Emulator](#videogame-games-emulator)
   - [Board](#board)
   - [Card](#card)
   - [Educational](#educational)
@@ -110,14 +110,14 @@
   - [Tic Tac Toe](#tic-tac-toe)
   - [Quiz/Trivia](#quiztrivia)
   - [Online](#online)
-- [:flower_playing_cards: Icon Pack](#icon-pack)
-- [:mount_fuji: Image](#image)
+- [:flower_playing_cards: Icon Pack](#flowerplayingcards-icon-pack)
+- [:mount_fuji: Image](#mountfuji-image)
   - [Image Manipulation](#image-manipulation)
   - [Image Viewer & Gallery](#image-viewer-gallery)
-- [:keyboard: Keyboard](#keyboard)
-- [:house: Launcher](#launcher)
-- [:compass: Maps & Navigation](#maps-navigation)
-- [:clapper: Media (Audio/Video)](#media-audiovideo)
+- [:keyboard: Keyboard](#keyboard-keyboard)
+- [:house: Launcher](#house-launcher)
+- [:compass: Maps & Navigation](#compass-maps-navigation)
+- [:clapper: Media (Audio/Video)](#clapper-media-audiovideo)
   - [Equalizer](#equalizer)
   - [Music](#music)
   - [Music/Audio Player](#musicaudio-player)
@@ -130,32 +130,32 @@
   - [Twitch :warning:](#twitch)
   - [Video Player](#video-player)
   - [Video Editor](#video-editor)
-- [:signal_strength: Network](#network)
+- [:signal_strength: Network](#signalstrength-network)
   - [DNS](#dns)
   - [Firewall](#firewall)
   - [Link](#link)
-- [:memo: Note](#note)
-- [:computer: Office](#office)
-- [:broom: Optimizer & Cleaner](#optimizer-cleaner)
-- [:art: Painting](#painting)
-- [:closed_lock_with_key: Password & Authentication](#password-authentication)
-- [:lock: Privacy](#privacy)
+- [:memo: Note](#memo-note)
+- [:computer: Office](#computer-office)
+- [:broom: Optimizer & Cleaner](#broom-optimizer-cleaner)
+- [:art: Painting](#art-painting)
+- [:closed_lock_with_key: Password & Authentication](#closedlockwithkey-password-authentication)
+- [:lock: Privacy](#lock-privacy)
   - [File & App Encryption](#file-app-encryption)
   - [Permission Manager](#permission-manager)
-- [:microphone: Recorder](#recorder)
-- [:book: Reader & Viewer](#reader-viewer)
+- [:microphone: Recorder](#microphone-recorder)
+- [:book: Reader & Viewer](#book-reader-viewer)
   - [PDF](#pdf)
   - [Manga & Anime](#manga-anime)
   - [News](#news)
   - [RSS Reader](#rss-reader)
-- [:mag: Research & Development](#research-development)
-- [:shield: Sandboxing](#sandboxing)
-- [:mortar_board: Science & Education](#science-education)
-- [:microscope: Scanner](#scanner)
+- [:mag: Research & Development](#mag-research-development)
+- [:shield: Sandboxing](#shield-sandboxing)
+- [:mortar_board: Science & Education](#mortarboard-science-education)
+- [:microscope: Scanner](#microscope-scanner)
   - [QR & Barcode Scanner](#qr-barcode-scanner)
   - [Document Scanner](#document-scanner)
-- [:shopping_cart: Shopping](#shopping)
-- [:busts_in_silhouette: Social Network](#social-network)
+- [:shopping_cart: Shopping](#shoppingcart-shopping)
+- [:busts_in_silhouette: Social Network](#bustsinsilhouette-social-network)
   - [Discord :warning:](#discord)
   - [Facebook :warning:](#facebook)
   - [Github :warning:](#github)
@@ -167,10 +167,10 @@
   - [VK :warning:](#vk)
   - [X(Twitter) :warning:](#xtwitter)
   - [Xda :warning:](#xda)
-- [:running: Sport & Health](#sport-health)
+- [:running: Sport & Health](#running-sport-health)
   - [Tracker](#tracker)
-- [:arrows_counterclockwise: Synchronisation](#synchronisation)
-- [:toolbox: System](#system)
+- [:arrows_counterclockwise: Synchronisation](#arrowscounterclockwise-synchronisation)
+- [:toolbox: System](#toolbox-system)
   - [ADB Tools](#adb-tools)
   - [Gesture Control](#gesture-control)
   - [GSI](#gsi)
@@ -180,16 +180,16 @@
   - [SuperUser](#superuser)
   - [Terminal](#terminal)
   - [Theme](#theme)
-- [:black_nib: Text Editor & Code Editor/IDE](#text-editor-code-editoride)
-- [:speaking_head: Text-to-Speech](#text-to-speech)
-- [:clipboard: ToDo List](#todo-list)
-- [:secret: Translator](#translator)
-- [:anchor: URL Manipulation](#url-manipulation)
-- [:wrench: Utilities](#utilities)
-- [:package: VM](#vm)
-- [:earth_africa: VPN](#vpn)
-- [:iphone: Wallpaper](#wallpaper)
-- [:sunny: Weather](#weather)
+- [:black_nib: Text Editor & Code Editor/IDE](#blacknib-text-editor-code-editoride)
+- [:speaking_head: Text-to-Speech](#speakinghead-text-to-speech)
+- [:clipboard: ToDo List](#clipboard-todo-list)
+- [:secret: Translator](#secret-translator)
+- [:anchor: URL Manipulation](#anchor-url-manipulation)
+- [:wrench: Utilities](#wrench-utilities)
+- [:package: VM](#package-vm)
+- [:earth_africa: VPN](#earthafrica-vpn)
+- [:iphone: Wallpaper](#iphone-wallpaper)
+- [:sunny: Weather](#sunny-weather)
 
 ---
 
@@ -224,7 +224,7 @@
 
 - [AdAway](https://github.com/AdAway/AdAway)
 - [Blokada](https://github.com/blokadaorg/blokada)
-- [DNS66](https://github.com/julian-klode/dns66) **`DEAD`**
+- [DNS66](https://github.com/julian-klode/dns66)
   - [DNSNet](https://github.com/t895/DNSNet) **`FORK`**
 - [DNSFilter](https://github.com/IngoZenz/personaldnsfilter)
 
@@ -235,7 +235,7 @@
 ### :package: App Manager
 
 - [App Manager](https://github.com/MuntashirAkon/AppManager)
-- [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector)
+- [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`DEAD`**
   - [Ruru](https://github.com/byxiaorun/Ruru) **`FORK`**
 - [FreezeYou](https://github.com/FreezeYou/FreezeYou)
 - [Hail](https://github.com/aistra0528/Hail)
@@ -250,7 +250,7 @@
 
 - [Accrescent](https://github.com/accrescent/accrescent)
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
-  - [APKGrabber](https://github.com/hemker/apkgrabber) **`FORK`**
+  - [APKGrabber](https://github.com/hemker/apkgrabber) **`FORK`** **`DEAD`**
 - [Appteka](https://github.com/solkin/appteka-android)
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
@@ -263,8 +263,8 @@
 - [Obtainium](https://github.com/ImranR98/Obtainium)
   - [Updatium](https://github.com/omeritzics/Updatium) **`FORK`**
 - [Orion Store](https://github.com/RookieEnough/Orion-Store)
-- [Sky Droid](https://github.com/redsolver/skydroid)
-- [Update Me](https://github.com/anfreire/updateMe-Mobile)
+- [Sky Droid](https://github.com/redsolver/skydroid) **`DEAD`**
+- [Update Me](https://github.com/anfreire/updateMe-Mobile) **`DEAD`**
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 - [Zapstore](https://github.com/zapstore/zapstore)
 
@@ -275,8 +275,8 @@
 ### :robot: Artificial Intelligence
 
 - [AI Hub](https://github.com/SilentCoderHere/aihub)
-- [BotForge](https://github.com/L4TTiCe/BotForge) **`DEAD`**
-- [Colors AI](https://github.com/tsinis/colors_ai)
+- [BotForge](https://github.com/L4TTiCe/BotForge)
+- [Colors AI](https://github.com/tsinis/colors_ai) **`DEAD`**
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android) **`DEAD`**
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
@@ -301,9 +301,9 @@
 ### :battery: Battery
 
 - [ACCA](https://github.com/MatteCarra/AccA) **`DEAD`**
-- [Battery Tool](https://github.com/Domi04151309/BatteryTool) **`DEAD`**
-- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro) **`DEAD`**
-- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`DEAD`**
+- [Battery Tool](https://github.com/Domi04151309/BatteryTool)
+- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
+- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Wattz](https://github.com/dubrowgn/wattz)
@@ -336,19 +336,19 @@
 - [Firefox Browser](https://hg.mozilla.org/mozilla-central)
   - [Fennec](https://gitlab.com/relan/fennecbuild) **`FORK`**
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
-  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
+  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
   - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
 - [Firefox Focus](https://hg.mozilla.org/mozilla-central)
   - [Fennec](https://gitlab.com/relan/fennecbuild) **`FORK`**
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
-  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
+  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
   - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
 - [Firefox Klar](https://hg.mozilla.org/mozilla-central)
   - [Fennec](https://gitlab.com/relan/fennecbuild) **`FORK`**
   - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) **`FORK`**
-  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
+  - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
   - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
 - [WebLibre](https://github.com/FaFre/WebLibre) **`FORK`**
@@ -364,7 +364,7 @@
 - [Monocles Browser](https://codeberg.org/Arne/monocles_browser)
 - [Privacy Browser](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git)
 - [searxist](https://codeberg.org/Linerly/searxist)
-- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) **`DEAD`**
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb)
 
 #### Tools
 
@@ -380,18 +380,18 @@
 ### :1234: Calculator
 
 - [ArityCalc](https://github.com/woheller69/Arity)
-- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator)
+- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`DEAD`**
 - [Currencies](https://github.com/sal0max/currencies)
 - [CuteCalc](https://github.com/sosauce/CuteCalc)
 - [Fossify Calculator](https://github.com/FossifyOrg/Calculator)
-- [MathCalculator](https://github.com/v1tzor/MathCalculator)
-- [Mint Calculator](https://github.com/boredcodebyk/mintcalc)
+- [MathCalculator](https://github.com/v1tzor/MathCalculator) **`DEAD`**
+- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`DEAD`**
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
 - [Unitto](https://github.com/sadellie/unitto)
   - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
-- [zCalc](https://github.com/ziadOUA/zCalc)
+- [zCalc](https://github.com/ziadOUA/zCalc) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -432,8 +432,8 @@
   - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic) **`FORK`**
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
-- [Kontalk](https://github.com/kontalk/androidclient)
-- [KouChat](https://github.com/blurpy/kouchat-android)
+- [Kontalk](https://github.com/kontalk/androidclient) **`DEAD`**
+- [KouChat](https://github.com/blurpy/kouchat-android) **`DEAD`**
 - [Manyverse](https://gitlab.com/staltz/manyverse)
 - [Meshenger](https://github.com/meshenger-app/meshenger-android)
 - [Messages](https://github.com/ThriveEngineer/messages)
@@ -457,9 +457,9 @@
 
 - [Signal](https://github.com/signalapp/Signal-Android)
   - [Molly](https://github.com/mollyim/mollyim-android) **`FORK`**
-  - [Session Android](https://github.com/oxen-io/session-android) **`FORK`**
+  - [Session Android](https://github.com/oxen-io/session-android) **`FORK`** **`DEAD`**
   - [Signal](https://github.com/johanw666/Signal-Android) **`FORK`**
-  - [Signal (FOSS)](https://github.com/tw-hx/Signal-Android) **`FORK`**
+  - [Signal (FOSS)](https://github.com/tw-hx/Signal-Android) **`FORK`** **`DEAD`**
 
 #### Telegram
 
@@ -468,7 +468,7 @@
 
 - [Telegram](https://github.com/DrKLO/Telegram)
   - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`FORK`**
-  - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`**
+  - [exteraGram](https://github.com/exteraSquad/exteraGram) **`FORK`** **`DEAD`**
   - [Forkgram](https://github.com/Forkgram/TelegramAndroid) **`FORK`**
   - [LilGram](https://github.com/lilchill666/LilGram) **`FORK`**
   - [Momogram](https://github.com/dic1911/Momogram) **`FORK`**
@@ -499,7 +499,7 @@
 - [Clock](https://github.com/qw123wh/new-clock-fdroid)
 - [Clock You](https://github.com/you-apps/ClockYou)
 - [Fossify Clock](https://github.com/FossifyOrg/Clock)
-- [Overload](https://github.com/pablo03v/Overload) **`DEAD`**
+- [Overload](https://github.com/pablo03v/Overload)
 - [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock)
 
 #### Timer
@@ -545,7 +545,7 @@
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [Messages](https://github.com/PVOT-OSS/Messages) **`FORK`**
-- [QKSMS](https://github.com/moezbhatti/qksms)
+- [QKSMS](https://github.com/moezbhatti/qksms) **`DEAD`**
   - [Messages](https://github.com/PVOT-OSS/Messages) **`FORK`**
   - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
 - [Right Messages](https://github.com/Goodwy/Messages)
@@ -584,7 +584,7 @@
 - [Aard 2](https://github.com/itkach/aard2-android)
   - [OSS-Dict](https://github.com/farfromrefug/OSS-Dict) **`FORK`**
 - [Ciyue](https://github.com/mumu-lhl/Ciyue)
-- [Collins Dictionary](https://github.com/Konyaco/CollinsDictionary)
+- [Collins Dictionary](https://github.com/Konyaco/CollinsDictionary) **`DEAD`**
 - [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp)
 - [Notification Dictionary](https://github.com/tirkarthi/NotificationDictionary)
 - [QDict](https://github.com/marmistrz/QDict)
@@ -601,7 +601,7 @@
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [FetchIt](https://github.com/tharunbirla/FetchIt)
 - [Snatchy](https://github.com/BERLINx03/snatchy)
-- [SubHub](https://github.com/FunkyMuse/SubHub)
+- [SubHub](https://github.com/FunkyMuse/SubHub) **`DEAD`**
 
 #### Book/Ebook
 
@@ -613,7 +613,7 @@
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
 - [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
-- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer)
+- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer) **`DEAD`**
 - [Helio](https://github.com/helio-fm/helio-sequencer)
 - [Hexpress](https://github.com/jmiskovic/hexpress)
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
@@ -628,7 +628,7 @@
 - [Rush](https://github.com/shub39/Rush)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-- [Spowlo](https://github.com/BobbyESP/Spowlo)
+- [Spowlo](https://github.com/BobbyESP/Spowlo) **`DEAD`**
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
 
@@ -642,7 +642,7 @@
 
 #### Video
 
-- [dvd](https://github.com/yausername/dvd)
+- [dvd](https://github.com/yausername/dvd) **`DEAD`**
 - [SuperX](https://github.com/alexch33/super-video-downloader)
 
 #### YouTube
@@ -650,7 +650,7 @@
 > [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Clipious](https://github.com/lamarios/clipious)
+- [Clipious](https://github.com/lamarios/clipious) **`DEAD`**
 - [Hyperion](https://github.com/zt64/Hyperion)
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
@@ -704,7 +704,7 @@
 - [K-9 Mail/Thunderbird Android](https://github.com/thunderbird/thunderbird-android)
   - [monocles mail](https://codeberg.org/Arne/monocles_mail) **`FORK`**
 - [Ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android)
-- [Proton Mail](https://github.com/ProtonMail/proton-mail-android)
+- [Proton Mail](https://github.com/ProtonMail/proton-mail-android) **`DEAD`**
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-Android)
 - [Tutanota](https://github.com/tutao/tutanota)
 
@@ -743,7 +743,7 @@
 - [FTPClient](https://codeberg.org/qwerty287/ftpclient)
 - [LocalSend](https://github.com/localsend/localsend)
 - [ShareX](https://github.com/akanshSirohi/ShareX)
-- [Sharik](https://github.com/marchellodev/sharik)
+- [Sharik](https://github.com/marchellodev/sharik) **`DEAD`**
 - [Snapdrop & PairDrop for Android](https://github.com/fm-sys/snapdrop-android)
 - [Warpinator](https://github.com/slowscript/warpinator-android)
 - [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android)
@@ -780,11 +780,11 @@
 ### :card_file_box: Flashcard
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-  - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) **`FORK`**
-  - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) **`FORK`**
+  - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) **`FORK`** **`DEAD`**
+  - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) **`FORK`** **`DEAD`**
 - [Flash Deck](https://github.com/rh-id/a-flash-deck)
 - [ForgetMeNot](https://github.com/tema6120/ForgetMeNot)
-- [Yokatta](https://github.com/uestueab/app-thesis)
+- [Yokatta](https://github.com/uestueab/app-thesis) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -794,7 +794,7 @@
 
 - [An Light | Flashlight](https://github.com/neophtex/An-Light-Flashlight)
 - [FlashDim](https://github.com/cyb3rko/flashdim)
-- [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu)
+- [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`DEAD`**
 - [Flashy](https://github.com/Crazy-Marvin/Flashy)
 - [Fossify Flashlight](https://github.com/FossifyOrg/Flashlight)
 - [Lumolight](https://github.com/BitMavrick/Lumolight)
@@ -813,8 +813,8 @@
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
-- [Open Golf](https://github.com/mgerdes/Open-Golf)
-- [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
+- [Open Golf](https://github.com/mgerdes/Open-Golf) **`DEAD`**
+- [Pocket Broomball](https://github.com/dulvui/pocket-broomball) **`DEAD`**
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
 - [Ricochlime](https://github.com/adil192/ricochlime)
 - [Tessel](https://github.com/gvtulder/tessel)
@@ -829,11 +829,11 @@
 - [Flang](https://codeberg.org/jannis/FlangAndroid)
 - [Freebloks](https://github.com/shlusiak/Freebloks-Android)
 - [Halma](https://github.com/Crazy-Marvin/Halma)
-- [Lichess](https://github.com/lichess-org/lichobile)
+- [Lichess](https://github.com/lichess-org/lichobile) **`DEAD`**
 - [lidraughts](https://github.com/roepstoep/lidraughts)
 - [Mill](https://github.com/calcitem/Sanmill)
 - [Open Chaos Chess](https://github.com/CorruptedArk/open-chaos-chess)
-- [Scid on the go](https://github.com/gkalab/scidonthego)
+- [Scid on the go](https://github.com/gkalab/scidonthego) **`DEAD`**
 - [Simple Chess Clock](https://github.com/simenheg/simple-chess-clock)
 - [wuziqi](https://github.com/iacobo/wuziqi)
 
@@ -847,8 +847,8 @@
 - [Digits](https://github.com/foxtrotdev/learn-digits)
 - [Everest](https://github.com/mwageringel/everest)
 - [GCompris](https://invent.kde.org/education/gcompris.git)
-- [Geoperion](https://github.com/vulnerabbity/Geoperion)
-- [Learning Memory](https://github.com/niccokunzmann/app.memory.quelltext.eu)
+- [Geoperion](https://github.com/vulnerabbity/Geoperion) **`DEAD`**
+- [Learning Memory](https://github.com/niccokunzmann/app.memory.quelltext.eu) **`DEAD`**
 - [Quick Calculation](https://github.com/SubhamTyagi/quick-calculation)
 - [RUTMath](https://github.com/przemarbor/RUTMath)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
@@ -886,7 +886,7 @@
 
 #### Snake
 
-- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game)
+- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`DEAD`**
 - [Snakes](https://gitlab.com/mir06/snakes)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 
@@ -920,11 +920,11 @@
 - [Arcticons](https://github.com/Donnnno/Arcticons)
 - [Blueprint](https://github.com/jahirfiquitiva/Blueprint)
 - [Delta Icon Pack](https://github.com/Delta-Icons)
-- [DGicons Monet](https://github.com/WaifuPX-DG/DGicons)
+- [DGicons Monet](https://github.com/WaifuPX-DG/DGicons) **`DEAD`**
 - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - [Iconeration](https://codeberg.org/kaanelloed/Iconeration)
 - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-- [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons)
+- [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -943,7 +943,7 @@
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
 - [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur)
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
-- [SuperImage](https://github.com/Lucchetto/SuperImage)
+- [SuperImage](https://github.com/Lucchetto/SuperImage) **`DEAD`**
 
 #### Image Viewer & Gallery
 
@@ -951,7 +951,7 @@
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 - [Gallery](https://github.com/IacobIonut01/Gallery)
 - [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos)
-- [miniGallery](https://github.com/kabirnayeem99/miniGallery)
+- [miniGallery](https://github.com/kabirnayeem99/miniGallery) **`DEAD`**
 - [OneUI Gallery Clone](https://github.com/ShabdVasudeva/OneUI-Gallery-Clone)
 - [Right Gallery](https://github.com/Goodwy/Gallery)
 - [Stingle Photos](https://github.com/stingle/stingle-photos-android)
@@ -1012,11 +1012,11 @@
 - [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher)
 - [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
-  - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF) **`FORK`**
+  - [Olauncher CF](https://github.com/OlauncherCF/OlauncherCF) **`FORK`** **`DEAD`**
 - [OpenLauncher](https://github.com/BennyKok/OpenLauncher)
 - [PaperLaunch](https://github.com/devmil/PaperLaunch)
 - [Pie Launcher](https://github.com/markusfisch/PieLauncher)
-- [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3)
+- [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3) **`DEAD`**
 - [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
@@ -1039,11 +1039,11 @@
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
   - [CoMaps](https://codeberg.org/comaps/comaps) **`FORK`**
 - [OsmAnd~](https://github.com/osmandapp/OsmAnd)
-- [Private Location](https://github.com/wesaphzt/privatelocation)
+- [Private Location](https://github.com/wesaphzt/privatelocation) **`DEAD`**
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
 - [Transito](https://git.sr.ht/~mil/transito)
 - [Transportr](https://github.com/grote/transportr)
-- [Trekarta](https://github.com/andreynovikov/trekarta)
+- [Trekarta](https://github.com/andreynovikov/trekarta) **`DEAD`**
 - [Tridenta](https://github.com/Stypox/tridenta)
 - [Vespucci](https://github.com/MarcusWolschon/osmeditor4android)
 - [μlogger](https://github.com/bfabiszewski/ulogger-android)
@@ -1063,7 +1063,7 @@
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
 - [ChordReader 2](https://github.com/AndInTheClouds/chordreader2)
-- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer)
+- [GuitarFretboardTrainer](https://gitlab.com/pandagoespoop/guitarfretboardtrainer) **`DEAD`**
 - [Helio](https://github.com/helio-fm/helio-sequencer)
 - [Hexpress](https://github.com/jmiskovic/hexpress)
 - [Liedgutverzeichnis](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis)
@@ -1078,7 +1078,7 @@
 - [Rush](https://github.com/shub39/Rush)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-- [Spowlo](https://github.com/BobbyESP/Spowlo)
+- [Spowlo](https://github.com/BobbyESP/Spowlo) **`DEAD`**
 - [Tack](https://github.com/patzly/tack-android)
 - [Tuner](https://github.com/thetwom/Tuner)
 
@@ -1096,27 +1096,27 @@
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player)
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Howl](https://github.com/Iamlooker/Howl) **`DEAD`**
-- [little music player](https://github.com/martinmimigames/little-music-player) **`DEAD`**
+- [little music player](https://github.com/martinmimigames/little-music-player)
 - [Lotus](https://github.com/dn0ne/lotus)
 - [M3UAndroid](https://github.com/oxyroid/M3UAndroid)
-- [mucke](https://github.com/moritz-weber/mucke) **`DEAD`**
+- [mucke](https://github.com/moritz-weber/mucke)
 - [Music](https://github.com/MissingCore/Music)
 - [Music Player GO](https://github.com/enricocid/Music-Player-GO) **`DEAD`**
 - [Musify](https://github.com/gokadzev/Musify)
 - [Namida](https://github.com/namidaco/namida)
-- [Noad Player](https://github.com/gauravjot/android-noad-music-player)
-- [Odeon](https://github.com/thibseisel/android-odeon) **`DEAD`**
+- [Noad Player](https://github.com/gauravjot/android-noad-music-player) **`DEAD`**
+- [Odeon](https://github.com/thibseisel/android-odeon)
 - [Odyssey](https://github.com/gateship-one/odyssey)
 - [phiola](https://github.com/stsaz/phiola)
-- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
+- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus) **`DEAD`**
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
-- [RadioDroid](https://github.com/segler-alex/RadioDroid) **`DEAD`**
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   - [Metro](https://github.com/MuntashirAkon/Metro) **`FORK`** **`DEAD`**
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`DEAD`**
 - [SoundCrowd](https://github.com/soundcrowd/soundcrowd)
 - [Symphony](https://github.com/zyrouge/symphony)
-- [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player) **`DEAD`**
+- [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player)
 - [Transistor](https://codeberg.org/y20k/transistor)
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
@@ -1130,7 +1130,7 @@
 - [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
 - [Podcini](https://github.com/XilinJia/Podcini)
 - [Podverse](https://github.com/podverse/podverse-fdroid)
-- [Tsacdop](https://github.com/stonega/tsacdop)
+- [Tsacdop](https://github.com/stonega/tsacdop) **`DEAD`**
 - [Voice](https://github.com/PaulWoitaschek/Voice)
 
 #### Subsonic Client
@@ -1148,7 +1148,7 @@
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Jetispot](https://github.com/iTaysonLab/jetispot) **`DEAD`**
-  - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`**
+  - [Jetispot](https://github.com/BobbyESP/Jetispot) **`FORK`** **`DEAD`**
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 #### Streaming
@@ -1165,7 +1165,7 @@
 > [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Clipious](https://github.com/lamarios/clipious)
+- [Clipious](https://github.com/lamarios/clipious) **`DEAD`**
 - [Hyperion](https://github.com/zt64/Hyperion)
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [LightTube](https://github.com/lighttube-org/LightTube-Android) **`DEAD`**
@@ -1211,7 +1211,7 @@
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
-  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
+  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`**
   - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
   - [Music You](https://github.com/DanielSevillano/music-you) **`FORK`**
 - [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
@@ -1232,7 +1232,7 @@
 - [Just (Video) Player](https://github.com/moneytoo/Player)
 - [mpv for Android](https://github.com/mpv-android/mpv-android)
   - [mpvEx](https://github.com/marlboro-advance/mpvEx) **`FORK`**
-  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`**
+  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`** **`DEAD`**
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [Phocid](https://github.com/tjysunset/phocid)
@@ -1252,14 +1252,14 @@
 - [ByeDPI for Android](https://github.com/dovecoteescapee/ByeDPIAndroid)
 - [Find My IP](https://github.com/maksimowiczm/find-my-ip)
 - [Oblivion](https://github.com/bepass-org/oblivion)
-- [OONI Probe](https://github.com/ooni/probe-android)
+- [OONI Probe](https://github.com/ooni/probe-android) **`DEAD`**
 - [Orbot](https://github.com/guardianproject/orbot)
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 - [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 
 #### DNS
 
-- [DNS66](https://github.com/julian-klode/dns66) **`DEAD`**
+- [DNS66](https://github.com/julian-klode/dns66)
 - [personalDNSfilterDNS66](https://github.com/IngoZenz/personaldnsfilter)
 - [Rethink](https://github.com/celzero/rethink-app)
 
@@ -1284,17 +1284,17 @@
 ### :memo: Note
 
 - [Another notes app](https://github.com/maltaisn/another-notes-app)
-- [Ara Note](https://github.com/hashemi-hossein/ara-note)
+- [Ara Note](https://github.com/hashemi-hossein/ara-note) **`DEAD`**
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT)
 - [Butterfly](https://github.com/LinwoodDev/Butterfly)
 - [Carnet](https://github.com/CarnetApp/CarnetAndroid/)
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
-- [Firenote](https://github.com/T8RIN/Firenote)
+- [Firenote](https://github.com/T8RIN/Firenote) **`DEAD`**
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [Joplin](https://github.com/laurent22/joplin)
 - [jtx Board](https://github.com/TechbeeAT/jtxBoard)
-- [JustNotes](https://github.com/jjewuz/JustNotes)
+- [JustNotes](https://github.com/jjewuz/JustNotes) **`DEAD`**
 - [Kolab Notes](https://github.com/konradrenner/kolabnotes-android)
 - [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly)
 - [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
@@ -1317,14 +1317,14 @@
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 - [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) **`DEAD`**
   - [Kori](https://github.com/YangDai2003/Kori) **`FORK`**
-- [Orgzly](https://github.com/orgzly/orgzly-android) **`DEAD`**
+- [Orgzly](https://github.com/orgzly/orgzly-android)
   - [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) **`FORK`**
 - [Privacy Friendly Notes](https://github.com/SecUSo/privacy-friendly-notes)
 - [Quillpad](https://github.com/quillpad/quillpad)
-- [Ruslin](https://github.com/ruslin-note/ruslin-android)
+- [Ruslin](https://github.com/ruslin-note/ruslin-android) **`DEAD`**
 - [Saber](https://github.com/adil192/saber)
 - [Safe Notes](https://github.com/keshav-space/safenotes/)
-- [Simple Material Notes](https://github.com/RafhaanShah/Simple-Notes)
+- [Simple Material Notes](https://github.com/RafhaanShah/Simple-Notes) **`DEAD`**
 - [sNotz](https://github.com/sunilpaulmathew/sNotz)
 - [Standard Notes](https://github.com/standardnotes/app)
 - [uNote](https://gitlab.com/Varlorg/uNote/)
@@ -1370,20 +1370,20 @@
 
 ### :closed_lock_with_key: Password & Authentication
 
-- [Bitwarden](https://github.com/bitwarden/mobile)
+- [Bitwarden](https://github.com/bitwarden/mobile) **`DEAD`**
 - [Keepass2Android](https://github.com/PhilippC/keepass2android)
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 - [Keyguard](https://github.com/AChep/keyguard-app)
-- [KeyManager](https://github.com/Yash-Garg/KeyManager)
+- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`DEAD`**
 - [Keyoxide](https://codeberg.org/keyoxide/keyoxide-flutter)
 - [KeyPass](https://github.com/yogeshpaliyal/KeyPass)
-- [KeySpace](https://github.com/Keyspace-cloud/android)
+- [KeySpace](https://github.com/Keyspace-cloud/android) **`DEAD`**
 - [KuPass](https://github.com/achmaddaniel24/kupass.git)
-- [LibrePass](https://github.com/LibrePass/LibrePass-Android)
+- [LibrePass](https://github.com/LibrePass/LibrePass-Android) **`DEAD`**
 - [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords)
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
-- [Pazzword](https://github.com/cyb3rko/pazzword)
-- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass)
+- [Pazzword](https://github.com/cyb3rko/pazzword) **`DEAD`**
+- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`DEAD`**
 - [Vault](https://github.com/arsvechkarev/Vault)
 - [Wassword](https://github.com/polilluminato/wassword-flutter)
 
@@ -1401,7 +1401,7 @@
 - [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit)
 - [InviZible Pro](https://github.com/Gedsh/InviZible)
 - [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian)
-- [Privacy Indicator](https://github.com/NitishGadangi/Privacy-Indicator-App)
+- [Privacy Indicator](https://github.com/NitishGadangi/Privacy-Indicator-App) **`DEAD`**
 - [Rethink DNS](https://github.com/celzero/rethink-app)
 - [Safe Space](https://github.com/aashishksahu/SafeSpace)
 - [SelfPrivacy](https://git.selfprivacy.org/kherel/selfprivacy.org.app)
@@ -1411,7 +1411,7 @@
 
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider)
 - [AstraCrypt](https://github.com/gromif/AstraCrypt)
-- [Confidant](https://github.com/YangDai-Github/Encryptor-Android)
+- [Confidant](https://github.com/YangDai-Github/Encryptor-Android) **`DEAD`**
 - [DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt)
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 
@@ -1469,7 +1469,7 @@
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) **`DEAD`**
   - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Hentoid](https://github.com/avluis/Hentoid)
-  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`** **`DEAD`**
+  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`DEAD`**
@@ -1561,8 +1561,8 @@
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [Pixel Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
 - [Privacy Friendly QR Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
-- [QR & Barcode Scanner](https://github.com/wewewe718/QrAndBarcodeScanner)
-- [SecScanQR](https://github.com/Fr4gorSoftware/SecScanQR)
+- [QR & Barcode Scanner](https://github.com/wewewe718/QrAndBarcodeScanner) **`DEAD`**
+- [SecScanQR](https://github.com/Fr4gorSoftware/SecScanQR) **`DEAD`**
 - [Simple QR](https://github.com/tomfong/simple-qr)
 
 #### Document Scanner
@@ -1598,7 +1598,7 @@
 - [OpenCord](https://github.com/topminipie/OpenCord) **`DEAD`**
   - [OpenCord](https://github.com/MateriiApps/OpenCord) **`FORK`** **`DEAD`**
 - [Vendetta](https://github.com/vendetta-mod/Vendetta) **`DEAD`**
-  - [Revenge](https://github.com/revenge-mod/Revenge) **`FORK`** **`DEAD`**
+  - [Revenge](https://github.com/revenge-mod/Revenge) **`FORK`**
 - [Vendroid](https://github.com/Vencord/Vendroid)
 
 #### Facebook
@@ -1616,7 +1616,7 @@
 - [DioHub](https://github.com/NamanShergill/diohub)
 - [Gloom - GitHub](https://github.com/MateriiApps/Gloom)
 - [OctoDroid](https://github.com/slapperwan/gh4a)
-  - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`**
+  - [OctoDroid MD](https://github.com/Sohil876/Octodroid_md) **`FORK`** **`DEAD`**
 
 #### Lemmy
 
@@ -1632,11 +1632,11 @@
 - [Dimett](https://github.com/MateriiApps/Dimett)
 - [Firefly](https://github.com/Firefly-Social/Firefly)
 - [Mastodon](https://github.com/mastodon/mastodon-android)
-  - [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`FORK`**
+  - [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`FORK`** **`DEAD`**
   - [Moshidon](https://github.com/LucasGGamerM/moshidon) **`FORK`**
-- [monocles social](https://codeberg.org/Arne/monocles_social)
+- [monocles social](https://codeberg.org/Arne/monocles_social) **`DEAD`**
 - [Pachli](https://github.com/pachli/pachli-android)
-- [Tusky](https://github.com/tuskyapp/Tusky)
+- [Tusky](https://github.com/tuskyapp/Tusky) **`DEAD`**
 
 #### Pixiv
 
@@ -1652,7 +1652,7 @@
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
   - [Continuum](https://github.com/cygnusx-1-org/continuum) **`FORK`**
-- [Pineapple](https://github.com/galaxygoldfish/pineapple) **`DEAD`**
+- [Pineapple](https://github.com/galaxygoldfish/pineapple)
 - [RedReader](https://github.com/QuantumBadger/RedReader)
 - [Slide](https://github.com/ccrama/Slide) **`DEAD`**
 - [Stealth](https://gitlab.com/cosmosapps/stealth)
@@ -1669,14 +1669,14 @@
 > [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [VTosters lite](https://github.com/vtosters/lite)
+- [VTosters lite](https://github.com/vtosters/lite) **`DEAD`**
 
 #### X(Twitter)
 
 > [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [Harpy](https://github.com/robertodoering/harpy) **`DEAD`**
+- [Harpy](https://github.com/robertodoering/harpy)
 - [Quacker](https://github.com/TheHCJ/Quacker) **`DEAD`**
 - [Squawker](https://github.com/j-fbriere/squawker)
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) **`DEAD`**
@@ -1687,7 +1687,7 @@
 > [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
-- [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases)
+- [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1700,7 +1700,7 @@
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
 - [fMassive](https://gitea.presley.nz/brandon.presley/fmassive)
 - [Food-E](https://github.com/SuhasDissa/Food-E-App)
-- [HeartBeat](https://github.com/berdosi/HeartBeat)
+- [HeartBeat](https://github.com/berdosi/HeartBeat) **`DEAD`**
 - [hEARtest](https://github.com/woheller69/audiometry)
 - [Insigno](https://github.com/MindsHub/insigno_frontend)
 - [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer)
@@ -1715,7 +1715,7 @@
 
 #### Tracker
 
-- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) **`DEAD`**
 - [Digitally](https://github.com/nicanor-jay/digitally)
 - [Drip](https://gitlab.com/bloodyhealth/drip)
 - [FitBook](https://github.com/brandonp2412/FitBook)
@@ -1724,11 +1724,11 @@
 - [FoodYou](https://github.com/maksimowiczm/FoodYou)
 - [GymRoutines](https://codeberg.org/noahjutz/GymRoutines)
 - [Habit-Maker](https://github.com/dessalines/habit-maker)
-- [Kenko](https://github.com/Iamlooker/Kenko)
+- [Kenko](https://github.com/Iamlooker/Kenko) **`DEAD`**
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
 - [Norm](https://github.com/tusharonly/norm)
-- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
+- [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) **`DEAD`**
 - [Paseo](https://gitlab.com/pardomi/paseo/tree/HEAD)
 - [Sobriety](https://github.com/KiARC/Sobriety)
 - [Stepsy](https://github.com/nvllz/stepsy)
@@ -1743,7 +1743,7 @@
 ### :arrows_counterclockwise: Synchronisation
 
 - [DAVx⁵](https://www.davx5.com/)
-- [DecSync CC](https://github.com/39aldo39/DecSyncCC)
+- [DecSync CC](https://github.com/39aldo39/DecSyncCC) **`DEAD`**
 - [EteSync](https://github.com/etesync/android)
 - [floccus](https://github.com/floccusaddon/floccus)
 - [Nextcloud](https://github.com/nextcloud/android)
@@ -1751,7 +1751,7 @@
 - [Seafile](https://github.com/haiwen/seadroid)
 - [Snapdrop](https://github.com/fm-sys/snapdrop-android)
 - [Syncopoli](https://gitlab.com/fengshaun/syncopoli)
-- [Syncthing](https://github.com/syncthing/syncthing-android)
+- [Syncthing](https://github.com/syncthing/syncthing-android) **`DEAD`**
   - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) **`FORK`**
 - [xBrowserSync](https://github.com/xbrowsersync/app)
 - [Zimly](https://github.com/zimly/zimly-backup)
@@ -1786,7 +1786,7 @@
 - [AShell You](https://github.com/DP-Hridayan/ashell)
 - [camsung](https://github.com/ericswpark/camsung)
 - [LogFox](https://github.com/F0x1d/LogFox)
-- [Scoop](https://github.com/TacoTheDank/Scoop)
+- [Scoop](https://github.com/TacoTheDank/Scoop) **`DEAD`**
 - [WADBS](https://github.com/Smooth-E/wireless-adb-switch)
 
 #### Gesture Control
@@ -1830,7 +1830,7 @@
 #### Theme
 
 - [Dark theme](https://github.com/phstudio2/Darktheme)
-- [DarQ](https://github.com/KieronQuinn/DarQ)
+- [DarQ](https://github.com/KieronQuinn/DarQ) **`DEAD`**
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -1840,7 +1840,7 @@
 ### :black_nib: Text Editor & Code Editor/IDE
 
 - [Acode](https://acode.foxdebug.com/)
-- [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+- [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) **`DEAD`**
 - [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide)
 - [DroidVim](https://github.com/shiftrot/droidvim)
 - [Editor](https://github.com/billthefarmer/editor)
@@ -1874,7 +1874,7 @@
 
 - [Doable](https://codeberg.org/florian-obernberger/flutter-doable)
 - [Karui ToDo](https://github.com/ronynn/karui)
-- [Mint Task](https://github.com/boredcodebyk/minttask)
+- [Mint Task](https://github.com/boredcodebyk/minttask) **`DEAD`**
 - [PocketPlan](https://github.com/RayLeaf-Studios/PocketPlan)
 - [Snaptick](https://github.com/vishal2376/snaptick)
 - [Tasks](https://github.com/tasks/tasks)
@@ -1974,15 +1974,15 @@
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 - [Bura](https://github.com/davidtakac/bura)
 - [Cirrus](https://github.com/woheller69/omweather)
-- [Clima](https://github.com/Lacerte/clima)
+- [Clima](https://github.com/Lacerte/clima) **`DEAD`**
 - [Forecastie](https://github.com/martykan/forecastie)
 - [omWeather](https://github.com/woheller69/omweather)
 - [Overmorrow](https://github.com/bmaroti9/Overmorrow)
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [RadarWeather](https://github.com/woheller69/weather)
 - [Rain](https://github.com/DarkMooNight/Rain)
-- [Veterondo](https://github.com/Antonis427/veterondo)
-- [Weather](https://codeberg.org/Beowulf/Weather)
+- [Veterondo](https://github.com/Antonis427/veterondo) **`DEAD`**
+- [Weather](https://codeberg.org/Beowulf/Weather) **`DEAD`**
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
