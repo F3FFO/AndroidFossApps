@@ -106,12 +106,15 @@ async function load() {
     ]);
 
     if (!appsRes.ok) throw new Error('Failed to load apps.json');
-    apps = await appsRes.json();
+    const mainApps = await appsRes.json();
 
     if (recentRes?.ok) {
       const recentData = await recentRes.json();
       const recent = recentData.apps || recentData;
       recentUrls = new Set(recent.map(r => r.url));
+      apps = [...mainApps, ...recent];
+    } else {
+      apps = mainApps;
     }
 
     buildTagChips(apps, tagContainer, (tag, checked) => {
