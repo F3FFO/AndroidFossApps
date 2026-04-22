@@ -1,8 +1,8 @@
 name: Monthly Dead & 404 Check
 
 on:
-#  schedule:
-#    - cron: '0 6 1 * *'
+  schedule:
+    - cron: '0 6 1 * *'
   workflow_dispatch:
 
 permissions:
