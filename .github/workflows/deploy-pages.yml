@@ -1,0 +1,59 @@
+name: Deploy GitHub Pages
+
+on:
+#  push:
+#    branches: [main]
+#    paths:
+#      - 'index.html'
+#      - 'css/**'
+#      - 'js/**'
+#      - 'apps.json'
+#      - 'recently-added.json'
+#      - 'scripts/generate-readme.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build APPS.md
+        run: node scripts/generate-readme.js
+
+      - name: Commit APPS.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add APPS.md
+          git diff --cached --quiet && exit 0
+          git commit -m "docs: regenerate APPS.md"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,33 @@
+name: Rotate Recently Added
+
+on:
+#  push:
+#    branches: [main]
+#    paths:
+#      - 'recently-added.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rotate
+        run: node scripts/rotate-recent.js
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apps.json recently-added.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: rotate recently-added overflow"
+          git push
