@@ -33,9 +33,13 @@ This repository maintains a curated list of **1000+** free and open source Andro
 
 ## Contributing
 
-Want to add an app? Edit `apps.json` and submit a pull request. The `APPS.md` file is auto-generated from `apps.json` — please don't edit it directly.
+Want to add an app? Open an issue using the **[New App]** template or submit a pull request editing `recently-added.json` directly.
 
-To add a recently-added entry, also update `recently-added.json`.
+A few rules:
+
+- Add new apps at the **end** of the `apps` array in `recently-added.json`
+- **Never remove** existing entries from that file — the automation handles overflow automatically
+- Do not edit `apps.json` or `APPS.md` manually, both are managed by the CI
 
 ## Sources
 
