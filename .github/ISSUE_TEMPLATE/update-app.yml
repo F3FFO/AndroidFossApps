@@ -1,0 +1,79 @@
+name: Update App
+description: Update an existing app entry (URL change, tags, description, etc.)
+title: "[Update] "
+labels: ["app-update"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report changes to an app already listed in the catalog.
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App Name
+      description: The exact name as it appears in the list.
+      placeholder: "e.g. My Awesome App"
+    validations:
+      required: true
+
+  - type: input
+    id: current_url
+    attributes:
+      label: Current Repository URL
+      description: The URL currently listed in the catalog.
+      placeholder: "https://github.com/username/old-repo"
+    validations:
+      required: true
+
+  - type: input
+    id: new_url
+    attributes:
+      label: New Repository URL (if changed)
+      placeholder: "https://github.com/username/new-repo"
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: What needs to be updated?
+      description: Describe what changed and what the correct values should be.
+      placeholder: |
+        e.g.:
+        - The repository moved to https://github.com/newowner/repo
+        - The app is no longer a fork
+        - Tags should include "Note" instead of "Office"
+    validations:
+      required: true
+
+  - type: textarea
+    id: new_tags
+    attributes:
+      label: Updated Tags (if changed)
+      description: |
+        Write the correct tags, one per line. Main categories:
+        2FA, Ad Blocker, App Manager, App Store, Artificial Intelligence, Backup, Battery, Browser, Calculator, Calendar, Camera, Chat & Messaging, Clock & Time, Communication, Device automation, Diary & Journal, Dictionary, Downloader & Manager, Drawing, Email, File, Finance, Flashcard, Flashlight, Games & Emulator, Icon Pack, Image, Keyboard, Launcher, Maps & Navigation, Media (Audio/Video), Network, Note, Office, Optimizer & Cleaner, Painting, Password & Authentication, Privacy, Recorder, Reader & Viewer, Research & Development, Sandboxing, Science & Education, Scanner, Shopping, Social Network, Sport & Health, Synchronisation, System, Text Editor & Code Editor/IDE, Text-to-Speech, ToDo List, Translator, URL Manipulation, Utilities, VM, VPN, Wallpaper, Weather
+      placeholder: |
+        e.g.:
+        Note
+        Synchronisation
+
+  - type: textarea
+    id: new_description
+    attributes:
+      label: Updated Description (if changed)
+      placeholder: "New description for the app."
+
+  - type: input
+    id: new_fork_url
+    attributes:
+      label: Updated Original Project URL (if fork status changed)
+      placeholder: "https://github.com/..."
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I verified the new URL is correct and accessible
+          required: true
