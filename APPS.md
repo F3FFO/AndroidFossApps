@@ -18,34 +18,31 @@
 
 <details>
 
-<summary>Last <b>26 apps</b> that were recently added to list!</summary>
+<summary>Last <b>23 apps</b> that were recently added to list!</summary>
 
-- [Updatium](https://github.com/omeritzics/Updatium)
-- [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
-- [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
-- [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
-- [Ricochlime](https://github.com/adil192/ricochlime)
-- [Orion Store](https://github.com/RookieEnough/Orion-Store)
-- [Kumo](https://github.com/nubesurrealista/Kumo)
-- [Taison](https://github.com/Gent8/Taison)
-- [TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
-- [Kahon](https://github.com/AmanoTeam/Kahon)
-- [Futon](https://github.com/AppFuton/Futon)
-- [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
-- [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
-- [Mako](https://github.com/jmiguelrivas/mako)
-- [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)
-- [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
-- [WebLibre](https://github.com/FaFre/WebLibre)
-- [searxist](https://codeberg.org/Linerly/searxist)
-- [mpvEx](https://github.com/marlboro-advance/mpvEx)
-- [Keyguard](https://github.com/AChep/keyguard-app)
-- [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
-- [PAIOS](https://github.com/Puzzaks/PAIOS)
-- [Audion](https://github.com/dupitydumb/Audion)
-- [star](https://github.com/jacojayy/star)
-- [Messages](https://github.com/PVOT-OSS/Messages)
+- [gitnote](https://github.com/wiiznokes/gitnote)
+- [Keyguard](https://github.com/AChep/keyguard-app)
+- [mpvEx](https://github.com/marlboro-advance/mpvEx)
+- [searxist](https://codeberg.org/Linerly/searxist)
+- [WebLibre](https://github.com/FaFre/WebLibre)
+- [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
+- [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)
+- [Mako](https://github.com/jmiguelrivas/mako)
+- [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
+- [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
+- [Futon](https://github.com/AppFuton/Futon)
+- [Kahon](https://github.com/AmanoTeam/Kahon)
+- [TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
+- [Taison](https://github.com/Gent8/Taison)
+- [Kumo](https://github.com/nubesurrealista/Kumo)
+- [Orion Store](https://github.com/RookieEnough/Orion-Store)
+- [Ricochlime](https://github.com/adil192/ricochlime)
+- [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
+- [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
+- [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
+- [Updatium](https://github.com/omeritzics/Updatium)
+- [Winlator](https://github.com/brunodev85/winlator)
 
 </details>
 
@@ -304,9 +301,9 @@
 ### :battery: Battery
 
 - [ACCA](https://github.com/MatteCarra/AccA) **`DEAD`**
-- [Battery Tool](https://github.com/Domi04151309/BatteryTool)
-- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
-- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
+- [Battery Tool](https://github.com/Domi04151309/BatteryTool) **`DEAD`**
+- [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro) **`DEAD`**
+- [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`DEAD`**
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Wattz](https://github.com/dubrowgn/wattz)
@@ -354,7 +351,7 @@
   - [Mull](https://gitlab.com/divested-mobile/mull-fenix) **`FORK`** **`DEAD`**
   - [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser) **`FORK`**
   - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
-- [WebLibre](https://github.com/FaFre/WebLibre)
+- [WebLibre](https://github.com/FaFre/WebLibre) **`FORK`**
 
 #### Other
 
@@ -547,6 +544,7 @@
 
 - [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android)
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
+- [Messages](https://github.com/PVOT-OSS/Messages) **`FORK`**
 - [QKSMS](https://github.com/moezbhatti/qksms)
   - [Messages](https://github.com/PVOT-OSS/Messages) **`FORK`**
   - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
@@ -864,6 +862,8 @@
 - [Rekado](https://github.com/MenosGrante/Rekado)
 - [RetroArch](https://github.com/libretro/RetroArch)
 - [star](https://github.com/jacojayy/star)
+- [Winlator](https://github.com/brunodev85/winlator)
+  - [star](https://github.com/jacojayy/star) **`FORK`**
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [Yuzu](https://github.com/yuzu-emu/yuzu)
 
@@ -1084,6 +1084,7 @@
 
 #### Music/Audio Player
 
+- [Audion](https://github.com/dupitydumb/Audion)
 - [Audion](https://github.com/dupitydumb/Audion)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
@@ -1577,8 +1578,8 @@
 ### :shopping_cart: Shopping
 
 - [Grocy](https://github.com/patzly/grocy-android)
-- [Shopin](https://github.com/erdemklync/Shopin)
-- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator)
+- [Shopin](https://github.com/erdemklync/Shopin) **`DEAD`**
+- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
