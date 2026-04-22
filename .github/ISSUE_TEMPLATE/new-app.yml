@@ -1,0 +1,102 @@
+name: New App
+description: Add a new app to the AndroidFossApps catalog
+title: "[New App] "
+labels: ["app-submission"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the details below to submit a new app.
+
+  - type: text
+    id: app_name
+    attributes:
+      label: App Name
+      placeholder: "e.g. 2048 Open Fun Game"
+    validations:
+      required: true
+
+  - type: url
+    id: repo_url
+    attributes:
+      label: Repository URL
+      placeholder: "https://github.com/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: download_urls
+    attributes:
+      label: Download URLs (optional)
+      placeholder: |
+        One per line, e.g.:
+        https://f-droid.org/app/...
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: Tags/Categories
+      placeholder: |
+        Select from the following list (one per line):
+        Communication
+        Development
+        Development Tools
+        Education
+        Games & Emulator
+        Board
+        Arcade
+        Card
+        Puzzle
+        Role Playing
+        Sports
+        Graphics
+        Imaging
+        Multimedia
+        Music & Audio
+        Navigation
+        Network
+        Office
+        PDF Viewer
+        News & Magazines
+        Reading
+        System
+        Tools
+        Utilities
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "What does this app do?"
+    validations:
+      required: true
+
+  - type: checkbox
+    id: is_fork
+    attributes:
+      label: "Is this a fork?"
+
+  - type: url
+    id: fork_url
+    attributes:
+      label: Original project URL (if fork)
+      placeholder: "https://github.com/..."
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: The app is open source
+          required: true
+        - label: The app is not already listed
+          required: true
