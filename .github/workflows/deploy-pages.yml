@@ -1,15 +1,15 @@
 name: Deploy GitHub Pages
 
 on:
-#  push:
-#    branches: [main]
-#    paths:
-#      - 'index.html'
-#      - 'css/**'
-#      - 'js/**'
-#      - 'apps.json'
-#      - 'recently-added.json'
-#      - 'scripts/generate-readme.js'
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'css/**'
+      - 'js/**'
+      - 'apps.json'
+      - 'recently-added.json'
+      - 'scripts/generate-readme.js'
   workflow_dispatch:
 
 permissions:
