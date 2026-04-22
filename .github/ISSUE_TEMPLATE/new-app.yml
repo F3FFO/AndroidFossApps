@@ -2,7 +2,6 @@ name: New App
 description: Add a new app to the AndroidFossApps catalog
 title: "[New App] "
 labels: ["app-submission"]
-assignees: []
 
 body:
   - type: markdown
@@ -10,19 +9,19 @@ body:
       value: |
         Fill in the details below to submit a new app.
 
-  - type: text
+  - type: input
     id: app_name
     attributes:
       label: App Name
-      placeholder: "e.g. 2048 Open Fun Game"
+      placeholder: "e.g. My Awesome App"
     validations:
       required: true
 
-  - type: url
+  - type: input
     id: repo_url
     attributes:
       label: Repository URL
-      placeholder: "https://github.com/..."
+      placeholder: "https://github.com/username/my-awesome-app"
     validations:
       required: true
 
@@ -37,7 +36,7 @@ body:
   - type: textarea
     id: tags
     attributes:
-      label: Tags/Categories
+      label: Tags
       placeholder: |
         Select from the following list (one per line):
         Communication
@@ -75,12 +74,14 @@ body:
     validations:
       required: true
 
-  - type: checkbox
+  - type: checkboxes
     id: is_fork
     attributes:
-      label: "Is this a fork?"
+      label: Fork
+      options:
+        - label: This app is a fork of another project
 
-  - type: url
+  - type: input
     id: fork_url
     attributes:
       label: Original project URL (if fork)
