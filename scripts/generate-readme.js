@@ -200,7 +200,7 @@ function buildReadme() {
     const emoji = TAG_EMOJI[section] || '';
     const prefix = emoji ? emoji + ' ' : '';
     const warning = WARNING_TAGS.includes(section) ? ' :warning:' : '';
-    md += `- [${prefix}${section}${warning}](#${sectionAnchor(section)})\n`;
+    md += `- [${prefix}${section}${warning}](#${sectionAnchor(prefix + section)})\n`;
     if (SUB_SECTIONS[section]) {
       for (const sub of SUB_SECTIONS[section]) {
         const subWarning = WARNING_TAGS.includes(sub) ? ' :warning:' : '';
