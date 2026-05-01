@@ -3532,7 +3532,7 @@
     "applicationName": "ForgetMeNot",
     "url": "https://github.com/tema6120/ForgetMeNot",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Flashcard"
@@ -8190,7 +8190,7 @@
     "applicationName": "Phonograph Plus",
     "url": "https://github.com/chr56/Phonograph_Plus",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
