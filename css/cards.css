@@ -141,6 +141,7 @@ a.badge-fork:hover {
 }
 
 .app-tag {
+  cursor: pointer;
   display: inline-flex;
   align-items: center;
   gap: 3px;
