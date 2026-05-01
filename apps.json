@@ -286,18 +286,6 @@
     "description": ""
   },
   {
-    "applicationName": "An Light | Flashlight",
-    "url": "https://github.com/neophtex/An-Light-Flashlight",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Flashlight"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Anchr for Android",
     "url": "https://github.com/muety/anchr-android",
     "downloadUrl": [],
@@ -1043,18 +1031,6 @@
     "description": ""
   },
   {
-    "applicationName": "BeHe Keyboard",
-    "url": "https://github.com/VladThodo/behe-keyboards",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Keyboard"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Bim",
     "url": "https://github.com/j-jorge/bim",
     "downloadUrl": [],
@@ -1124,19 +1100,6 @@
     "isFork": false,
     "tags": [
       "Chat & Messaging"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "BlackHole",
-    "url": "https://github.com/Sangwan5688/BlackHole",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Media (Audio/Video)",
-      "Music/Audio Player"
     ],
     "urlFork": null,
     "description": ""
@@ -1663,18 +1626,6 @@
     "description": ""
   },
   {
-    "applicationName": "Cleaner Plus",
-    "url": "https://github.com/D4rK7355608/com.d4rk.cleaner.plus",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Optimizer & Cleaner"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Clima",
     "url": "https://github.com/Lacerte/clima",
     "downloadUrl": [],
@@ -1682,18 +1633,6 @@
     "isFork": false,
     "tags": [
       "Weather"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Clipboard Cleaner",
-    "url": "https://github.com/thatsmanmeet/Clipboard-Cleaner",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Privacy"
     ],
     "urlFork": null,
     "description": ""
@@ -1886,18 +1825,6 @@
     "description": ""
   },
   {
-    "applicationName": "Conversations",
-    "url": "https://github.com/siacs/Conversations",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Chat & Messaging"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Conversations Classic",
     "url": "https://dev.narayana.im/narayana/conversations-classic",
     "downloadUrl": [],
@@ -2065,19 +1992,6 @@
     "url": "https://github.com/JICA98/DailyAL",
     "downloadUrl": [],
     "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Dantotsu",
-    "url": "https://github.com/rebelonion/Dantotsu",
-    "downloadUrl": [],
-    "isDead": true,
     "isFork": false,
     "tags": [
       "Reader & Viewer",
@@ -2588,18 +2502,6 @@
     "description": ""
   },
   {
-    "applicationName": "DroidVim",
-    "url": "https://github.com/shiftrot/droidvim",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Text Editor & Code Editor/IDE"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "DSU Sideloader",
     "url": "https://github.com/VegaBobo/DSU-Sideloader",
     "downloadUrl": [],
@@ -2797,18 +2699,6 @@
     "isFork": false,
     "tags": [
       "Launcher"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Emoji Kitchen",
-    "url": "https://github.com/jeeneo/kitchen",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "System"
     ],
     "urlFork": null,
     "description": ""
@@ -3567,18 +3457,6 @@
     "description": ""
   },
   {
-    "applicationName": "Fossify App Launcher",
-    "url": "https://github.com/FossifyOrg/App-Launcher",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Launcher"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Fossify Calculator",
     "url": "https://github.com/FossifyOrg/Calculator",
     "downloadUrl": [],
@@ -4026,19 +3904,6 @@
     "description": ""
   },
   {
-    "applicationName": "Geomag",
-    "url": "https://github.com/ya0211/Geomag",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Maps & Navigation",
-      "Science & Education"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Geoperion",
     "url": "https://github.com/vulnerabbity/Geoperion",
     "downloadUrl": [],
@@ -4108,18 +3973,6 @@
     "isFork": false,
     "tags": [
       "Science & Education"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "GlassDown",
-    "url": "https://github.com/RomanK2311/glassdown",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "App Store"
     ],
     "urlFork": null,
     "description": ""
@@ -4448,19 +4301,6 @@
     "tags": [
       "Media (Audio/Video)",
       "Music"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Hentoid",
-    "url": "https://github.com/avluis/Hentoid",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Reader & Viewer",
-      "Manga & Anime"
     ],
     "urlFork": null,
     "description": ""
@@ -5499,18 +5339,6 @@
     "description": ""
   },
   {
-    "applicationName": "LibreOffice Viewer",
-    "url": "https://cgit.freedesktop.org/libreoffice/core/tree",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Office"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "LibrePass",
     "url": "https://github.com/LibrePass/LibrePass-Android",
     "downloadUrl": [],
@@ -5889,18 +5717,6 @@
     "tags": [
       "Media (Audio/Video)",
       "Music/Audio Player"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Loverquest",
-    "url": "https://github.com/H3rz3n/loverquest",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator"
     ],
     "urlFork": null,
     "description": ""
@@ -7678,19 +7494,6 @@
   },
   {
     "applicationName": "OpenCord",
-    "url": "https://github.com/topminipie/OpenCord",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Social Network",
-      "Discord"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "OpenCord",
     "url": "https://github.com/MateriiApps/OpenCord",
     "downloadUrl": [],
     "isDead": true,
@@ -8109,19 +7912,6 @@
     "description": ""
   },
   {
-    "applicationName": "Pdf Viewer Plus",
-    "url": "https://github.com/JavaCafe01/PdfViewer",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Reader & Viewer",
-      "PDF"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Permission Pilot",
     "url": "https://github.com/d4rken-org/permission-pilot",
     "downloadUrl": [],
@@ -8503,19 +8293,6 @@
     "description": ""
   },
   {
-    "applicationName": "Privacy Friendly QR Scanner",
-    "url": "https://github.com/jaikeerthick/Pixel-Scanner",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Scanner",
-      "QR & Barcode Scanner"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Privacy Indicator",
     "url": "https://github.com/NitishGadangi/Privacy-Indicator-App",
     "downloadUrl": [],
@@ -8523,19 +8300,6 @@
     "isFork": false,
     "tags": [
       "Privacy"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "PrivacyBlur",
-    "url": "https://github.com/MATHEMA-GmbH/privacyblur",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Image",
-      "Image Manipulation"
     ],
     "urlFork": null,
     "description": ""
@@ -8653,19 +8417,6 @@
     "description": ""
   },
   {
-    "applicationName": "Quacker",
-    "url": "https://github.com/TheHCJ/Quacker",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Social Network",
-      "X(Twitter)"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "Quick Calculation",
     "url": "https://github.com/SubhamTyagi/quick-calculation",
     "downloadUrl": [],
@@ -8724,19 +8475,6 @@
     "tags": [
       "Media (Audio/Video)",
       "YouTube"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Raccoon for Lemmy",
-    "url": "https://github.com/diegoberaldin/RaccoonForLemmy",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Social Network",
-      "Lemmy"
     ],
     "urlFork": null,
     "description": ""
@@ -9637,18 +9375,6 @@
   {
     "applicationName": "Shopin",
     "url": "https://github.com/erdemklync/Shopin",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Shopping"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Shopping Cart Calculator",
-    "url": "https://github.com/D4rK7355608/com.d4rk.cartcalculator",
     "downloadUrl": [],
     "isDead": true,
     "isFork": false,
@@ -10832,19 +10558,6 @@
     "description": ""
   },
   {
-    "applicationName": "Termux Monet",
-    "url": "https://github.com/HardcodedCat/termux-monet",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": true,
-    "tags": [
-      "System",
-      "Terminal"
-    ],
-    "urlFork": "https://github.com/termux/termux-app",
-    "description": ""
-  },
-  {
     "applicationName": "Tessel",
     "url": "https://github.com/gvtulder/tessel",
     "downloadUrl": [],
@@ -10991,20 +10704,6 @@
     "tags": [
       "Clock & Time",
       "Timer"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Tool Telegram",
-    "url": "https://github.com/trindadedev13/Tool-Telegram",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Chat & Messaging",
-      "Telegram",
-      "Tools"
     ],
     "urlFork": null,
     "description": ""
@@ -12087,19 +11786,6 @@
     "description": ""
   },
   {
-    "applicationName": "wuziqi",
-    "url": "https://github.com/iacobo/wuziqi",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator",
-      "Board"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "X Signer",
     "url": "https://github.com/yamenher/x-signer",
     "downloadUrl": [],
@@ -12295,19 +11981,6 @@
     "isFork": false,
     "tags": [
       "2FA"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Yuzu",
-    "url": "https://github.com/yuzu-emu/yuzu",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Games & Emulator",
-      "Emulators"
     ],
     "urlFork": null,
     "description": ""
