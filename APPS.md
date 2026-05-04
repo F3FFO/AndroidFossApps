@@ -18,7 +18,7 @@
 
 <details>
 
-<summary>Last <b>23 apps</b> that were recently added to list!</summary>
+<summary>Last <b>24 apps</b> that were recently added to list!</summary>
 
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [gitnote](https://github.com/wiiznokes/gitnote)
@@ -43,6 +43,7 @@
 - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 - [Updatium](https://github.com/omeritzics/Updatium)
 - [Winlator](https://github.com/brunodev85/winlator)
+- [Booming Music](https://github.com/mardous/BoomingMusic)
 
 </details>
 
@@ -783,7 +784,7 @@
   - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) **`FORK`** **`DEAD`**
   - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) **`FORK`** **`DEAD`**
 - [Flash Deck](https://github.com/rh-id/a-flash-deck)
-- [ForgetMeNot](https://github.com/tema6120/ForgetMeNot)
+- [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) **`DEAD`**
 - [Yokatta](https://github.com/uestueab/app-thesis) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -1108,7 +1109,7 @@
 - [Odeon](https://github.com/thibseisel/android-odeon)
 - [Odyssey](https://github.com/gateship-one/odyssey)
 - [phiola](https://github.com/stsaz/phiola)
-- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus) **`DEAD`**
+- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 - [PixelPlay](https://github.com/theovilardo/PixelPlay)
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
 - [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
