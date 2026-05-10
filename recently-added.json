@@ -302,6 +302,18 @@
       ],
       "urlFork": null,
       "description": "Booming Music is a modern and powerful local music player for Android, designed for a smooth, customizable, and visually appealing experience. Built with Material You design and powered by Media3, it combines simplicity with advanced playback features."
+    },
+    {
+      "applicationName": "PDF Reader Pro",
+      "url": "https://github.com/ahmmedrejowan/PdfReaderPro",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "PDF"
+      ],
+      "urlFork": null,
+      "description": "A feature-rich, privacy-focused PDF app built with Jetpack Compose and Material 3. View, edit, and manage PDFs with 12 powerful tools."
     }
   ]
 }
