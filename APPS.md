@@ -18,7 +18,7 @@
 
 <details>
 
-<summary>Last <b>24 apps</b> that were recently added to list!</summary>
+<summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [gitnote](https://github.com/wiiznokes/gitnote)
@@ -44,6 +44,7 @@
 - [Updatium](https://github.com/omeritzics/Updatium)
 - [Winlator](https://github.com/brunodev85/winlator)
 - [Booming Music](https://github.com/mardous/BoomingMusic)
+- [PDF Reader Pro](https://github.com/ahmmedrejowan/PdfReaderPro)
 
 </details>
 
@@ -1456,6 +1457,7 @@
 
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
 - [MuPDF](https://github.com/ArtifexSoftware/mupdf-android-viewer)
+- [PDF Reader Pro](https://github.com/ahmmedrejowan/PdfReaderPro)
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer) **`DEAD`**
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
