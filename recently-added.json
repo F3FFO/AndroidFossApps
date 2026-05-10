@@ -287,6 +287,33 @@
       ],
       "urlFork": null,
       "description": "Android application for running Windows applications with Wine and Box86/Box64 "
+    },
+    {
+      "applicationName": "Booming Music",
+      "url": "https://github.com/mardous/BoomingMusic",
+      "downloadUrl": [
+        "https://f-droid.org/packages/com.mardous.booming/",
+        "https://apt.izzysoft.de/packages/com.mardous.booming/"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Media"
+      ],
+      "urlFork": null,
+      "description": "Booming Music is a modern and powerful local music player for Android, designed for a smooth, customizable, and visually appealing experience. Built with Material You design and powered by Media3, it combines simplicity with advanced playback features."
+    },
+    {
+      "applicationName": "PDF Reader Pro",
+      "url": "https://github.com/ahmmedrejowan/PdfReaderPro",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "PDF"
+      ],
+      "urlFork": null,
+      "description": "A feature-rich, privacy-focused PDF app built with Jetpack Compose and Material 3. View, edit, and manage PDFs with 12 powerful tools."
     }
   ]
 }

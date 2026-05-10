@@ -1,3 +1,4 @@
+import { activeTags, refreshBadge, render } from './app.js';
 import { iconFor } from './icons.js';
 
 const HOST_LABELS = [
@@ -106,6 +107,12 @@ function buildTags(tags) {
     chip.className = 'app-tag';
     chip.append(ico(iconFor(t)), t);
     row.appendChild(chip);
+
+    chip.addEventListener('click', () => {
+      activeTags.has(t) ? activeTags.delete(t) : activeTags.add(t);
+      refreshBadge();
+      render();
+    });
   }
   return row;
 }

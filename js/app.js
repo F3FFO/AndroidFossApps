@@ -1,9 +1,12 @@
-import * as theme from './theme.js';
 import { createCard } from './cards.js';
 import {
-  buildTagChips, filterChips, updateBadge,
-  setupDropdown, clearTagSelection
+  buildTagChips,
+  clearTagSelection,
+  filterChips,
+  setupDropdown,
+  updateBadge
 } from './filters.js';
+import * as theme from './theme.js';
 
 const el = id => document.getElementById(id);
 
@@ -25,7 +28,7 @@ const themeToggle     = el('themeToggle');
 
 let apps = [];
 let recentUrls = new Set();
-let activeTags = new Set();
+export let activeTags = new Set();
 let search = '';
 let hideDead = false;
 let hideForks = false;
@@ -62,7 +65,7 @@ function getFiltered() {
   });
 }
 
-function render() {
+export function render() {
   const list = getFiltered();
 
   resultsCount.textContent = `${list.length} of ${apps.length} apps`;
@@ -76,7 +79,7 @@ function render() {
   appGrid.replaceChildren(frag);
 }
 
-function refreshBadge() {
+export function refreshBadge() {
   updateBadge(filterBadge, activeFilterCount());
 }
 
