@@ -786,7 +786,7 @@
     "applicationName": "AudioNote",
     "url": "https://github.com/certified84/AudioNote",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Recorder"
@@ -4983,7 +4983,7 @@
     "applicationName": "Koler",
     "url": "https://github.com/Chooloo/koler",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Communication",
@@ -11152,7 +11152,7 @@
     "applicationName": "Unlock Jam",
     "url": "https://github.com/vayun-mathur/unblock-jam",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
