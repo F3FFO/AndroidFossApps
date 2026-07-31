@@ -7456,6 +7456,18 @@
     "description": ""
   },
   {
+    "applicationName": "OpenCalc",
+    "url": "https://github.com/clementwzk/OpenCalc",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Calculator"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
     "applicationName": "OpenContacts",
     "url": "https://gitlab.com/sultanahamer/OpenContacts",
     "downloadUrl": [],
