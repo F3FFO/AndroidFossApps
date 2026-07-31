@@ -200,7 +200,6 @@
 ### :question: IDK
 
 - [Logline](https://github.com/Patch4Code/Logline)
-- [WhatToWatch](https://github.com/theo-mesnil/WhatToWatch)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -388,7 +387,7 @@
 - [MathCalculator](https://github.com/v1tzor/MathCalculator) **`DEAD`**
 - [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`DEAD`**
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
-- [OpenCalc](https://github.com/Darkempire78/OpenCalc)
+- [OpenCalc](https://github.com/clementwzk/OpenCalc)
 - [Unitto](https://github.com/sadellie/unitto)
   - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
@@ -534,7 +533,7 @@
 
 - [Amadz](https://github.com/msusman1/Amadz)
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
-- [Koler](https://github.com/Chooloo/koler)
+- [Koler](https://github.com/Chooloo/koler) **`DEAD`**
 - [Right Dialer](https://github.com/Goodwy/Dialer)
 - [Welefon](https://codeberg.org/wivewa/wivewa-dialer-android)
 
@@ -875,7 +874,7 @@
 - [Antimine](https://github.com/lucasnlm/antimine-android)
 - [Block Drop](https://github.com/brandonp2412/BlockDrop)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
-- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
+- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam) **`DEAD`**
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 #### Snake
@@ -965,7 +964,7 @@
 - [FutharkBoard](https://git.tjdev.de/DrMaxNix/futharkboard)
 - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard)
 - [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard)
-- [KryptEY](https://github.com/amnesica/KryptEY)
+- [KryptEY](https://github.com/amnesica/KryptEY) **`DEAD`**
 - [N Keyboard](https://github.com/arunk140/nth-kbd)
 - [nicoWnnG](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html)
 - [OpenBoard](https://github.com/dslul/openboard) **`DEAD`**
@@ -1200,7 +1199,7 @@
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`DEAD`**
 - [Vibe You](https://github.com/you-apps/VibeYou) **`DEAD`**
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`DEAD`**
-  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`**
+  - [Guitarist](https://github.com/Colorata/Guitarist) **`FORK`** **`DEAD`**
   - [Kreate](https://github.com/knighthat/Kreate) **`FORK`**
   - [Music You](https://github.com/DanielSevillano/music-you) **`FORK`**
 - [You-Tune](https://github.com/SuhasDissa/You-Tune) **`DEAD`**
@@ -1326,7 +1325,6 @@
 ### :computer: Office
 
 - [Collabora Office](https://www.collaboraoffice.com/downloads/Collabora-Office-Android-Snapshot/)
-- [ONLYOFFICE](https://github.com/ONLYOFFICE/documents-app-android)
 - [OpenDocument](https://github.com/opendocument-app/OpenDocument.droid)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
@@ -1381,7 +1379,7 @@
 ### :lock: Privacy
 
 - [AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
-- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker)
+- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) **`DEAD`**
 - [AppLock](https://github.com/PranavPurwar/AppLock)
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit)
@@ -1413,7 +1411,7 @@
 
 - [Alibi](https://github.com/Myzel394/Alibi)
 - [Audio Recorder](https://gitlab.com/axet/android-audio-recorder)
-- [AudioNote](https://github.com/certified84/AudioNote)
+- [AudioNote](https://github.com/certified84/AudioNote) **`DEAD`**
 - [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
 - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder)
@@ -1453,7 +1451,7 @@
 - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
 - [DailyAL](https://github.com/JICA98/DailyAL)
-- [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
+- [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`** **`DEAD`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`DEAD`**
@@ -1821,7 +1819,7 @@
 - [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide)
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
-- [Ghosts IDE](https://github.com/HanzoDev1375/Ghostide)
+- [Ghosts IDE](https://github.com/HanzoDev1375/Ghostide) **`DEAD`**
 - [Markor](https://github.com/gsantner/markor)
 - [Orgro](https://github.com/amake/orgro)
 - [Squircle CE](https://github.com/massivemadness/Squircle-CE)
