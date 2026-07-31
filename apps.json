@@ -7382,18 +7382,6 @@
     "description": ""
   },
   {
-    "applicationName": "ONLYOFFICE",
-    "url": "https://github.com/ONLYOFFICE/documents-app-android",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Office"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "OONI Probe",
     "url": "https://github.com/ooni/probe-android",
     "downloadUrl": [],
@@ -7469,7 +7457,7 @@
   },
   {
     "applicationName": "OpenCalc",
-    "url": "https://github.com/Darkempire78/OpenCalc",
+    "url": "https://github.com/clementwzk/OpenCalc",
     "downloadUrl": [],
     "isDead": false,
     "isFork": false,
@@ -11672,18 +11660,6 @@
     "tags": [
       "Sport & Health",
       "Tracker"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "WhatToWatch",
-    "url": "https://github.com/theo-mesnil/WhatToWatch",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "IDK"
     ],
     "urlFork": null,
     "description": ""
