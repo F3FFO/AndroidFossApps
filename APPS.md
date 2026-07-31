@@ -701,7 +701,7 @@
 - [K-9 Mail/Thunderbird Android](https://github.com/thunderbird/thunderbird-android)
   - [monocles mail](https://codeberg.org/Arne/monocles_mail) **`FORK`**
 - [Ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android)
-- [Proton Mail](https://github.com/ProtonMail/proton-mail-android) **`DEAD`**
+- [Proton Mail](https://github.com/ProtonMail/android-mail)
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-Android)
 - [Tutanota](https://github.com/tutao/tutanota)
 

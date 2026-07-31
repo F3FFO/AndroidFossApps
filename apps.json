@@ -8306,9 +8306,9 @@
   },
   {
     "applicationName": "Proton Mail",
-    "url": "https://github.com/ProtonMail/proton-mail-android",
+    "url": "https://github.com/ProtonMail/android-mail",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Email",
