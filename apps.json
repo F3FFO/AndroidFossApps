@@ -935,7 +935,7 @@
     "applicationName": "AyuGram for Android",
     "url": "https://github.com/AyuGram/AyuGram4A",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -2293,7 +2293,7 @@
     "applicationName": "Discreet Launcher",
     "url": "https://github.com/falzonv/discreet-launcher",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Launcher"
@@ -2505,7 +2505,7 @@
     "applicationName": "DSU Sideloader",
     "url": "https://github.com/VegaBobo/DSU-Sideloader",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "System",
@@ -5342,7 +5342,7 @@
     "applicationName": "LibrePass",
     "url": "https://github.com/LibrePass/LibrePass-Android",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -5912,7 +5912,7 @@
     "applicationName": "Mavinote",
     "url": "https://github.com/bwqr/mavinote",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -7409,7 +7409,7 @@
     "applicationName": "Open Chaos Chess",
     "url": "https://github.com/CorruptedArk/open-chaos-chess",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
@@ -8357,7 +8357,7 @@
     "applicationName": "qBittorrent-Manager",
     "url": "https://github.com/Yash-Garg/qBittorrent-Manager",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Downloader & Manager",
@@ -10121,7 +10121,7 @@
     "applicationName": "SubTune",
     "url": "https://github.com/TaylorKunZhang/SubTune",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -10574,7 +10574,7 @@
     "applicationName": "The Translator",
     "url": "https://github.com/sunilpaulmathew/Translator",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Translator"
@@ -10949,7 +10949,7 @@
     "applicationName": "Tubular",
     "url": "https://github.com/polymorphicshade/Tubular",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Media (Audio/Video)",
@@ -11927,7 +11927,7 @@
     "applicationName": "YouTube lite",
     "url": "https://github.com/HydeYYHH/YouTube-lite",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
