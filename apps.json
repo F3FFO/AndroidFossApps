@@ -2603,19 +2603,6 @@
     "description": ""
   },
   {
-    "applicationName": "Echo",
-    "url": "https://github.com/iad1tya/Echo-Music",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Media (Audio/Video)",
-      "YouTube Music"
-    ],
-    "urlFork": "https://github.com/maxrave-dev/SimpMusic",
-    "description": ""
-  },
-  {
     "applicationName": "EdgeSeek",
     "url": "https://github.com/LSafer/edgeseek",
     "downloadUrl": [],
@@ -2675,18 +2662,6 @@
     "tags": [
       "Chat & Messaging",
       "Matrix"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Emacs",
-    "url": "https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Text Editor & Code Editor/IDE"
     ],
     "urlFork": null,
     "description": ""
