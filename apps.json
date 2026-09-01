@@ -998,7 +998,7 @@
     "applicationName": "BatteryBot Pro",
     "url": "https://github.com/darshan-/Battery-Indicator-Pro",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Battery"
@@ -2305,7 +2305,7 @@
     "applicationName": "DNS66",
     "url": "https://github.com/julian-klode/dns66",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Ad Blocker",
@@ -4873,7 +4873,7 @@
     "applicationName": "Kenko",
     "url": "https://github.com/Iamlooker/Kenko",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Sport & Health",
@@ -5342,7 +5342,7 @@
     "applicationName": "LibrePass",
     "url": "https://github.com/LibrePass/LibrePass-Android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Password & Authentication"
@@ -5863,7 +5863,7 @@
     "applicationName": "Material3 Notes",
     "url": "https://github.com/KrishnarajaSagar/NotesAppCompose",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -6898,7 +6898,7 @@
     "applicationName": "Nobook",
     "url": "https://github.com/ycngmn/Nobook",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Social Network",
@@ -7011,7 +7011,7 @@
     "applicationName": "Noterly",
     "url": "https://github.com/tomc128/noterly",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -8120,7 +8120,7 @@
     "applicationName": "Pluvia Weather",
     "url": "https://github.com/SpicyChair/pluvia_weather_flutter",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Weather"
@@ -10445,7 +10445,7 @@
     "applicationName": "Telegraher",
     "url": "https://github.com/nikitasius/Telegraher/",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": true,
     "tags": [
       "Chat & Messaging",
@@ -10586,7 +10586,7 @@
     "applicationName": "Thorium",
     "url": "https://github.com/Alex313031/Thorium-Android",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Browser",
@@ -10923,7 +10923,7 @@
     "applicationName": "Tsacdop",
     "url": "https://github.com/stonega/tsacdop",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
