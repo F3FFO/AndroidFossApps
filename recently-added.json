@@ -314,6 +314,20 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Fokus Launcher",
+      "url": "https://github.com/luantak/FokusLauncher",
+      "downloadUrl": [
+        "https://f-droid.org/packages/io.github.luantak.fokuslauncher/"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": "A minimal, text-based Android launcher with app search, categories, gestures, and optional weather."
     }
   ]
 }
