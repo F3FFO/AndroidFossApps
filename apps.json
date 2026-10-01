@@ -289,7 +289,7 @@
     "applicationName": "Anchr for Android",
     "url": "https://github.com/muety/anchr-android",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Network",
@@ -998,7 +998,7 @@
     "applicationName": "BatteryBot Pro",
     "url": "https://github.com/darshan-/Battery-Indicator-Pro",
     "downloadUrl": [],
-    "isDead": true,
+    "isDead": false,
     "isFork": false,
     "tags": [
       "Battery"
@@ -5255,7 +5255,7 @@
     "applicationName": "Lentil Translate",
     "url": "https://github.com/yaxarat/lingvaandroid",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Translator"
@@ -7071,7 +7071,7 @@
     "applicationName": "Noto",
     "url": "https://github.com/alialbaali/Noto",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Note"
@@ -7260,7 +7260,7 @@
     "applicationName": "Odeon",
     "url": "https://github.com/thibseisel/android-odeon",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Media (Audio/Video)",
@@ -8345,7 +8345,7 @@
     "applicationName": "PxerStudio",
     "url": "https://github.com/BennyKok/PxerStudio",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Drawing"
@@ -9605,7 +9605,7 @@
     "applicationName": "Simple WOL",
     "url": "https://github.com/herzhenr/simple-wake-on-lan",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "System"
@@ -10649,7 +10649,7 @@
     "applicationName": "TicTacToe",
     "url": "https://github.com/kafri8889/Compose-TicTacToe",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Games & Emulator",
