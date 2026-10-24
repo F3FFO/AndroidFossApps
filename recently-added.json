@@ -314,6 +314,21 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Easemic",
+      "url": "https://github.com/dirtyfancy/easemic",
+      "downloadUrl": [
+        "https://easemic.com/api/app/download"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Reader & Viewer",
+        "Manga & Anime"
+      ],
+      "urlFork": null,
+      "description": "Comic and manga reader that streams straight from cloud storage you own (Cloudflare R2, Bunny, Backblaze B2, WebDAV, Google Drive, OneDrive) with client-side encryption and OPDS support."
     }
   ]
 }
