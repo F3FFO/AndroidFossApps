@@ -2,18 +2,6 @@
   "_comment": "WARNING: Do NOT remove entries from this list. Always add new apps at the END of the 'apps' array. The rotation script will automatically move the oldest entries to apps.json when the list exceeds 25.",
   "apps": [
     {
-      "applicationName": "gitnote",
-      "url": "https://github.com/wiiznokes/gitnote",
-      "downloadUrl": [],
-      "isDead": false,
-      "isFork": false,
-      "tags": [
-        "Note"
-      ],
-      "urlFork": null,
-      "description": ""
-    },
-    {
       "applicationName": "Keyguard",
       "url": "https://github.com/AChep/keyguard-app",
       "downloadUrl": [],
