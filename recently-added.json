@@ -314,6 +314,19 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Spectre",
+      "url": "https://github.com/thomasbuilds/Spectre",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "System",
+        "Network & Security"
+      ],
+      "urlFork": null,
+      "description": "Radio frequency scanner with recon and offensive capabilities"
     }
   ]
 }
