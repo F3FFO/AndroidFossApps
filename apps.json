@@ -783,6 +783,19 @@
     "description": ""
   },
   {
+    "applicationName": "Audion",
+    "url": "https://github.com/dupitydumb/Audion",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Media (Audio/Video)",
+      "Music/Audio Player"
+    ],
+    "urlFork": null,
+    "description": "An open-source music player for your local library featuring synchronized lyrics, themes, and plugins."
+  },
+  {
     "applicationName": "AudioNote",
     "url": "https://github.com/certified84/AudioNote",
     "downloadUrl": [],
@@ -3978,6 +3991,18 @@
     "description": ""
   },
   {
+    "applicationName": "gitnote",
+    "url": "https://github.com/wiiznokes/gitnote",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Note"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
     "applicationName": "Global Icon Pack",
     "url": "https://github.com/RichardLuo0/global-icon-pack-android",
     "downloadUrl": [],
@@ -6020,6 +6045,19 @@
     "description": ""
   },
   {
+    "applicationName": "Messages",
+    "url": "https://github.com/PVOT-OSS/Messages",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": true,
+    "tags": [
+      "Communication",
+      "SMS"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
     "applicationName": "Metadata Remover",
     "url": "https://github.com/Crazy-Marvin/MetadataRemover",
     "downloadUrl": [],
@@ -7809,6 +7847,18 @@
     "tags": [
       "Social Network",
       "Mastodon"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
+    "applicationName": "PAIOS",
+    "url": "https://github.com/Puzzaks/PAIOS",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Artificial Intelligence"
     ],
     "urlFork": null,
     "description": ""
@@ -9954,6 +10004,19 @@
     "description": ""
   },
   {
+    "applicationName": "SpotiFLAC-Mobile",
+    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Downloader & Manager",
+      "Music"
+    ],
+    "urlFork": null,
+    "description": ""
+  },
+  {
     "applicationName": "SpotiFlyer",
     "url": "https://github.com/Shabinder/SpotiFlyer",
     "downloadUrl": [],
@@ -10053,6 +10116,19 @@
     ],
     "urlFork": null,
     "description": ""
+  },
+  {
+    "applicationName": "star",
+    "url": "https://github.com/jacojayy/star",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": true,
+    "tags": [
+      "Games & Emulator",
+      "Emulators"
+    ],
+    "urlFork": "https://github.com/brunodev85/winlator",
+    "description": "star - An application that lets you run Windows applications via Wine and box64/86 on Android."
   },
   {
     "applicationName": "Stealth",
@@ -12055,70 +12131,6 @@
     "isFork": false,
     "tags": [
       "Maps & Navigation"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Messages",
-    "url": "https://github.com/PVOT-OSS/Messages",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Communication",
-      "SMS"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "star",
-    "url": "https://github.com/jacojayy/star",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Games & Emulator",
-      "Emulators"
-    ],
-    "urlFork": "https://github.com/brunodev85/winlator",
-    "description": "star - An application that lets you run Windows applications via Wine and box64/86 on Android."
-  },
-  {
-    "applicationName": "Audion",
-    "url": "https://github.com/dupitydumb/Audion",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Media (Audio/Video)",
-      "Music/Audio Player"
-    ],
-    "urlFork": null,
-    "description": "An open-source music player for your local library featuring synchronized lyrics, themes, and plugins."
-  },
-  {
-    "applicationName": "PAIOS",
-    "url": "https://github.com/Puzzaks/PAIOS",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "SpotiFLAC-Mobile",
-    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Downloader & Manager",
-      "Music"
     ],
     "urlFork": null,
     "description": ""
