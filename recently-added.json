@@ -314,6 +314,16 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Outro",
+      "url": "https://github.com/jazzy1133/outro",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": ["Media (Audio/Video)", "Subsonic Client"],
+      "urlFork": null,
+      "description": "A modern Subsonic/Navidrome Android music client with Android Auto and speaker casting."
     }
   ]
 }
