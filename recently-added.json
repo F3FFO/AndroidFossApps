@@ -314,6 +314,22 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Pomelu",
+      "url": "https://github.com/ateymoori/pomelu",
+      "downloadUrl": [
+        "https://github.com/ateymoori/pomelu/releases/latest",
+        "https://play.google.com/store/apps/details?id=se.royan.pomelu"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Artificial Intelligence",
+        "Chat & Messaging"
+      ],
+      "urlFork": null,
+      "description": "Open-source (Apache-2.0) Flutter client for Hermes Agent. Chat with your self-hosted AI agent from your phone, tablet or foldable, with voice, file sharing and tool-call approvals."
     }
   ]
 }
