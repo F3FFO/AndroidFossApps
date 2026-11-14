@@ -314,6 +314,21 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Armbat",
+      "url": "https://github.com/dima-xd/armbat",
+      "downloadUrl": [
+        "https://github.com/dima-xd/armbat/releases/latest"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Emulator",
+        "System"
+      ],
+      "urlFork": null,
+      "description": "Runs 32-bit ARMv7 Android apps on 64-bit-only devices that have no 32-bit ABI, without root. Guest Java runs on the host ART; guest native code is translated A32 to ARM64 by a JIT built on Dynarmic, with its own ELF32 loader, Linux ARM EABI syscall layer and a real bionic userspace from an official armeabi-v7a image."
     }
   ]
 }
