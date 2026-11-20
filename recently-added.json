@@ -314,6 +314,18 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "RideDeck",
+      "url": "https://github.com/yigitbuyukeren/ridedeck",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Maps & Navigation"
+      ],
+      "urlFork": null,
+      "description": "A motorcycle-first driving dashboard for Android with GPS speed, voice-guided navigation, media controls, and trip history."
     }
   ]
 }
