@@ -314,6 +314,35 @@
       ],
       "urlFork": null,
       "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
+    },
+    {
+      "applicationName": "Material Prayer Times",
+      "url": "https://github.com/2plus1star/material-prayer-times",
+      "downloadUrl": [
+        "https://github.com/2plus1star/material-prayer-times/releases"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Other"
+      ],
+      "urlFork": null,
+      "description": "Offline prayer times, qibla compass and Hijri date, calculated on device with no account or server."
+    },
+    {
+      "applicationName": "Material Quran",
+      "url": "https://github.com/2plus1star/material-quran",
+      "downloadUrl": [
+        "https://github.com/2plus1star/material-quran/releases"
+      ],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Reader & Viewer",
+        "Media (Audio/Video)"
+      ],
+      "urlFork": null,
+      "description": "Quran reader with the Uthmani text, English translation and tajweed colouring bundled in, plus optional recitation audio."
     }
   ]
 }
